@@ -115,7 +115,7 @@ training_args = TrainingArguments(
 trainer = Trainer(
     model=base_model,
     args=training_args,
-    total_steps=max_steps,
+    #total_steps=max_steps,
     train_dataset=medqa_train,
     eval_dataset=medqa_validation
 )
