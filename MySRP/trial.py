@@ -15,7 +15,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments,
 logger = logging.getLogger(__name__)
 global_config = None
 
-medqa_path = "bigbio/med_qa"
+# medqa_path = "bigbio/med_qa"
+medqa_path = 'lamini/lamini_docs'
 use_hf = True
 model_name = "meta-llama/Llama-2-7b-chat-hf"
 medqa_train = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="train")
@@ -45,7 +46,7 @@ base_model.to(device)
 
 # inference function
 
-def inference(text, model, tokenizer, max_input_tokens=500, max_output_tokens=100):
+def inference(text, model, tokenizer, max_input_tokens=1000, max_output_tokens=100):
     # tokenize
     input_ids = tokenizer.encode(
         text,
