@@ -2,7 +2,7 @@ from datasets import load_dataset
 import tempfile
 import logging
 import random
-import config
+# import config
 import os
 import yaml
 import time
@@ -19,21 +19,23 @@ global_config = None
 medqa_path = 'lamini/lamini_docs'
 use_hf = True
 model_name = "meta-llama/Llama-2-7b-chat-hf"
-medqa_train = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="train")
-medqa_validation = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="validation")
-medqa_test = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="test")
+# medqa_train = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="train")
+# medqa_validation = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="validation")
+# medqa_test = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="test")
+medqa_train = load_dataset(medqa_path, split="train")
+medqa_validation = load_dataset(medqa_path, split="test")
 
-training_config = {
-    "model": {
-        "pretrained_name": model_name,
-        'max_length': 2048
-    },
-    'datasets': {
-        'use_hf': use_hf,
-        'path': medqa_path
-    },
-    'verbose': True
-}
+# training_config = {
+#     "model": {
+#         "pretrained_name": model_name,
+#         'max_length': 2048
+#     },
+#     'datasets': {
+#         'use_hf': use_hf,
+#         'path': medqa_path
+#     },
+#     'verbose': True
+# }
 
 # load model
 
