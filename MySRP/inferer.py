@@ -5,7 +5,7 @@ import torch
 import logging
 from peft import PeftModel
 from transformers import GenerationConfig, LlamaForCausalLM, LlamaTokenizer, AutoModelForCausalLM, AutoTokenizer, \
-    GPT2Tokenizer, GPT2Model
+    GPT2Tokenizer, GPT2LMHeadModel
 from handler import DataHandler
 
 assert torch.cuda.is_available(), "No cuda device detected"
@@ -83,7 +83,7 @@ class Inferer:
         if "llama" in base_model.lower():
             load_model = LlamaForCausalLM
         elif "gpt" in base_model.lower():
-            load_model = GPT2Model
+            load_model = GPT2LMHeadModel
         else:
             load_model = AutoModelForCausalLM
 
