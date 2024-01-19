@@ -119,7 +119,7 @@ class Inferer:
             tokenizer = GPT2Tokenizer.from_pretrained(model_name)
         else:
             tokenizer = AutoTokenizer.from_pretrained(model_name)
-        tokenizer.pad_token_id = 0
+        tokenizer.pad_token_id = 0  # tokenizer.eos_token_id
         tokenizer.padding_side = "left"
         return tokenizer
 
@@ -162,6 +162,7 @@ class Inferer:
         input_token_ids = input_tokens["input_ids"].to("cuda")
 
         generation_config = GenerationConfig(**generation_kwargs)
+        generation_config.pad_token_id = self.data_handler.tokenizer.pad_token_id
 
         with torch.no_grad():
             generation_output = self.model.generate(
