@@ -1,10 +1,11 @@
 import sys
+sys.path.append('/home/xyan/Thesis/MySRP/')
 import json
 import torch
 import logging
 from peft import PeftModel
 from transformers import GenerationConfig, LlamaForCausalLM, LlamaTokenizer, AutoModelForCausalLM, AutoTokenizer
-from .handler import DataHandler
+from handler import DataHandler
 
 assert torch.cuda.is_available(), "No cuda device detected"
 

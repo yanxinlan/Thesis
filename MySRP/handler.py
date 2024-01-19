@@ -136,10 +136,10 @@ class DataHandler:
             raise ValueError("At least one of `instruction`, `input`, `output` should be defined")
 
         prompt = (
-            f'{prompt_template["primer"]}'
-            f'{prompt_template["question"]}{question or ""}'
-            f'{prompt_template["choices"]}{choices or ""}'
-            f'{prompt_template["answer"]}{answer or ""}'
+            f'{self.prompt_template["primer"]}'
+            f'{self.prompt_template["question"]}{question or ""}'
+            f'{self.prompt_template["choices"]}{choices or ""}'
+            f'{self.prompt_template["answer"]}{answer or ""}'
         )
 
         return prompt
