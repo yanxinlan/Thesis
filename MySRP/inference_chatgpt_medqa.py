@@ -17,7 +17,7 @@ accuracy_llama_medqa = evaluate(
     model_name="openai-community/gpt2-xl",
     prompt_template=prompt_template_medqa,
     test_set='data/medqa_test_clean.jsonl',
-    responses_path="results/gpt_medqa_responses.json",
-    answers_path="results/gpt_medqa_correct_answers.json"
+    responses_path="../results/gpt_medqa_responses.json",
+    answers_path="../results/gpt_medqa_correct_answers.json"
 )
 print(datetime.now())
