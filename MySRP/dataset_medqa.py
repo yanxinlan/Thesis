@@ -7,20 +7,18 @@ medqa_train = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="tr
 medqa_validation = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="validation")
 medqa_test = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="test")
 
-input_file = medqa_test
-output_file = '/home/xyan/Thesis/data/medqa_train_clean.jsonl'
+input_files = [medqa_train, medqa_validation, medqa_test]
+output_files = ['/home/xyan/Thesis/data/medqa_train_clean.jsonl', '/home/xyan/Thesis/data/medqa_validation_clean.jsonl', '/home/xyan/Thesis/data/medqa_test_clean.jsonl']
 keys_to_keep = ['question', 'choices', 'answer']
 
 key_transformations = {
-    'question': lambda x: x,  # Keep unchanged
+    'question': lambda x: x,
     'choices': lambda x: ','.join(x) if isinstance(x, list) else x,
     'answer': lambda x: ','.join(x) if isinstance(x, list) else x,
 }
 
-with jsonlines.open(output_file, 'w') as writer:
-    for example in medqa_test:
-        new_example = {key: key_transformations[key](example[key]) for key in key_transformations}
-        writer.write(new_example)
-
-print(output_file)
-print(output_file[0])
+for input_file, output_file in zip(input_files, output_files):
+    with jsonlines.open(output_file, 'w') as writer:
+        for example in input_file:
+            new_example = {key: key_transformations[key](example[key]) for key in key_transformations}
+            writer.write(new_example)
