@@ -8,7 +8,7 @@ medqa_validation = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", spli
 medqa_test = load_dataset(medqa_path, "med_qa_en_4options_bigbio_qa", split="test")
 
 input_files = [medqa_train, medqa_validation, medqa_test]
-output_files = ['/home/xyan/Thesis/data/medqa_train_clean.jsonl', '/home/xyan/Thesis/data/medqa_validation_clean.jsonl', '/home/xyan/Thesis/data/medqa_test_clean.jsonl']
+output_files = ['/home/xyan/Thesis/data/medqa_train_clean.json', '/home/xyan/Thesis/data/medqa_validation_clean.json', '/home/xyan/Thesis/data/medqa_test_clean.json']
 keys_to_keep = ['question', 'choices', 'answer']
 
 key_transformations = {
