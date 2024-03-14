@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "A 65-year-old man is brought to the emergency department 30 minutes after the onset of acute chest pain. He has hypertension and asthma. Current medications include atorvastatin, lisinopril, and an albuterol inhaler. He appears pale and diaphoretic. His pulse is 114/min and blood pressure is 130/88 mm Hg. An ECG shows ST-segment depressions in leads II, III, and aVF. Laboratory studies show an increased serum troponin T concentration. The patient is treated for acute coronary syndrome and undergoes percutaneous transluminal coronary angioplasty. At the time of discharge, echocardiography shows a left ventricular ejection fraction of 58%. In addition to aspirin, which of the following drugs should be added to this patient's medication regimen?",
+    "input": "Nifedipine,Enoxaparin,Clopidogrel,Spironolactone",
+    "output": "Clopidogrel"
+  },
+  {
+    "instruction": "A 47-year-old executive schedules an appointment his physician for a routine medical check-up. He currently has no complaints and claims to be \u201cas fit as a fiddle.\u201d The physical examination findings are unremarkable, except for a mid-systolic murmur heard in the 2nd left intercostal space that radiates to the carotids on auscultation. The physician instructs the patient to stand from a supine position with the stethoscope still placed on his chest. Which of the following changes would occur with this maneuver?",
+    "input": "An increase in right atrial pressure,An increase in pulmonary capillary wedge pressure,A reduction in the slope of the pacemaker potential,A reduction in diastolic filling time",
+    "output": "A reduction in diastolic filling time"
+  },
+  {
+    "instruction": "A 29-year-old man presents to the emergency department due to central chest pain over the past 3 days which is constant and unrelated to exertion. The pain is sharp, severe, increases when lying down, and improves with leaning forward. The pain also radiates to his shoulders and neck. The patient has no past medical history. He has smoked 10 cigarettes per day for the past 7 years and occasionally drinks alcohol. He presents with vital signs: blood pressure 110/70 mm Hg, regular radial pulse of 95/min, and temperature 37.3\u00b0C (99.1\u00b0F). On physical exam, a scratching sound of to-and-from character is audible over the left sternal border at end-expiration with the patient leaning forward. His chest X-ray is normal and ECG is shown in the picture. Which of the following is the optimal therapy for this patient?",
+    "input": "Indomethacin +/- omeprazole,Ibuprofen + colchicine +/- omeprazole,Pericardiocentesis,Pericardiectomy",
+    "output": "Ibuprofen + colchicine +/- omeprazole"
+  },
+  {
+    "instruction": "A 72-year-old woman is admitted to the intensive care unit for shortness of breath and palpitations. A cardiac catheterization is performed and measurements of the left ventricular volume and pressure at different points in the cardiac cycle are obtained. The patient's pressure-volume loop (gray) is shown with a normal pressure-volume loop (black) for comparison. Which of the following is the most likely underlying cause of this patient's symptoms?",
+    "input": "Mitral valve regurgitation,Increased systemic vascular resistance,Increased ventricular wall stiffness,Impaired left ventricular contractility",
+    "output": "Increased ventricular wall stiffness"
+  },
+  {
+    "instruction": "A healthy 23-year-old male is undergoing an exercise stress test as part of his physiology class. If blood were to be sampled at different locations before and after the stress test, which area of the body would contain the lowest oxygen content at both time points?",
+    "input": "Inferior vena cava,Coronary sinus,Pulmonary artery,Pulmonary vein",
+    "output": "Coronary sinus"
+  },
+  {
+    "instruction": "A medical research study is evaluating an investigational novel drug (medication 1) compared with standard therapy (medication 2) in patients presenting to the emergency department with myocardial infarction (MI). The study enrolled a total of 3,000 subjects, 1,500 in each study arm. Follow-up was conducted at 45 days post-MI. The following are the results of the trial:\nEndpoints Medication 1 Medication 2 P-Value\nPrimary: death from cardiac causes 134 210 0.03\nSecondary: hyperkalemia 57 70 0.4\nWhat is the number needed to treat (NNT) for the primary endpoint of death from cardiac causes? (Round to the nearest whole number.)",
+    "input": "5,16,20,50",
+    "output": "20"
+  },
+  {
+    "instruction": "A 50-year-old man visits his physician after 20 years of not seeking any medical care. He is concerned about his health after a colleague recently had a heart attack. The patient has no active complaints and says he feels healthy; however, he does not exercise regularly and lives a sedentary lifestyle. He is employed as an administrative position at a local college, and is seated at a desk most of the day. His father had a heart attack at age 54 and his mother is still alive with no health concerns. He does not smoke, only drinks socially, and does not use drugs. Today, his blood pressure is 130/90 mm Hg, pulse is 84/min, and respiratory rate is 14/min. Physical examination reveals an obese male with no significant findings. An ECG shows no abnormalities, and laboratory testing shows the following:\nLaboratory test\nSerum glucose (fasting)  105 mg/dL\nSerum electrolytes \nSodium  142 mEq/L\nPotassium 3.9 mEq/L\nChloride 101 mEq/L\nSerum creatinine 0.8 mg/dl\nBlood urea nitrogen 10 mg/dl\nCholesterol, total 250 mg/dL\nHDL-cholesterol 35 mg/dL\nLDL-cholesterol 186 mg/dL\nTriglycerides 170 mg/dL\nUrinalysis \nGlucose  negative\nKetones negative\nLeucocytes negative\nNitrites negative \nRed blood cells (RBC) negative \nCasts negative \nWhich of the following lab abnormalities in this patient is an indication for treatment?",
+    "input": "Blood pressure reading,Patient\u2019s weight,High LDL-cholesterol,Serum glucose level",
+    "output": "High LDL-cholesterol"
+  },
+  {
+    "instruction": "A 66-year-old male presents to his primary care physician to discuss his increasing shortness of breathover the last 3 months. He notes that this is particularly obvious when he is mowing his lawn or climbing the stairs in his home. His past medical history is significant for hypertension that is well-controlled with lisinopril. His vital signs are as follows: T 37.6 C, HR 88, BP 136/58, RR 18, SpO2 97% RA. Physical examination is significant for an early diastolic blowing, decrescendo murmur heard best at the left sternal border, a midsystolic murmur heard best at the right upper sternal border, and a late diastolic rumbling murmur heard best at the apex on auscultation. In addition, an S3 heart sound is also present. Bounding pulses are palpated at the radial arteries bilaterally. Which of the following diagnoses is most likely in this patient?",
+    "input": "Mitral regurgitation,Aortic regurgitation,Aortic stenosis,Mitral prolapse",
+    "output": "Aortic regurgitation"
+  },
+  {
+    "instruction": "A 61-year-old Caucasian male presents to your office with chest pain. He states that he is worried about his heart, as his father died at age 62 from a heart attack. He reports that his chest pain worsens with large meals and spicy foods and improves with calcium carbonate. He denies dyspnea on exertion and an ECG is normal. What is the most likely cause of this patient's pain?",
+    "input": "Partially occluded coronary artery,Umbilical hernia,Gastroesophageal junction incompetence,Intestinal metaplasia at the gastroesophageal junction",
+    "output": "Gastroesophageal junction incompetence"
+  },
+  {
+    "instruction": "A 43-year-old woman is brought to the emergency department by her brother for severe chest pain. The patient recently lost her husband in a car accident and is still extremely shocked by the event. On physical examination, her blood pressure is 105/67 mm Hg, the heart rate is 96/min and regular, breathing rate is 23/min, and the pulse oximetry is 96%. An S3 heart sound and rales in the lower right and left lung lobes are heard. A 12-lead ECG shows no significant findings. Echocardiography shows an enlarged left ventricle and left atrium. The patient is stabilized and informed about the diagnosis and possible treatment options. Which of the following is the most likely diagnosis?",
+    "input": "Atrial fibrillation,Constrictive pericarditis,Takotsubo cardiomyopathy,Restrictive cardiomyopathy",
+    "output": "Takotsubo cardiomyopathy"
+  },
+  {
+    "instruction": "A 60-year-old woman presents to a physician for worsening shortness of breath and increasing abdominal distention over the last 3 months. She says that the shortness of breath is worse on exertion and improves with rest. While she could previously walk to the nearby store for her groceries, she now has to drive because she gets ''winded'' on the way. The patient was diagnosed with diabetes 5 years ago and is compliant with her medications. The medical history is otherwise unremarkable. The physical examination reveals gross ascites and visibly engorged periumbilical veins. Bilateral pitting edema is noted around the ankles. The finger-prick blood glucose level is 100 mg/dL. What is the mechanism of action of the anti-diabetic medication this patient is most likely taking?",
+    "input": "Binding to the alpha subunit of the insulin receptor,Closure of ATP-sensitive K-channels in the pancreatic beta-cell,Increased gene expression of GLUT-4,Glucagon-like peptide-1 receptor agonist",
+    "output": "Increased gene expression of GLUT-4"
+  },
+  {
+    "instruction": " A 61-year-old man was started on rosuvastatin 40 mg 8 weeks ago and presents today for a follow-up. He complains of pain in his legs and general weakness. On physical exam, he has full range of motion of his extremities but complains of pain. His blood pressure is 126/84 mm Hg and heart rate is 74/min. The decision is made to stop the statin and return to the clinic in 2 weeks to assess any changes in symptoms. After stopping the statin, his muscular symptoms resolve. What is the next best course of action to take regarding his LDL control?",
+    "input": "Restart rosuvastatin at a lower dose,Initiate fenofibrate,Initiate a different statin,Initiate fish oils",
+    "output": "Restart rosuvastatin at a lower dose"
+  },
+  {
+    "instruction": "A 56-year-old man presents to his primary care doctor with intermittent chest pain. He reports a 2-month history of exertional chest pain that commonly arises after walking 5 or more blocks. He describes the pain as dull, burning, non-radiating substernal pain. His past medical history is notable for hypercholesterolemia and hypertension. He takes simvastatin and losartan. His temperature is 98.9\u00b0F (37.2\u00b0C), blood pressure is 150/85 mmHg, pulse is 88/min, and respirations are 18/min. On exam, he is well-appearing and in no acute distress. S1 and S2 are normal. No murmurs are noted. An exercise stress test is performed to further evaluate the patient\u2019s pain. Which of the following substances is released locally to increase coronary blood flow during exertion?",
+    "input": "Adenosine,Inorganic phosphate,Prostaglandin E2,Transforming growth factor beta",
+    "output": "Adenosine"
+  },
+  {
+    "instruction": "An elderly man presents to his physician with complaints of difficulty breathing, easy fatigability, and bilateral leg swelling which began 2 months ago. His breathlessness worsens while walking, climbing the stairs, and lying flat on his back. He also finds it difficult to sleep well at night, as he often wakes up to catch his breath. His pulse is 98/min and blood pressure is 114/90 mm Hg. On examination, he has mild respiratory distress, distended neck veins, and bilateral pitting edema is evident on the lower third of his legs. His respiratory rate is 33/min, SpO2 is 93% in room air, and coarse crepitations are heard over the lung bases. On auscultation, the P2 component of his second heart sound is heard loudest at the second left intercostal space, and an S3 gallop rhythm is heard at the apex. Medication is prescribed for his symptoms which changes his cardiac physiology as depicted with the dashed line recorded post-medication. What is the mechanism of action of the prescribed medication?",
+    "input": "Decrease in transmembrane sodium gradient,Preferential dilatation of capacitance vessels,Inhibition of aldosterone-mediated sodium reabsorption,Reduction in myocardial contractility",
+    "output": "Decrease in transmembrane sodium gradient"
+  },
+  {
+    "instruction": "A 28-year-old female visits her physician for workup of a new onset diastolic murmur found on physical examination. Past medical history is insignificant. Her temperature is 37.0 degrees C, blood pressure is 115/75 mm Hg, pulse is 76/min, and respiratory rate is 16/min. The patient denies dyspnea, fatigue, and syncope. Transthoracic echocardiography reveals a large, pedunculated tumor in the left atrium. This patient is most at risk for:",
+    "input": "Abrupt hypotension,Sudden cardiac death,Acute arterial occlusion,Septic embolism",
+    "output": "Acute arterial occlusion"
+  },
+  {
+    "instruction": "A 72-year-old woman is admitted to the hospital for treatment of unstable angina. Cardiac catheterization shows occlusion that has caused a 50% reduction in the diameter of the left circumflex artery. Resistance to blood flow in this vessel has increased by what factor relative to a vessel with no occlusion?",
+    "input": "64,16,8,4",
+    "output": "16"
+  },
+  {
+    "instruction": "A 50-year-old man with congestive heart failure (CHF) was started on an experimental analog of atrial natriuretic peptide. Which of the following would he expect to experience?",
+    "input": "Increased water reabsorption by the renal collecting ducts,Vasoconstriction, increased blood pressure, aldosterone release,Increased glomerular filtration rate, restricted aldosterone release, vascular smooth muscle dilation,Increased plasma calcium and decreased renal reabsorption of phosphate",
+    "output": "Increased glomerular filtration rate, restricted aldosterone release, vascular smooth muscle dilation"
+  },
+  {
+    "instruction": "A 55-year-old man presents to the emergency department with complaints of nausea, vomiting, palpitations, and dizziness, which have lasted for the past 3 hours. He was diagnosed with heart failure 1 year ago. During his last visit to his primary care physician, he was doing well and the lab results were normal. He reports that he has been taking low-dose aspirin and digoxin regularly for 1 year, and verapamil was recently added to prevent his frequent migraine headaches. An electrocardiogram is performed urgently and shows paroxysmal atrial tachycardia with block. Suspecting digitalis toxicity, the emergency medicine physician sends blood to the lab for a serum digoxin level, which is 3.7 ng/mL (therapeutic range: 0.8\u20132 ng/mL). Which of the following mechanisms most likely explains the development of digitalis toxicity in this patient?",
+    "input": "Drug-induced hypokalemia,Increased intestinal absorption of digoxin,Inhibition of CYP 3A4 isoenzyme,Inhibition of P-glycoprotein",
+    "output": "Inhibition of P-glycoprotein"
+  },
+  {
+    "instruction": "A 23-year-old man presents with sudden loss of consciousness while pitching in a baseball game. There is no history of injury. Consciousness is regained after cardiopulmonary resuscitation. Past medical history is negative for any neurological and cardiovascular problems. Physical examination reveals a prominent A wave on the jugular venous pulse and a double apical impulse. There are no audible murmurs. An S4 is present. What is the most likely diagnosis?",
+    "input": "Hypertrophic cardiomyopathy,Aortic stenosis,Takotsubo cardiomyopathy,Restrictive cardiomyopathy",
+    "output": "Hypertrophic cardiomyopathy"
+  },
+  {
+    "instruction": "A 22-year-old woman from a rural area who recently discovered she was pregnant is referred for a cardiology consultation due to cyanosis, dyspnea, and a cardiac murmur revealed at the initial prenatal visit. She is gravida 1, para 0 with an estimated gestational age of 19 weeks. She says that the murmur was found in her childhood, and the doctor at that time placed her under observation only. However, she has been lost to follow-up and has not had proper follow up in years. Currently, she complains of dizziness and occasional dyspnea on exertion which has gradually increased during her pregnancy. Prior to her pregnancy, she did not have any symptoms. The vital signs are as follows: blood pressure 125/60 mm Hg, heart rate 81/min, respiratory rate 13/min, and temperature 36.7\u00b0C (98.0\u00b0F). Her examination is significant for acrocyanosis and a fixed splitting of S2 and grade 3/6 midsystolic murmur best heard over the left upper sternal border. Which of the following physiological pregnancy changes is causing the change in this patient\u2019s condition?",
+    "input": "Increase in heart rate,Decrease in systemic vascular resistance,Increase in cardiac output,Increase in blood volume",
+    "output": "Decrease in systemic vascular resistance"
+  },
+  {
+    "instruction": "A 28-year-old female comes to the physician\u2019s office with a complaint of episodic chest pain. She describes the pain as squeezing and tightness in her chest. This pain has been happening every few days for 3 months. She says there is no association of the pain with food or exercise. She is able to climb up to her fourth floor apartment daily without issue. Her only past medical history is migraines for which she takes appropriate medication. Here temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 120/68 mmHg, pulse is 60/min, respirations are 16/min, and oxygen saturation is 98% on room air. She has no known family history. The patient is not in pain on presentation and EKG in the office is normal. 24-hour ECG monitoring shows transient ST elevations during the episodes of pain that resolve completely. The mechanism of this patient\u2019s chest pain is most similar to the mechanism behind which of the following?",
+    "input": "Raynaud's phenomenon,Myocardial infarction,Aortic dissection,Costochondritis",
+    "output": "Raynaud's phenomenon"
+  },
+  {
+    "instruction": "A 52-year-old man is brought to the emergency department because of worsening shortness of breath for 6 hours. For the past 5 days, he has had intermittent stabbing pain in the middle of his chest that worsens with lying down or taking deep breaths. He has also had a runny nose and a dry cough for the past 2 weeks. He has hypercholesterolemia and hypertension. He has smoked a pack of cigarettes daily for 34 years. His current medications include atorvastatin, enalapril, and hydrochlorothiazide. He appears pale and sweaty. His temperature is 38.3\u00b0C (100.9\u00b0F), pulse is 105/min, and respirations are 25/min. Blood pressure is 107/72 mm Hg during expiration and 86/65 mm Hg during inspiration. Examination shows jugular venous distention and pitting edema below the knees. Which of the following is the most likely cause of this patient's findings?",
+    "input": "Dilation of the atria and ventricles,Occlusion of a coronary artery,Accumulation of fluid in the pericardial space,Fibrous thickening of the pericardium",
+    "output": "Accumulation of fluid in the pericardial space"
+  },
+  {
+    "instruction": "A 70-year-old obese male presents to the emergency department with shortness of breath and cough of sudden onset. The patient states that his symptoms came on while he was sleeping. The patient has a past medical history of type II diabetes and is currently taking lisinopril, metformin, insulin, and fish oil. On physical exam, you note bipedal edema and jugular venous distention (JVD). An EKG and chest radiographs are obtained (Figures A and B). The patient is started on BIPAP and medical therapy and his symptoms improve rapidly. Lab values are as follows.\n\nSerum:\nNa+: 137 mEq/L\nK+: 3.2 mEq/L\nCl-: 100 mEq/L\nHCO3-: 31 mEq/L\nBUN: 20 mg/dL\nGlucose: 120 mg/dL\nCreatinine: 1.2 mg/dL\nCa2+: 10.9 mg/dL\n\nWhich of the following is the best explanation of this patient's current presentation?",
+    "input": "Furosemide,Hydrochlorothiazide,Renal tubular acidosis type II,Renal tubular acidosis type IV",
+    "output": "Hydrochlorothiazide"
+  },
+  {
+    "instruction": "A healthy, full-term 1-day-old female is being evaluated after birth and is noted to have a cleft palate and a systolic ejection murmur at the second left intercostal space. A chest radiograph is obtained which reveals a boot-shaped heart and absence of a thymus. An echocardiogram is done which shows pulmonary stenosis with a hypertrophic right ventricular wall, ventricular septal defect, and overriding of the aorta. Which of the following additional features is expected to be seen in this patient?",
+    "input": "Seizures due to hypocalcemia,Catlike cry,Hyperthyroidism from transplacental antibodies,Increased phenylalanine in the blood",
+    "output": "Seizures due to hypocalcemia"
+  },
+  {
+    "instruction": "A 58-year-old male with a history of obesity and hypertension presents to his primary care physician for a follow-up visit. He reports that he feels well and has no complaints. He currently takes hydrochlorothiazide. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 135/80 mmHg, pulse is 86/min, and respirations are 17/min. His BMI is 31 kg/m2. Results of a lipid panel are: Total cholesterol is 280 mg/dl, triglycerides are 110 mg/dl, HDL cholesterol is 40 mg/dl, and LDL cholesterol is 195 mg/dl. Her physician considers starting her on atorvastatin. Which of the following will most likely decrease after initiating this medication?",
+    "input": "Mevalonate,Acetoacetyl-CoA,Diacyglycerol,High-density lipoprotein",
+    "output": "Mevalonate"
+  },
+  {
+    "instruction": "A 60-year-old female patient with a history of hypertension presents to an outpatient office for regular check-up and is found to have hypertriglyceridemia. Her physician prescribes high-dose niacin and recommends taking the medication along with aspirin. The side effect the physician is trying to avoid is thought to be mediated by what mechanism?",
+    "input": "Bile deposition in the dermis,Release of prostaglandins,Mast cell degranulation,T cell activation",
+    "output": "Release of prostaglandins"
+  },
+  {
+    "instruction": "A 65-year-old woman presented to the emergency room due to progressive dyspnea. She is a known hypertensive but is poorly compliant with medications. The patient claims to have orthopnea, paroxysmal nocturnal dyspnea, and easy fatigability. On physical examination, the blood pressure is 80/50 mm Hg. There is prominent neck vein distention. An S3 gallop, bibasilar crackles, and grade 3 bipedal edema were also detected. A 2d echo was performed, which showed a decreased ejection fraction (32%). Which of the following drugs should not be given to this patient?",
+    "input": "Furosemide,Nesiritide,Metoprolol,Digoxin",
+    "output": "Metoprolol"
+  },
+  {
+    "instruction": "A 63-year-old man is aiming to improve his health by eating a well balanced diet, walking daily, and quitting smoking following a 45-year smoking history. While on his daily walks he notices a strong cramping pain in his calves that consistently appears after a mile of walking. He sees his physician and a diagnosis of peripheral artery disease with intermittent claudication is made. To improve his symptoms, cilostazol is prescribed. What is the mechanism of action of this medication?",
+    "input": "Irreversible cyclooxygenase inhibitor,Thromboxane synthase inhibitor,Adenosine diphosphate receptor inhibitor,Phosphodiesterase inhibitor",
+    "output": "Phosphodiesterase inhibitor"
+  },
+  {
+    "instruction": "A 42-year-old man presents to a neurologist for evaluation of severe headache. He started experiencing episodic headaches and palpitations 3 months ago; however, he thought that these symptoms were simply related to the stress of moving and starting a new job. He has continued to experience these intermittent headaches and has also noticed that he sweats profusely during these episodes. On presentation his temperature is 99.1\u00b0F (37.3\u00b0C), blood pressure is 163/112 mmHg, pulse is 112/min, and respirations are 15/min. Physical exam reveals pallor and perspiration but is otherwise unremarkable. The most likely cause of this patient's symptoms is produced by cells located in which region of the histology slide shown in figure A?",
+    "input": "A,B,C,E",
+    "output": "E"
+  },
+  {
+    "instruction": "A 20-year-old healthy man is running on a treadmill for the last 30 minutes. He is in good shape and exercises 3 times per week. He takes no medications and denies smoking cigarettes, drinking alcohol, and illicit drug use. Prior to starting his run, his heart rate was 70/min, and the blood pressure was 114/74 mm Hg. Immediately after stopping his run, the heart rate is 130/min, and the blood pressure is 145/75 mm Hg. Which of the following is most likely responsible for the change in his heart rate and blood pressure?",
+    "input": "Baroreceptor reflex,Increased activation of the vagal nuclei,Sympathetic nervous system activation,Vasopressin release from the pituitary",
+    "output": "Sympathetic nervous system activation"
+  },
+  {
+    "instruction": "A 63-year-old man comes to the emergency department because of retrosternal chest pain. He describes it as 7 out of 10 in intensity. He has coronary artery disease, hypertension, and type 2 diabetes mellitus. His current medications are aspirin, simvastatin, metformin, and enalapril. He has smoked one pack of cigarettes daily for 33 years. On arrival, his pulse is 136/min and irregular, respirations are 20/min, and blood pressure is 85/55 mm Hg. The lungs are clear to auscultation. Cardiac examination shows no abnormalities. An ECG is shown. Which of the following is the most appropriate next step in management?",
+    "input": "Coronary angiogram,Intravenous esmolol,Intravenous amiodarone,Synchronized cardioversion",
+    "output": "Synchronized cardioversion"
+  },
+  {
+    "instruction": "While in the ICU, a 62-year-old male undergoes placement of a Swan-Ganz catheter to evaluate his right heart pressures. All pressures are found to be within normal limits, and the cardiology fellow records a pulmonary wedge pressure of 10 mmHg. Which of the following are normal values for the pressures that will be obtained from this patient's right ventricle?",
+    "input": "25/10 mmHg,25/5 mmHg,10/0 mmHg,100/70 mmHg",
+    "output": "25/5 mmHg"
+  },
+  {
+    "instruction": "A 62-year-old man presents to the emergency department with crushing chest pain (10/10 in severity), radiating to the left side of the neck and the left arm. His symptoms started 20 minutes ago while shaving. He also feels nauseated, lightheaded and short of breath. He has had type 2 diabetes for 27 years and essential hypertension for 19 years. He has smoked 20\u201330 cigarettes per day for the past 35 years. Family history is irrelevant. His temperature is 36.9\u00b0C (98.4\u00b0F), the blood pressure is 115/72 mm Hg and the pulse is 107/min. Physical examination is unremarkable. ECG is shown in the image. Troponins are elevated. The patient is admitted to a unit with continuous cardiac monitoring. Aspirin, clopidogrel, sublingual nitroglycerin, and morphine are given immediately and the patient now rates the pain as 4\u20135 out of 10. Which of the following is the best next step in the management of this patient condition?",
+    "input": "Percutaneous coronary intervention,Intravenous alteplase,Coronary artery bypass graft,Oral ramipril",
+    "output": "Percutaneous coronary intervention"
+  },
+  {
+    "instruction": "A 48-year-old man is brought to the emergency department for sudden onset of difficulty breathing 6 hours ago. For the past several months, he has had shortness of breath on exertion and while lying down on the bed, frequent headaches, and swelling of his feet. He does not take any medications despite being diagnosed with hypertension 10 years ago. His pulse is 90/min, respirations are 20/min, blood pressure is 150/110 mm Hg, and temperature is 37.0\u00b0C (98.6\u00b0F). Physical examination shows an overweight male in acute distress with audible wheezes. Crackles are heard bilaterally and are loudest at the lung bases. Which of the following findings on cardiac auscultation will most likely be present in this patient?",
+    "input": "Loud P2,S3 gallop,Absent S4,A loud S1",
+    "output": "S3 gallop"
+  },
+  {
+    "instruction": "In a study to determine the risk factors for myocardial infarction (MI) at a young age (age < 30 years), 30 young patients with the condition are recruited into the study group. Sixty similar but healthy individuals are recruited into the control group. Educational status is considered to be an important variable, as it would affect the awareness of the disease and its risk factors among the participants. Based on the level of education, 2 groups are formed: low educational status and high educational status. A chi-square test is performed to test the significance of the relationship, and an odds ratio of 2.1 was computed for the association between low education and the risk of MI, with a confidence interval of 0.9\u20139.7. What inference can be made on the association between young age MI and educational status from this study?",
+    "input": "The association is not statistically significant, and low education is not a risk factor.,The association is statistically significant, but low education is not a risk factor.,The association is not statistically significant, but low education is a risk factor.,One can not comment, as the p-value is not given.",
+    "output": "The association is not statistically significant, and low education is not a risk factor."
+  },
+  {
+    "instruction": "A 30-year-old woman presents to the emergency department with a recent episode of chest pain. She says she was previously well and denies any history of similar symptoms. She reports that, at onset, she felt as if she was going to die and says her heart beating has been beating really fast. There was also profuse sweating, and she says she feels short of breath. She could not recall how long the event lasted but can remember that the symptoms did go away on their own by the time she arrived at the emergency department. Her vitals rapidly returned to normal while giving her medical history and she begins to look and act more calm. No significant past medical history or current medications.  Physical examination is unremarkable. Her electrocardiogram and initial cardiac enzymes are normal. Which the following is necessary to confirm the most likely diagnosis in this patient?",
+    "input": "1 month of associated symptoms ,Disruptive events lasting > 30 minutes on 2 separate occasions,Family history,Agoraphobia",
+    "output": "1 month of associated symptoms "
+  },
+  {
+    "instruction": "A 55-year-old man presents to his primary care physician for a general checkup. The patient has a past medical history of diabetes, hypertension, and atrial fibrillation and is currently taking warfarin, insulin, lisinopril, and metoprolol. The patient\u2019s brother recently died from a heart attack and he has switched to an all vegetarian diet in order to improve his health. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 167/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. The patient\u2019s physical exam is unremarkable. His laboratory values are ordered as seen below.\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 7,550/mm^3 with normal differential\nPlatelet count: 197,000/mm^3\nINR: 1.0\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 10.2 mg/dL\n\nWhich of the following is the best explanation for this patient\u2019s laboratory values?",
+    "input": "Dietary changes,Increased hepatic metabolism,Increased renal clearance,Medication noncompliance",
+    "output": "Dietary changes"
+  },
+  {
+    "instruction": "A 61-year-old man is brought to the emergency room with chest pain. He developed severe, crushing, substernal chest pain 10 hours ago while he was hiking in the Adirondack mountains. He was with 2 friends at the time who gave him aspirin before carrying him 5 miles to a town to get phone service, where they then called emergency medical services. His past medical history is notable for hypertension, diabetes mellitus, and hyperlipidemia. He takes enalapril, metformin, and atorvastatin. He has a 20-pack-year smoking history and is an avid hiker. His temperature is 100\u00b0F (37.8\u00b0C), blood pressure is 102/60 mmHg, pulse is 130/min, and respirations are 28/min. He is diaphoretic and intermittently conscious. Bilateral rales are heard on pulmonary auscultation. An electrocardiogram demonstrates ST elevations in leads I and aVL. Despite appropriate management, the patient expires. An autopsy is performed demonstrating ischemia in the left atrium and posterior left ventricle. Which of the following vessels was most likely affected in this patient?",
+    "input": "Left anterior descending artery,Left circumflex artery,Left coronary artery,Right marginal artery",
+    "output": "Left circumflex artery"
+  },
+  {
+    "instruction": "A previously healthy 46-year-old woman comes to the physician because of progressive shortness of breath, fatigue, and chest pain during exercise for the last 6 months. She does not smoke. Her maternal uncle had similar symptoms. Cardiac examination shows wide splitting of S2. The second component of S2 is loud and best heard at the 2nd left intercostal space. The lungs are clear to auscultation. Which of the following is the most likely cause of this patient's cardiac findings?",
+    "input": "Increased right ventricular preload,Increased left ventricular preload,Increased right ventricular afterload,Increased left-to-right shunting",
+    "output": "Increased right ventricular afterload"
+  },
+  {
+    "instruction": "A 63-year-old man from the countryside presents with leg swelling and right upper abdominal tenderness. He reports a history of myocardial infarction 4 years ago, but he has no supporting documentation. At the moment, his only medication is aspirin. He also stated that he used to have \u2018high blood sugars\u2019 when checked in the hospital 4 years ago, but he did not follow up regarding this issue. He works as a farmer and noticed that it became much harder for him to work in the last few days because of fatigue and syncope. He has a 24-pack-year history of smoking and consumes alcohol occasionally. The vital signs include: blood pressure 150/90 mm Hg, heart rate 83/min, respiratory rate 16/min, and temperature 36.5\u2103 (97.7\u2109). On physical examination, the patient is pale and acrocyanotic. There is a visible jugular vein distention and bilateral lower leg pitting edema. The pulmonary auscultation is significant for occasional bilateral wheezes. Cardiac auscultation is significant for a decreased S1, S3 gallop, and grade 3/6 systolic murmur best heard at the left sternal border in the 4th left intercostal space. Abdominal percussion and palpation are suggestive of ascites. The hepatic margin is 3 cm below the right costal margin. Hepatojugular reflux is positive. Which of the following is the most likely clinical finding observed in this patient on an echocardiogram?",
+    "input": "Left ventricular ejection fraction of 41%,Increased peak tricuspid regurgitation,Hypokinetic wall of the left ventricle,Abnormal left ventricular relaxation",
+    "output": "Increased peak tricuspid regurgitation"
+  },
+  {
+    "instruction": "A 58-year-old woman presents to the emergency department with difficulty breathing and a sensation that her heart was racing for the past 3 days. She adds that she has lost weight over the last 7 weeks, despite a good appetite, and is anxious most of the time with difficulty sleeping at night. She has smoked 10 cigarettes per day for the past 15 years. Her blood pressure is 100/55 mmHg, temperature is 36.5\u00b0C (97.7\u00b0F), and pulse is irregular with a rate of 140\u2013150/min. On physical examination she is thin, frail, and appears anxious. Her palms are sweaty and there are fine tremors on extension of both hands. She has a palpable smooth thyroid mass. Examination of the eyes reveals bilateral exophthalmos. An electrocardiogram is obtained and shown in the picture. Which of the following has a strong positive correlation with this patient\u2019s heart rhythm?",
+    "input": "Digoxin blood level,PR interval,Age,Amiodarone blood level",
+    "output": "Age"
+  },
+  {
+    "instruction": "A 55-year-old man is brought to the emergency department 12 hours after the sudden onset of shortness of breath and substernal chest pain at rest; the pain is increased by inspiration. He has also had a nonproductive cough, fever, and malaise for the past 5 days. He does not smoke or use illicit drugs. His temperature is 38\u00b0C (100.4\u00b0F), pulse is 125/min, respirations are 32/min, and blood pressure is 85/45 mm Hg. Physical examination shows distended neck veins. Auscultation of the chest discloses bilateral basilar rales and muffled heart sounds. An ECG shows sinus tachycardia, diffuse ST segment elevation, low voltage QRS complexes, and fluctuating R wave amplitude. Which of the following is the most likely diagnosis?",
+    "input": "Kawasaki disease,Rheumatic fever,Infective endocarditis,Cardiac tamponade",
+    "output": "Cardiac tamponade"
+  },
+  {
+    "instruction": "A 52-year-old man presents to the physician because of ongoing shortness of breath, which is more prominent when he lies down. Occasionally, he experiences palpitations, especially during strenuous activities. In addition to this, he has been experiencing difficulty in digestion and often experiences regurgitation and dysphagia. He reports that he emigrated from Mexico 20 years ago and visits his hometown twice a year. The vital signs include: blood pressure 120/75 mm Hg, respiratory rate 19/min, and pulse 100/min. The physical examination shows jugular vein distention along with pitting edema in the ankles. Bilateral basilar crackles and an S3 gallop are heard on auscultation of the chest. A chest X-ray is taken. An electrocardiogram (ECG) shows no significant findings. What is the most likely explanation for this patient\u2019s physical and diagnostic findings?",
+    "input": "Alcohol abuse,Hypertensive changes,Parasitic infection,Bacterial infection",
+    "output": "Parasitic infection"
+  },
+  {
+    "instruction": "A 75-year-old man presents to the emergency department with a racing heart and lightheadedness for 3 hours. He has had similar episodes in the past, but the symptoms never lasted this long. He denies chest pain, shortness of breath, headaches, and fevers. He had a myocardial infarction 4 years ago and currently takes captopril, metoprolol, and atorvastatin. His pulse is irregular and cardiac auscultation reveals an irregular heart rhythm. Laboratory reports show:\nSerum glucose 88 mg/dL\nSodium 142 mEq/L\nPotassium 3.9 mEq/L\nChloride 101 mEq/L\nSerum creatinine 0.8 mg/dL\nBlood urea nitrogen 10 mg/dL\nCholesterol, total 170 mg/dL\nHDL-cholesterol 40 mg/dL\nLDL-cholesterol 80 mg/dL\nTriglycerides 170 mg/dL\nHematocrit 38%\nHemoglobin 13 g/dL\nLeucocyte count 7,500/mm3\nPlatelet count 185,000 /mm3\nActivated partial thromboplastin time (aPTT) 30 seconds\nProthrombin time (PT) 12 seconds\nCardiac enzymes Negative\nAn ECG shows the absence of P-waves with an irregular RR complex. A few hours later, his symptoms subside and he is discharged with an additional anticoagulation drug. Which of the following mechanisms explains how this new medication will exert its effects?",
+    "input": "Activation of the antithrombin enzyme,Inhibition of the cyclooxygenase enzyme,Inhibition of vitamin K-dependent clotting factors,Blockage of glycoprotein IIb/IIIa receptors",
+    "output": "Inhibition of vitamin K-dependent clotting factors"
+  },
+  {
+    "instruction": "A 41-year-old woman presents with shortness of breath that is worse when she lies on her left side. About 10 days ago, she had an episode of unexplained loss of consciousness. Past medical history is negative and family history is irrelevant. Clinical examination shows a diastolic murmur, which is prominent when she lies on her left side. Jugular venous distention is present, and chest examination reveals fine crackles that do not clear with coughing. Chest X-ray shows pulmonary congestion, and 2-dimensional echocardiogram shows a mass in the left atrium attached to the atrial septum. Which of the following is the most likely diagnosis?",
+    "input": "Rheumatic fever,Innocent murmur,Non-bacterial thrombotic endocarditis,Atrial myxoma",
+    "output": "Atrial myxoma"
+  },
+  {
+    "instruction": "A 55-year-old man presents into the emergency department with a severe cough and difficulty breathing. He says that he finds himself out of breath after taking a few steps, and has to sit down and rest, in order to continue. He also says that, at night, he has the greatest difficulty in breathing and usually uses at least 3 pillows to sleep comfortably. He mentions a cough that appears only at night, but which is persistent enough to wake him up from sleep. He mentions that he has had a \u2018heart attack\u2019 5 years ago. He also says that he continues to consume alcohol on a regular basis even though his doctor has advised against it. He has brought his lab reports which he had recently got done on the suggestions of his family doctor. An electrocardiogram (ECG) and a chest X-ray are found. Which of the following is the next step in this patient\u2019s management?",
+    "input": "Computed Tomography (CT),Echocardiogram,Stress test,Cardiac biopsy",
+    "output": "Echocardiogram"
+  },
+  {
+    "instruction": "A 51-year-old man presents the emergency room with chest pain. He mentions that the pain started several hours ago and radiates to his left neck and shoulder. He also mentions that he has some difficulty in breathing. He says that he has had similar chest pains before, but nothing seemed to be wrong at that time. He was diagnosed with high cholesterol during that episode and was prescribed medication. He also has a 3-year history of gastritis. The blood pressure is 130/80 mm Hg, respirations are 18/min, and the pulse is 110/min. He seems a little anxious. The physical examination reveals no significant abnormalities. An ECG shows slight changes in the leads. His physician talks to him about the benefits of taking low-dose aspirin daily. Which of the following would be a contraindication to the use of aspirin in this patient?",
+    "input": "ECG changes,Hypercholesterolemia,Gastritis,Increased pulse rate",
+    "output": "Gastritis"
+  },
+  {
+    "instruction": "A 62-year-old man presents with episodes of palpitations for the past 3 weeks. He says that he has episodes where he feels his heart is \u2018racing and pounding\u2019, lasting 1\u20132 hours on average. Initially, he says the episodes would happen 1\u20132 times per week but now happen almost every day. This last episode has been constant for the past 2 days. He denies any seizure, loss of consciousness, dizziness, chest pain, or similar symptoms in the past. His past medical history is significant for an ischemic stroke of the right anterior cerebral artery 1 month ago, status post intravenous (IV) tissue plasminogen activator (tPA) with still some residual neurologic impairment, and long-standing gastroesophageal reflux secondary to a hiatal hernia, managed medically. The patient reports a 15-pack-year smoking history, but no alcohol or recreational drug use. The vital signs include: temperature 37.0\u00b0C (98.6\u00b0F), blood pressure 100/70 mm Hg, pulse 105/min, and respiratory rate 16/min. On physical examination, muscle strength in the lower extremities is 4/5 on the left and 5/5 on the right, along with sensory loss on the left, all of which is improved from his previous exam 3 weeks ago. There is a loss of the left half of the visual field bilaterally which is stable from the previous exam. Cardiac examination is significant for a new-onset irregular rate and rhythm. No rubs, thrills or murmurs. A noncontrast computed tomography (CT) scan shows evidence of an area of infarction in the vicinity of the right anterior cerebral artery showing normal interval change with no evidence of new hemorrhage or expansion of the area of infarction. An electrocardiogram (ECG) is performed, which is shown in the exhibit (see image below). Which of the following is the most appropriate intervention to best prevent future cerebrovascular accidents (CVAs) in this patient?",
+    "input": "Begin aspirin therapy,Begin clopidogrel,Carotid endarterectomy,Begin warfarin and heparin",
+    "output": "Begin warfarin and heparin"
+  },
+  {
+    "instruction": "A 67-year old man presents to his primary care physician for his yearly checkup. He has not noticed any major changes in his health over the last year but says that unfortunately, he stopped exercising because he has been stressed by work. His past medical history is significant for obesity, hypertension, diabetes, hypercholesterolemia, and hyperlipidemia. He is taking a number of drugs but does not remember what they are. A panel of metabolic and lipid tests are ordered and show worsening of his metabolic parameters. Based on these findings, his physician prescribes a drug that leads to a large decrease in triglycerides with a much smaller increase in high-density lipoproteins and decrease in low-density lipoproteins. The drug that was most likely prescribed in this case is associated with which of the following side effects?",
+    "input": "Cholelithiasis,Decreased vitamin D absorption,Hepatotoxicity,Teratogenicity",
+    "output": "Cholelithiasis"
+  },
+  {
+    "instruction": "A 38-year-old woman presents to her physician\u2019s clinic for recurrent episodes of chest pain that wakes her from her sleep. While usually occurring late at night, she has also had similar pains during the day at random times, most recently while sitting at her desk in her office and at other times while doing the dishes at home. The pain lasts 10\u201315 minutes and resolves spontaneously. She is unable to identify any common preceding event to pain onset. The remainder of her history is unremarkable and she takes no regular medications. She works as an accountant. There is no history of smoking or drug use, however, she does consume 5 alcoholic drinks per week. Examination reveals: pulse 70/min, respirations 16/min, and blood pressure 120/70 mm Hg. A physical examination is unremarkable. Which of the following would be effective in reducing her symptoms?",
+    "input": "Aspirin,Isosorbide dinitrate,Heparin,Propranolol",
+    "output": "Isosorbide dinitrate"
+  },
+  {
+    "instruction": "A 76-year-old woman visits a physician for a general medical examination. She is asymptomatic. Six months prior, she had a cerebral stroke with left hemiparesis, from which she has almost completely recovered with physiotherapy. She has a history of hypertension and atrial fibrillation (AF). She has no significant ischemic, valvular, or structural heart disease. She takes metoprolol, amlodipine, warfarin, and atorvastatin. Blood pressure is 125/70 mm Hg, pulse is 75/min with an irregular rhythm. Respirations are 13/min. She has a minor limp and weakness in her left arm and leg. Heart exam shows no abnormalities other than irregular beats. To assess adherence and therapeutic efficacy in this patient, which of the following studies should be ordered?",
+    "input": "Echocardiogram,International normalized ratio,Partial thromboplastin time,Serum drug levels",
+    "output": "International normalized ratio"
+  },
+  {
+    "instruction": "A 55-year-old male presents to the emergency department with dyspnea and palpitations. He does not smoke cigarettes or consume alcohol, and past medical history is insignificant. Blood pressure is 115/75 mmHG and heart rate is 125/min. Heart rhythm is irregularly irregular. After initial treatment with IV digoxin the patient's heart rate drops to 85/min and remains irregular. Which of the following best explains the effect of digoxin in this patient?",
+    "input": "Blockade of beta-adrenergic receptors,Calcium channel blockade,Vagal stimulation,Increased ventricular contractility",
+    "output": "Vagal stimulation"
+  },
+  {
+    "instruction": "A 55-year-old man is brought to the emergency department after collapsing at the grocery store and losing consciousness for 1 minute following a sudden onset of palpitations. He has no chest pain or dizziness. He has a history of hypertension, type 2 diabetes mellitus, and is currently being treated as an outpatient for pneumonia. His current medications include lisinopril, metformin, and azithromycin. He has no sign of injury, and he appears well. During the examination, he loses consciousness again. Telemetry shows polymorphic ventricular tachycardia with cyclic alteration of the QRS axis, which spontaneously resolves after 30 seconds. Which of the following is the most likely underlying cause of this patient's syncope?",
+    "input": "Hypomagnesemia,Brugada syndrome,Prolonged QT interval,Hyperkalemia",
+    "output": "Prolonged QT interval"
+  },
+  {
+    "instruction": "A 75-year-old man comes to the physician for the evaluation of progressive shortness of breath and fatigue over the past month. He reports that he cannot climb more than one flight of stairs without experiencing shortness of breath and dizziness. He has hypertension and hyperlipidemia. He has smoked one pack of cigarettes daily for the past 50 years. He does not drink alcohol. His medications include enalapril, atorvastatin, and low-dose aspirin. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 70/min, respirations are 18/min, and blood pressure is 100/80 mm Hg. Physical examination shows weak peripheral pulses. Cardiac examination is shown. Which of the following is the most likely diagnosis?",
+    "input": "Tricuspid valve stenosis,Mitral valve prolapse,Mitral valve stenosis,Aortic valve stenosis",
+    "output": "Aortic valve stenosis"
+  },
+  {
+    "instruction": "A 68-year-old woman presents to the emergency room with chest pain. She reports sudden severe and crushing substernal chest pain that started 1 hour ago. Her past medical history is notable for hypertension, hyperlipidemia, diabetes mellitus, obesity, and a prior myocardial infarction requiring a coronary artery bypass graft 2 years ago. She takes aspirin, metoprolol, lisinopril, spironolactone, atorvastatin, and insulin. She is retired and lives a sedentary lifestyle at home. Her temperature is 98.8\u00b0F (37.1\u00b0C), blood pressure is 109/68 mmHg, pulse is 118/min, and respirations are 24/min. Before being able to start the physical examination, the patient loses consciousness. Her pulse is palpable but weak. Her blood pressure is now 88/50 mmHg and pulse is 130/min. Her skin is pale, cold, and clammy. An electrocardiogram demonstrates ST elevations in leads I, aVL, V3, V4, V5, and V6. A medication that primarily stimulates which of the following receptors would be most appropriate to improve the hemodynamic status of this patient?",
+    "input": "Alpha-2 adrenergic receptor,Beta-1 adrenergic receptor,Beta-2 adrenergic receptor,D2 receptor",
+    "output": "Beta-1 adrenergic receptor"
+  },
+  {
+    "instruction": "A 70-year-old man with hyperlipidemia and hypertension returns to his cardiologist for ongoing blood pressure management. He reports feeling fine with no trouble with his medications. He exercises regularly and sleeps well without snoring or daytime somnolence. His blood pressure measurements in the past have ranged from 160 - 170/80 - 100 mmHg. Today, his pressure is 150/100 mmHg with a pulse of 65/min while on hydrochlorothiazide and ramipril. Physical exam reveals a II/VI early systolic murmur with split S2 is appreciated at the right upper sternal border. There is unremarkable carotid, renal, or abdominal bruits. What is the most common cause of his hypertension?",
+    "input": "Primary hyperaldosteronism,Hypothyroidism,Stiffening of the aorta,Aortic stenosis",
+    "output": "Stiffening of the aorta"
+  },
+  {
+    "instruction": "A 58-year-old male presents with an acutely elevated blood pressure of 220/140 mmHg. The patient complains of a headache and chest pain, and he has been vomiting for the last several hours. Physical exam demonstrates papilledema and a depressed level of consciousness. To treat this patient's hypertensive emergency, he is started on an IV medication commonly used in this situation. The agent exerts its effect by releasing nitric oxide as a metabolite, which subsequently activates guanylate cyclase and increases production of cGMP in vascular smooth muscle. Which of the following clinical effects would be expected from administration of this medication?",
+    "input": "Decreased cardiac contractility,Increased left ventricular end-diastolic pressure,Decreased stroke volume,Decreased pulmonary capillary wedge pressure",
+    "output": "Decreased pulmonary capillary wedge pressure"
+  },
+  {
+    "instruction": "An 80-year-old man is brought to the emergency department because of fatigue and lightheadedness. He does not have chest pain, palpitations, or difficulty breathing. He has a history of hyperlipidemia, type 2 diabetes mellitus, hypertension, osteoarthritis, and asthma. Current medications include simvastatin, metformin, lisinopril, albuterol, and ibuprofen. His pulse is 48/min and blood pressure is 89/50 mm Hg. He responds slowly to questions but is oriented to person, place, and time. Examination shows dry mucous membranes. His lungs are clear to auscultation and bowel sounds are positive with no pulsatile masses or bruits. Pedal pulses are nonpalpable, distal extremities are cold, and capillary refill time is 4 seconds. An ECG shows left axis deviation, a Q wave in lead III, a constant PR interval of 0.15 seconds with every third P wave that is nonconducted, and a QRS interval of .09 seconds. Which of the following is the most appropriate next step in management?",
+    "input": "Dobutamine,Norepinephrine,Cardiac pacing,Epinephrine",
+    "output": "Cardiac pacing"
+  },
+  {
+    "instruction": "A 55-year-old man presents with complaints of exertional dyspnea and dry cough. He reports using extra pillows at night to sleep and two nighttime awakenings to catch his breath in the last month. The patient lives in a homeless shelter and has not seen a doctor in the last 20 years. He has been drinking 5-8 drinks of alcohol per day for the last 20 years. Family history is non-significant, and the patient does not take any medications. His temperature is 37.1\u00b0C (98.9\u00b0F), blood pressure is 135/115 mm Hg, pulse is 85/min, and respiratory rate is 24/min. Physical examination reveals 2+ bilateral pitting edema. Chest auscultation reveals bibasilar crackles. Which of the following is associated with this patient\u2019s condition?",
+    "input": "Decreased glomerular filtration rate (GFR),Decreased extracellular fluid (ECF) volume,Increased renal blood flow,Increased renal tubular sodium reabsorption",
+    "output": "Increased renal tubular sodium reabsorption"
+  },
+  {
+    "instruction": "A 45-year-old woman comes to the emergency department because of intermittent chest pain and palpitations. She also complains of dyspnea on exertion and has had a 4.5-kg (10-lb) weight loss in the past 2 months despite normal appetite. She has no history of serious medical illness. Cardiac examination shows an irregularly irregular rhythm and a grade 3/6, low pitched, rumbling, mid-diastolic murmur heard best over the apex. Diffuse wheezing and bilateral rales are present in the lung bases. A transthoracic echocardiogram shows a left-ventricular ejection fraction of 40% and a mass in the left atrium. A biopsy of the mass is likely to show which of the following?",
+    "input": "Nonencapsulated groups of well-differentiated skeletal muscle cells,Mixture of cells from different germinal layers,Encapsulated cluster of mature fat cells,Nests of atypical melanocytes",
+    "output": "Nests of atypical melanocytes"
+  },
+  {
+    "instruction": "A 58-year-old woman comes to the physician because of intermittent painful retrosternal dullness for 4 weeks. The pain is recurrent and occurs when she exerts herself or when she is outside during cold weather. She also experiences shortness of breath and palpitations during these episodes. The symptoms resolve spontaneously when she stops or sits down for a while. Over the past few days, the episodes have increased in frequency. She has hypertension, type 2 diabetes mellitus, and osteoarthritis. Her left leg was amputated below the knee after a motorcycle accident 25 years ago. She is currently waiting for a new prosthesis and walks with crutches. Current medications include captopril, glyburide, and ibuprofen. She does not smoke or drink alcohol. Her pulse is 88/min, respirations are 20/min, and blood pressure is 144/90 mm Hg. Cardiac examination shows no abnormalities. An x-ray of the chest shows no abnormalities. An ECG shows a normal sinus rhythm without any signs of ischemia. Serum cardiac markers are within the reference range. Which of the following is the most appropriate next step in diagnosis?",
+    "input": "Myocardial perfusion scan under pharmacological stress,Upper endoscopy,Coronary angiography,Echocardiography at rest",
+    "output": "Myocardial perfusion scan under pharmacological stress"
+  },
+  {
+    "instruction": "A 52-year-old man with hypertension and hyperlipidemia comes to the emergency department 30 minutes after the sudden onset of substernal chest pain while sitting in a chair at home. He reports drinking 2 glasses of whiskey earlier that day, after a stressful day at work. Current medications include hydrochlorothiazide and atorvastatin. He has smoked one pack of cigarettes daily for the past 20 years. His pulse is 102/min, and blood pressure is 135/88 mm Hg. Cardiopulmonary examination shows normal heart sounds. An ECG obtained on arrival at the emergency department shows ST-segment elevations in the anterior leads. 15 minutes later, the patient's chest pain has resolved and a repeat ECG shows no abnormalities. Which of the following is the most likely underlying mechanism of this patient\u2019s chest pain?",
+    "input": "Coronary artery vasospasm,Coronary artery vasodilation,Atherosclerotic plaque rupture,Pericardial inflammation",
+    "output": "Coronary artery vasospasm"
+  },
+  {
+    "instruction": "A 66-year-old male with a history of myocardial infarction presents to your primary care office with complaints of dyspnea on exertion and swollen feet and ankles. On exam, you note an elevated JVP and 2+ pitting edema of bilateral lower extremities. What is the most likely explanation for this patient's lower extremity edema?",
+    "input": "Increase in capillary pressure,Decrease in plasma proteins,Increase in capillary permeability,Increase in interstitial fluid pressure",
+    "output": "Increase in capillary pressure"
+  },
+  {
+    "instruction": "A scientist observes a myocyte beating in cell culture. Which step is the most direct necessary component of relaxation for this cell?",
+    "input": "Influx of sodium ions,Influx of calcium ions from the sacroplasmic reticulum,Influx of calcium ions from outside the myocyte,Efflux of calcium ions",
+    "output": "Efflux of calcium ions"
+  },
+  {
+    "instruction": "A 67-year-old man presents to his primary care physician for a follow up appointment. He was released from the hospital 1 week ago for an appropriately managed ST-elevation myocardial infarction (STEMI); however, he has not filled any of his prescriptions and did not attend his follow up appointment as scheduled. The patient has a past medical history of hypertension and peripheral vascular disease. His temperature is 97.5\u00b0F (36.4\u00b0C), blood pressure is 167/118 mmHg, pulse is 90/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam is notable for jugular venous distention and bilateral lower extremity pitting edema. Echocardiography demonstrates an ejection fraction of 55%. Which of the following medications will have the greatest mortality benefit in this patient?",
+    "input": "Atenolol,Lisinopril,Metoprolol succinate,Propranolol",
+    "output": "Metoprolol succinate"
+  },
+  {
+    "instruction": "A 59-year-old woman presents to the outpatient clinic for worsening symptoms of congestive heart failure. She states that while she used to be able to go for short walks, she is no longer able to do so. Now, even simple tasks like getting ready in the morning have become burdensome for her. When she gets tired, sitting down helps to alleviate her symptoms. Her blood pressure is 136/92 mm Hg and heart rate is 76/min. On physical examination, she has regular heart sounds but does have 1+ pitting edema to her bilateral lower extremities. What is her New York Heart Association Functional Classification for congestive heart failure?",
+    "input": " New York Heart Association Class IIa,New York Heart Association Class IIb,New York Heart Association Class III,New York Heart Association Class IV",
+    "output": "New York Heart Association Class III"
+  },
+  {
+    "instruction": "A 72-year-old man with hypertension and type 2 diabetes mellitus is admitted to the hospital for the evaluation of breathlessness and fatigue. His pulse is 100/min, and blood pressure is 90/60 mm Hg. Further evaluation shows a systemic vascular resistance of 35 mm Hg \u00d7 min/L with an end-systolic volume of 80 mL. Which of the following describes the ejection fraction in this patient?",
+    "input": "30%,15%,25%,20%",
+    "output": "20%"
+  },
+  {
+    "instruction": "A 59-year-old man complains of chest pain that has been present for 4 hours on the 5th day of hospitalization for acute myocardial infarction. 5 days ago, he had a burning sensation in his chest and discomfort in his left shoulder. Upon initial presentation to the hospital\u2019s emergency department, he was diagnosed with an ST-elevation myocardial infarction and treated with alteplase. He has been under close observation since then. The patient now describes discomfort in his chest and left shoulder, somewhat similar in nature to what initially brought him into the hospital. A pulse of 86/min, respiratory rate of 16/min, and a blood pressure of 146/90 mm Hg are observed. Auscultation of the chest reveals no abnormal findings. The patient\u2019s ECG is difficult to interpret. Of the following laboratory tests, an abnormal result of which would have the most diagnostic utility?",
+    "input": "Alkaline phosphatase,Creatine kinase (CK-MB),Lactate dehydrogenase,Troponin T",
+    "output": "Creatine kinase (CK-MB)"
+  },
+  {
+    "instruction": "A 67-year-old man is brought to the emergency department with severe, crushing, retrosternal chest pain for the last 45 minutes. The pain radiates to his left shoulder and is associated with sweating. The past medical history is significant for hypercholesterolemia, for which he takes lovastatin. He smoked as a youth but quit at 40 years of age. On arrival at the emergency department, the vital signs were as follows: pulse 58/min, respiratory rate 22/min, and blood pressure 90/56 mm Hg. He is sweating profusely. The jugular venous pulse is visible 2.5 cm above the sternal angle. Auscultation reveals soft S1 and S2 heart sounds with an added S4 and bilateral inspiratory crackles at the lung bases. The electrocardiogram shows ST-elevations in leads V1 and V2. A diagnosis of an anteroseptal infarction is made. The patient was given aspirin on the way to the hospital. He is started on dopamine, morphine, nitroglycerin, and streptokinase. Which of the following would be the most concerning development over the next 24h this patient?",
+    "input": "Hemoptysis,Easy fatigability,Persistent ST-segment elevation,Shortness of breath",
+    "output": "Hemoptysis"
+  },
+  {
+    "instruction": "A 2-year-old girl is brought in to the office by her parents. They state that their daughter has recently been more irritable than usual, and she occasionally becomes pale and blue. Her parents note that she was diagnosed with a heart murmur, but it was never treated. Physical examination reveals a small child in distress. She is laying on the examination table with her knees drawn to her chest. Cardiac auscultation reveals a harsh, systolic ejection murmur that is best heard at the upper left sternal border. Which of the following is the most likely diagnosis?",
+    "input": "Tetralogy of Fallot,Transposition of great vessels,Pulmonary hypoplasia,Atrial septal defect",
+    "output": "Tetralogy of Fallot"
+  },
+  {
+    "instruction": "A 40-year-old female with a past medical history of high cholesterol, high blood pressure, hyperthyroidism, and asthma presents to the primary care clinic today. She has tried several different statins, all of which have resulted in bothersome side effects. Her current medications include hydrochlorothiazide, levothyroxine, albuterol, oral contraceptives, and a multivitamin. Her physical examination is unremarkable. Her blood pressure is 116/82 mm Hg and her heart rate is 82/min. You decide to initiate colesevelam (Welchol). Of the following, which is a concern with the initiation of this medication?",
+    "input": "Colesevelam can cause cognitive impairment.,Colesevelam can increase the risk of cholelithiasis.,Timing of the dosing of colesevelam should be separated from this patient\u2019s other medications.,Colesevelam can significantly decrease your HDL.",
+    "output": "Timing of the dosing of colesevelam should be separated from this patient\u2019s other medications."
+  },
+  {
+    "instruction": "A 39-year-old man seeks an evaluation in the emergency room due to an episode of syncope at work. He says that he has felt increasing shortness of breath while exercising over the past 6 months. He is a well-built man in mild distress. The vital signs include heart rate 98/min, respiratory rate 18/min, temperature 36.5\u00b0C (97.7\u00b0F), and blood pressure 135/90 mm Hg. The cardiac examination is significant for a harsh systolic ejection murmur at the left lower sternal border which is accentuated by forceful expiration against a closed airway. Palpation of the carotid artery shows 2 closely spaced pulses which occur during systole. Which of the following is most consistent with these findings?",
+    "input": "Aortic stenosis,Cardiac tamponade,Hypertrophic cardiomyopathy,Third-degree heart block",
+    "output": "Hypertrophic cardiomyopathy"
+  },
+  {
+    "instruction": "A 64-year-old man presents to the clinic with easy fatigability and breathlessness when climbing stairs for the last 2 weeks. He also mentions that he occasionally has bouts of cough at night after about 2\u20133 hours of sleep which is relieved when he sits upright. He denies shortness of breath at rest, palpitations, and loss of consciousness. He has had hypertension for the last 20 years and is on antihypertensive medications. On physical examination, his temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 104/min, blood pressure is 122/82 mm Hg, and respirations are 18/min. Chest auscultation reveals crackles over the lung bases bilaterally. Examination of his abdomen reveals mildly tender hepatomegaly. Laboratory investigation results include a hemoglobin of 14.8 g/dL (9.18 mmol/L) and an elevated serum B-type natriuretic peptide. His two-dimensional echocardiogram reveals an enlarged left atrium and an ejection fraction of 55%. Which of the following novel drugs is most likely to benefit the patient in addition to valsartan?",
+    "input": "Etanercept,Moxonidine,Sacubitril,Aliskiren",
+    "output": "Sacubitril"
+  },
+  {
+    "instruction": "A 63-year-old woman comes to the physician because of a 6-month history of fatigue and shortness of breath on exertion in addition to a 1-month history of ankle swelling. She has a history of sleep apnea. Examination of the lower extremities shows bilateral pitting pedal and ankle edema. Cardiac examination shows a widely split S2 that varies with respiration. An ECG shows right bundle branch block. Which of the following is the most likely etiology of the patient's lower extremity edema?",
+    "input": "Localized lymphatic obstruction,Thrombus formation in a deep vein,Increased capillary hydrostatic pressure,Decreased plasma oncotic pressure\n\"",
+    "output": "Increased capillary hydrostatic pressure"
+  },
+  {
+    "instruction": "A 74-year-old man was admitted to the intensive care ward due to progressive dyspnea, cough with pink sputum, and diaphoresis. He had 2 myocardial infarctions at the age of 66 and 69 years and suffers from chronic heart failure. At the time of presentation, his vital signs are as follows: blood pressure 90/50 mm Hg, heart rate 108/min, respiratory rate 29/min, and temperature 35.5\u00b0C (95.9\u00b0F). On physical examination, the patient sits upright. He is lethargic and cyanotic. Lung auscultation reveals widespread bilateral fine rales. Cardiac examination is significant for S3, accentuation of the pulmonic component of S2, and a systolic murmur heard best at the apex of the heart. Soon after hospitalization, the patient develops ventricular fibrillation and dies despite adequate resuscitation measures. Which microscopic finding would you expect to see in this patient on autopsy?",
+    "input": "Brownish inclusions in the pulmonary macrophages on H&E staining,Positive Prussian-blue staining of the kidney tissue,Ground-glass hepatocytes,Positive Congo-red staining of the cardiac tissue",
+    "output": "Brownish inclusions in the pulmonary macrophages on H&E staining"
+  },
+  {
+    "instruction": "Please refer to the summary above to answer this question\nA cardiologist at another institution is trying to replicate the table in the abstract with a very similar study that he is conducting. After collecting data on changes in plaque volume, LDL-C levels, FEV1/FVC ratio, and ACQ scores from baseline to 12-month follow-up, he is curious if the changes in the aforementioned measurements are statistically significant. Which of the following is the most appropriate statistical method to compare the groups?\"\n\"Impact of pulmharkimab on asthma control and cardiovascular disease progression in patients with coronary artery disease and comorbid asthma\nIntroduction:\nActive asthma has been found to be associated with a more than two-fold increase in the risk of myocardial infarction, even after adjusting for cardiovascular risk factors. It has been suggested that the inflammatory mediators and accelerated atherosclerosis characterizing systemic inflammation may increase the risk of both asthma and cardiovascular disease. This study evaluated the efficacy of the novel IL-1 inhibitor pulmharkimab in improving asthma and cardiovascular disease progression.\nMethods:\nIn this double-blind, randomized controlled trial, patients (N=1200) with a history of coronary artery disease, myocardial infarction in the past 2 years, and a diagnosis of comorbid adult-onset asthma were recruited from cardiology clinics at a large academic medical center in Philadelphia, PA. Patients who were immunocompromised or had a history of recurrent infections were excluded.\nPatients were subsequently randomly assigned a 12-month course of pulmharkimab 75 mg/day, pulmharkimab 150 mg/day, or a placebo, with each group containing 400 participants. All participants were included in analysis and analyzed in the groups to which they were randomized regardless of medication adherence. Variables measured included plaque volume, serum LDL-C levels, FEV1/FVC ratio, and Asthma Control Questionnaire (ACQ) scores, which quantified the severity of asthma symptoms. Plaque volume was determined by ultrasound.\nAnalyses were performed from baseline to month 12.\nResults:\nAt baseline, participants in the two groups did not differ by age, gender, race, plaque volume, serum LDL-C levels, FEV1/FVC ratio, and ACQ scores (p > 0.05 for all). A total of 215 participants (18%) were lost to follow-up. At 12-month follow-up, the groups contained the following numbers of participants:\nPulmharkimab 75 mg/d: 388 participants\nPulmharkimab 150 mg/d: 202 participants\nPlacebo: 395 participants\nTable 1: Association between pulmharkimab and both pulmonary and cardiovascular outcomes. Models were adjusted for sociodemographic variables and medical comorbidities. All outcome variables were approximately normally distributed.\nPulmharkimab 75 mg/d, (Mean +/- 2 SE) Pulmharkimab 150 mg/d, (Mean +/- 2 SE) Placebo, (Mean +/- 2 SE) P-value\nPlaque volume (mm3), change from baseline 6.6 \u00b1 2.8 1.2 \u00b1 4.7 15.8 \u00b1 2.9 < 0.01\nLDL-C levels, change from baseline -9.4 \u00b1 3.6 -11.2 \u00b1 14.3 -8.4 \u00b1 3.9 0.28\nFEV1/FVC ratio, change from baseline 0.29 \u00b1 2.21 0.34 \u00b1 5.54 -0.22 \u00b1 3.21 0.27\nACQ scores, change from baseline 0.31 \u00b1 1.22 0.46 \u00b1 3.25 0.12 \u00b1 1.33 0.43\nConclusion:\nPulmharkimab may be effective in reducing plaque volume but does not lead to improved asthma control in patients with a history of myocardial infarction and comorbid asthma.\nSource of funding: Southeast Institute for Advanced Lung and Cardiovascular Studies, American Center for Advancement of Cardiovascular Health\"",
+    "input": "Pearson correlation analysis,Chi-square test,Analysis of variance,Kaplan-Meier analysis",
+    "output": "Analysis of variance"
+  },
+  {
+    "instruction": "A 35-year-old woman comes to the physician because of intermittent episodes of heart palpitations for 3 weeks. The palpitations are accompanied by chest pain that is sharp and localized to the left 3rd intercostal space. The patient does not smoke. She drinks one to two glasses of wine on the weekends. She appears nervous. Her pulse is 110/min and irregularly irregular, and blood pressure is 135/85 mmHg. Examination shows a fine tremor on both hands and digital swelling. There is retraction of the left upper eyelid. A systolic ejection murmur is heard along the right upper sternal border. The extremities are warm, and pulses are 2+ bilaterally. Which of the following is the most appropriate pharmacotherapy?",
+    "input": "Propranolol,Digoxin,Amiodarone,Warfarin",
+    "output": "Propranolol"
+  },
+  {
+    "instruction": "A 3-year-old boy is brought to the clinic by his parents because he \u2018hasn\u2019t been himself lately\u2019 and reportedly gets tired very easily from his swimming classes in comparison to the other kids. He also \u2018can\u2019t catch his breath\u2019 at times. The mother also reports that he seems to be slightly shorter than other children his age. His temperature is 36.6\u00b0C (97.9\u00b0F), blood pressure is 110/70 mm Hg, and respiratory rate is 14/min. On auscultation, a localized harsh pansystolic murmur is heard over the left sternal border at the level of the 2nd\u20133rd intercostal space. The murmur becomes louder when the patient is asked to squat. An echocardiogram is performed. Which of the structures below gives rise to the defective structure that is causing this patient\u2019s symptoms?",
+    "input": "Endocardial cushion,Infundibular septum,3rd pharyngeal arch,Rathke\u2019s pouch",
+    "output": "Endocardial cushion"
+  },
+  {
+    "instruction": "A 62-year-old Caucasian male presents to the emergency room with severe substernal chest pain, diaphoresis, and nausea. Imaging reveals transmural myocardial infarction in the posterior 1/3 of the ventricular septum. Which of this patient's coronary arteries is most likely occluded?",
+    "input": "Left circumflex,Diagonal perforators,Septal perforators,Right main",
+    "output": "Right main"
+  },
+  {
+    "instruction": "A 53-year-old man comes to the physician for a follow-up appointment three days after being prescribed a selective alpha-1 agonist. He reports improvement in his symptoms and has not experienced any adverse effects. This drug was most likely prescribed for which of the following conditions?",
+    "input": "Bronchospasm due to bronchial asthma,Urinary hesitancy due to benign prostatic hyperplasia,Nasal congestion due to a viral infection,Blood pressure management prior to pheochromocytoma excision",
+    "output": "Nasal congestion due to a viral infection"
+  }
+]

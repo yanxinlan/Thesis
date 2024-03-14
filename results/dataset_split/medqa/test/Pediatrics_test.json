@@ -1,0 +1,452 @@
+[
+  {
+    "instruction": "A 3-month-old boy is brought the emergency department by his parents after an episode of cyanosis and muscle hypotonia that resolved after 2 minutes. Diagnostic evaluation fails to discover an exact etiology of the boy's symptoms and the episode is classified as a brief resolved unexplained event (BRUE). The risk profile for BRUE in infants remains largely unknown. The pediatrician who saw the boy in the emergency department is trying to identify risk factors for BRUE. She is aware of several confounders, including age, socioeconomic background, and family history of medical illness. She recruits 75 infants under 1 year of age with BRUE and 75 infants without BRUE of the same age, socioeconomic background, and family history of medical illness. She then compares the two groups with regard to history of feeding problems and history of recent upper respiratory infection. Which of the following methods was conducted to control confounding bias in the study?",
+    "input": "Blinding,Restriction,Randomization,Matching",
+    "output": "Matching"
+  },
+  {
+    "instruction": "A 3-month-old infant is brought to her pediatrician because she coughs and seems to have difficulty breathing while feeding. In addition, she seems to have less energy compared to other babies and appears listless throughout the day. She was born by cesarean section to a G1P1 woman with no prior medical history and had a normal APGAR score at birth. Her parents say that she has never been observed to turn blue. Physical exam reveals a high-pitched holosystolic murmur that is best heard at the lower left sternal border. The most likely cause of this patient's symptoms is associated with which of the following abnormalities?",
+    "input": "22q11 deletion,Deletion of genes on chromosome 7,Lithium exposure in utero,Maternal alcohol consumption",
+    "output": "22q11 deletion"
+  },
+  {
+    "instruction": "A 6-year-old boy is brought to the emergency department by his mother for worsening wheezing and shortness of breath over the past day. He has not had a fever, cough, vomiting, or diarrhea. He has asthma and eczema. He uses a glucocorticoid inhaler and an albuterol inhaler but has missed his medications for the past week while on vacation. He appears uncomfortable. His temperature is 36\u00b0C (96.8\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 100/80. Expiratory and inspiratory wheezing is heard throughout both lung fields. There are moderate intercostal and subcostal retractions and a decreased inspiratory to expiratory ratio. Nebulized albuterol and ipratropium treatments and intravenous methylprednisolone are given in the emergency department for a presumed asthma exacerbation. One hour later, the child is limp and lethargic. Magnesium sulfate is administered. His temperature is 36\u00b0C (96.8\u00b0F), pulse is 150/min, respirations are 22/min, and blood pressure is 100/70. No wheezing is heard on repeat pulmonary examination. Which of the following is the most appropriate next step in management?",
+    "input": "Intubate with mechanical ventilation,Perform needle thoracostomy at the 2nd intercostal space,Perform bronchoscopy,Provide additional dose of methylprednisolone",
+    "output": "Intubate with mechanical ventilation"
+  },
+  {
+    "instruction": "A one-day-old male is evaluated in the hospital nursery for bilious vomiting. The patient has urinated multiple times since birth but has not yet passed meconium. He was born at 38 weeks gestation to a 36-year-old gravida 3 via vaginal delivery. The pregnancy was complicated by gestational diabetes. The patient\u2019s mother received routine prenatal care and declined first trimester screening. She subsequently underwent a quadruple screen at 15 weeks gestation that demonstrated decreased maternal serum alpha-fetoprotein (AFP), increased beta-hCG, decreased unconjugated estriol, and increased inhibin A. Her last ultrasound prior to onset of labor demonstrated an amniotic fluid index (AFI) of 28 cm. The patient\u2019s two older siblings are both healthy. The patient\u2019s temperature is 97.8\u00b0F (36.6\u00b0C), blood pressure is 58/37 mmHg, pulse is 166/min, and respirations are 38/min. On physical exam, the patient is in moderate distress. His abdomen is firm and distended with hypoactive bowel sounds.\n\nWhich of the following is the most likely etiology of this fetus\u2019s presentation?",
+    "input": "Duodenal atresia,Meconium ileus,Necrotizing enterocolitis,Pyloric stenosis",
+    "output": "Duodenal atresia"
+  },
+  {
+    "instruction": "A 4-year-old boy is brought to the emergency department because of severe abdominal pain and bilious vomiting for 6 hours. He has not had bowel movements in the past 24 hours. He appears ill. His temperature is 37.8\u00b0C (100\u00b0F) and pulse is 122/min. Examination shows a distended abdomen. There is tenderness to palpation in the lower abdomen; guarding and rebound tenderness are present. Bowel sounds are decreased. An x-ray of the abdomen shows dilated loops of bowel. He has been accompanied by his 14-year-old brother. The surgeon recommends an emergency laparotomy. The parents are away visiting friends and cannot be reached. Which of the following is the most appropriate next best step in management?",
+    "input": "Get consent from the patient's brother,Get consent from the patient,Perform emergency laparotomy,Delay surgery until parental consent",
+    "output": "Perform emergency laparotomy"
+  },
+  {
+    "instruction": "A 3-week-old male newborn is brought to the hospital because of poor weight gain since birth. He was born at 38 weeks' gestation via normal vaginal delivery. He weighed 3005 g (6 lb, 10 oz) at birth and currently weighs 2835 g (6 lb, 4 oz). He has been latching on and breastfeeding well since birth. His mother has a history of Graves' disease and underwent near-total thyroidectomy in the second trimester of her pregnancy after her symptoms could not be controlled with antithyroid drugs. She is currently receiving L-thyroxine therapy. The patient's temperature is 38.9\u00b0C (102\u00b0F), pulse is 176/min, and respirations are 42/min. He appears irritable. Examination shows a diaphoretic infant with a paucity of subcutaneous fat. There is swelling of the neck at the midline. Which of the following is the most likely cause?",
+    "input": "Transplacental passage of thyroid peroxidase antibodies,Transplacental passage of TSH receptor antibodies,Transplacental viral infection,Opiate use in the mother",
+    "output": "Transplacental passage of TSH receptor antibodies"
+  },
+  {
+    "instruction": "A 5-year-old female is brought to a speech therapist for continuing work on improving her communication skills. She is only able to verbalize two word sentences and has generalized developmental delay. When she was born it was noticed that she had a high pitched mewing cry and subsequent physical exam revealed microcephaly, prominent epicanthal folds, and a holosystolic murmur best heard in the left 5th intercostal space near the sternum. An abnormality of which of the following chromosomes is most likely responsible for this patient's disorder?",
+    "input": "5,7,18,21",
+    "output": "5"
+  },
+  {
+    "instruction": "A newborn is found to be extremely cyanotic immediately after birth. He then develops progressive respiratory failure and is admitted to the neonatal ICU. A single loud S2 heart sound is appreciated as well as a machine-like murmur at the left upper sternal border. Radiography shows an enlarged \"egg-shaped\" heart. The newborn is then taken for a atrial septostomy to alleviate the condition pending definitive surgical correction. Which of the following is the most likely cause of this newborn's condition?",
+    "input": "Coarctation of the aorta,Persistent truncus arteriosus,Transposition of great vessels,Tricuspid atresia",
+    "output": "Transposition of great vessels"
+  },
+  {
+    "instruction": "A 2-day-old male newborn is brought to the physician because of yellowing of the skin and sclerae for 16 hours. He had previously been well. He was born at 38 weeks' gestation via uncomplicated vaginal delivery and weighed 3.1 kg (6 lb 13 oz). The mother has no medical insurance and did not receive prenatal care. The newborn's 4-year-old brother has sickle cell disease. Examination shows jaundice. The abdomen is mildly distended. The liver is palpated 1 cm below the right costal margin and the spleen tip is palpated just below the left costal margin. Laboratory studies show:\nHemoglobin 11 g/dL\nReticulocytes 9%\nLeukocytes 9,100/mm3\nPlatelets 244,000/mm3\nMaternal blood group 0, Rh-negative\nAnti-Rh antibody titer positive\nFetal blood group B, Rh-negative\nSerum\nBilirubin, total 11.3 mg/dL\nDirect 0.3 mg/dL\nWhich of the following is the most likely cause of this patient's condition?\"",
+    "input": "RBC sickling,Anti-D antibodies,Biliary duct malformation,Anti-B antibodies",
+    "output": "Anti-B antibodies"
+  },
+  {
+    "instruction": "An 18-month-old girl is brought to the emergency department because of a cough that her parents are worried about. She has had a runny nose and a low-grade fever for the past 2 days, with some hoarseness and a rough-sounding cough that started this afternoon. This evening she began making some high-pitched sounds when taking breaths, and she seemed to be having some trouble breathing. She is alert and does not appear to be in acute distress. She has a temperature of 38.0\u00b0C (100.4 \u00b0F), with a respiratory rate of 50/min and O2 saturation of 97%. There is audible inspiratory stridor that worsens when she starts to cry during the examination. She has an occasional barking cough. Her pharynx is mildly erythematous with normal tonsils and no exudate. A frontal X-ray of the upper chest airways is obtained (shown in the image). Which of the following is the best step in management?",
+    "input": "Anterior-posterior and lateral radiographs of the neck,Racemic epinephrine and intramuscular corticosteroid therapy,Intravenous antibiotics,Trial of bronchodilator therapy and oral steroids",
+    "output": "Racemic epinephrine and intramuscular corticosteroid therapy"
+  },
+  {
+    "instruction": "A 4-week-old female newborn is brought to the physician because of increasing yellowing of her eyes and skin for 2 weeks. The mother has noticed that the girl's stools have become pale over the past week. She was breastfed since birth but her parents switched her to formula feeds recently after reading on the internet that breastfeeding could be the cause of her current symptoms. The patient was delivered vaginally at 38 weeks' gestation. Pregnancy and delivery were uncomplicated. She appears healthy. Vital signs are within normal limits. She is at the 50th percentile for length and at the 60th percentile for weight. Examination shows scleral icterus and jaundice. The liver is palpated 2 cm below the right costal margin. Cardiopulmonary examination shows no abnormalities. Neurologic examination shows no focal findings. Serum studies show:\nBilirubin\nTotal 15 mg/dL\nDirect 12.3 mg/dL\nAlkaline phosphatase 2007 U/L\nAST 53 U/L\nALT 45 U/L\n\u03b3-glutamyl transferase 154 U/L\nBlood group A positive\nWhich of the following is the most likely diagnosis?\"",
+    "input": "Galactosemia,Biliary atresia,Crigler\u2013Najjar syndrome,Breast milk jaundice",
+    "output": "Biliary atresia"
+  },
+  {
+    "instruction": "A 7-year-old boy is brought to a pediatrician by his parents for evaluation of frequent bed wetting during the night. A detailed history reveals that there has been no history of urinary incontinence during the day since the boy was 4 years of age, but that he has never been dry at night continuously for 1 week. There is no history of urinary tract infections, urgency, frequency, or hesitancy. On physical examination, the boy\u2019s vital signs are stable. His neurologic and abdominal examinations are completely normal. His laboratory investigations are as follows:\nUrine-specific gravity (first-morning sample) 1.035\nUrine red blood cells Absent\nUrine pus cells Absent\nUrine culture Negative\nWhich of the following is the next step in the management of this patient?",
+    "input": "Magnetic resonance imaging (MRI) of the spine,Reassuring the parents and use of an enuresis alarm,Treatment with oral oxybutynin,Treatment with oral imipramine",
+    "output": "Reassuring the parents and use of an enuresis alarm"
+  },
+  {
+    "instruction": "A 14-year-old girl comes to the physician with her father for evaluation of her short stature. She feels well overall, but is concerned because all of her friends are taller than her. Her birth weight was normal. Her father reports he had a short stature during his teenage years; he is currently 177 cm (5 ft 10 in) tall. She is at the 2ndpercentile for height and 35th percentile for weight. Breast development is Tanner stage 2. Pubic and axillary hair is absent. An x-ray of the left hand and wrist shows a bone age of 11 years. Which of the following is the most appropriate next best step in management?",
+    "input": "Pelvic ultrasound,Measure serum dehydroepiandrosterone levels,Reassurance and follow-up,MRI of the brain",
+    "output": "Reassurance and follow-up"
+  },
+  {
+    "instruction": "An 11-month-old boy is brought to the clinic by his mother for a rash on his trunk, which he has had for the past 2 days. She notes that he is eating less and is more cranky than usual. His birth history is insignificant, and his immunizations are up to date. Vital signs include: temperature is 37.8\u00b0C (100.0\u00b0F), pulse is 98/min, and respiratory rate is 16/min. The rash features thin-walled, fluid-filled blisters that rupture easily. Fluid samples from the lesions are sent for analysis to a microbiology lab. The results reveal an infection by the gram-positive bacterium Staphylococcus aureus. The patient is diagnosed with staphylococcal scalded skin syndrome. Which of the following is involved with the primary defense in response to the bacteria and toxins produced by this organism?",
+    "input": "Immunoglobulin- IgG,Immunoglobulin- IgD,Immunoglobulin- IgA,Immunoglobulin- IgM",
+    "output": "Immunoglobulin- IgM"
+  },
+  {
+    "instruction": "A 13-month-old boy is brought to the physician for a well-child examination. Physical examination shows hepatosplenomegaly. A venous blood sample obtained for routine screening tests is milky. After refrigeration, a creamy supernatant layer appears on top of the sample. Genetic analysis shows a mutation in the apolipoprotein C-II gene (APOC2) on chromosome 19. This patient is at greatest risk for developing which of the following complications?",
+    "input": "Acute pancreatitis,Myocardial infarction,Corneal arci,Cerebrovascular accident",
+    "output": "Acute pancreatitis"
+  },
+  {
+    "instruction": "A 6-year-old boy is brought to the physician by his mother because of a 2-day history of dysuria and increased urinary frequency. Vital signs are within normal limits. Urinalysis shows cloudy, red urine. This patient's clinical presentation is best explained by an infection with a virus with which of the following features?",
+    "input": "Non-enveloped with linear, single-stranded DNA,Non-enveloped with linear, single-stranded RNA,Enveloped with linear, single-stranded RNA,Non-enveloped with linear, double-stranded DNA",
+    "output": "Non-enveloped with linear, double-stranded DNA"
+  },
+  {
+    "instruction": "A 3-year-old boy is brought to the pediatrician because of abdominal pain and constipation for 3 weeks. His mother says he has been increasingly irritable recently. His vocabulary consists of 50 words and he does not use sentences. Physical examination shows pale conjunctivae and abdominal tenderness. He refers to himself by name but is unable to name body parts or count to three. Peripheral blood smear shows small, pale red blood cells with basophilic stippling. Which of the following processes is most likely impaired in this patient?",
+    "input": "Conversion of ferrous iron to ferric iron,Conversion of porphobilinogen to hydroxymethylbilane,Conversion of aminolevulinic acid to porphobilinogen,Conversion of uroporphyrinogen III to coproporphyrinogen III",
+    "output": "Conversion of aminolevulinic acid to porphobilinogen"
+  },
+  {
+    "instruction": "A 10-year-old Caucasian female with Turner's syndrome underwent an abdominal imaging study and was discovered that the poles of her kidneys were fused inferiorly. Normal ascension of kidney during embryological development would be prevented by which of the following anatomical structures?",
+    "input": "Superior mesenteric artery,Inferior mesenteric artery,Celiac artery,Splenic artery",
+    "output": "Inferior mesenteric artery"
+  },
+  {
+    "instruction": "A 4-year-old girl is brought to the emergency department with a persistent cough, fever, and vomiting. The past year the child has been admitted to the hospital 3 times with pneumonia. For the past 1 week, the child has been experiencing thick purulent cough and says that her chest feels \u2018heavy\u2019. Her stools have been loose and foul-smelling over the past week. Her parents are also concerned that she has not gained much weight due to her frequent hospital visits. She was born at 39 weeks gestation via spontaneous vaginal delivery and is up to date on all vaccines and is meeting all developmental milestones. On physical exam, the temperature is 39.1\u00b0C (102.4\u00b0F). She appears lethargic and uncomfortable. Crackles are heard in the lower lung bases, with dullness to percussion. A small nasal polyp is also present on inspection. Which of the following is the most likely cause for the girl\u2019s symptoms?",
+    "input": "Dysfunction in a transmembrane regulator,Inefficient breakdown of leucine, isoleucine, and valine,Dysfunction in the motility of respiratory cilia,Deficiency in lymphocytic activity",
+    "output": "Dysfunction in a transmembrane regulator"
+  },
+  {
+    "instruction": "A 2,300 g (5 lb) male newborn is delivered to a 29-year-old primigravid woman. The mother has HIV and received triple antiretroviral therapy during pregnancy. Her HIV viral load was 678 copies/mL 1 week prior to delivery. Labor was uncomplicated. Apgar scores were 7 and 8 at 1 and 5 minutes respectively. Physical examination of the newborn shows no abnormalities. Which of the following is the most appropriate next step in the management of this infant?",
+    "input": "Administer zidovudine,HIV DNA testing,HIV RNA testing,Reassurance and follow-up",
+    "output": "Administer zidovudine"
+  },
+  {
+    "instruction": "A 5-year-old female presents to the pediatrician for a routine office visit. The patient is in kindergarten and doing well in school. She is learning to read and is able to write her first name. Her teacher has no concerns. The patient\u2019s mother is concerned that the patient is a picky eater and often returns home from school with most of her packed lunch uneaten. The patient\u2019s past medical history is significant for moderate persistent asthma, which has required three separate week-long courses of prednisone over the last year and recently diagnosed myopia. The patient\u2019s mother is 5\u20197\u201d, and the patient\u2019s father is 5\u201910\u201d. The patient\u2019s weight and height are in the 55th and 5th percentile, respectively, which is consistent with her growth curve. On physical exam, the patient has a low hairline and a broad chest. Her lungs are clear with a mild expiratory wheeze. The patient\u2019s abdomen is soft, non-tender, and non-distended. She has Tanner stage I breast development and pubic hair.\n\nThis patient is most likely to have which of the following additional findings?",
+    "input": "Absent Barr bodies on buccal smear,Elevated serum alkaline phosphatase level,Elevated serum TSH level,Mass in the sella turcica",
+    "output": "Absent Barr bodies on buccal smear"
+  },
+  {
+    "instruction": "A routine newborn screening test for phenylketonuria in a male neonate shows a serum phenylalanine concentration of 44 mg/dL (N < 20). He is started on a special diet and the hyperphenylalaninemia resolves. At a routine well-child examination 4 months later, the physician notices that he has persistent head lag. On examination, he has blue eyes, pale skin, blonde hair, and generalized hypotonia. His serum prolactin level is markedly elevated. Supplementation of which of the following substances is most likely to prevent further complications of this patient's condition?",
+    "input": "Tyrosine,Pyridoxine,Thiamine,Tetrahydrobiopterin",
+    "output": "Tetrahydrobiopterin"
+  },
+  {
+    "instruction": "A 27-year-old HIV positive female gave birth to a 7lb 2oz (3.2 kg) baby girl. The obstetrician is worried that the child may have been infected due to the mother's haphazard use of her anti-retroviral medications. Which of the following assays would a hospital use detect the genetic material of HIV if the child had been infected?",
+    "input": "Enzyme-linked immunosorbent assay (ELISA),Rapid HIV antibody test,Polymerase chain reaction,Southern blot",
+    "output": "Polymerase chain reaction"
+  },
+  {
+    "instruction": "A previously healthy 2-year-old boy is brought to the physician because of a 10-day history of unsteady gait, frequent falls, and twitching of the extremities. Physical examination shows bilateral saccadic eye movement in all directions and brief, involuntary muscle contractions of the trunk and limbs. There is an ill-defined, nontender mass in the upper right abdomen. He undergoes surgical resection of the tumor. Histopathologic examination of this mass is most likely to show which of the following?",
+    "input": "Numerous immature lymphocytes in a starry sky pattern,Abortive glomeruli and tubules in a spindle cell stroma,Small blue cells arranged in rosettes around a central neuropil,Hepatocytes in fetal and embryonic stages of differentiation",
+    "output": "Small blue cells arranged in rosettes around a central neuropil"
+  },
+  {
+    "instruction": "An 18-month-old girl is brought to the pediatrician by her mother for vaginal bleeding. The mother states that she noticed the bleeding today, which appeared as brown discharge with clots in the patient\u2019s diaper. The mother denies frequent nosebleeds or easy bruising. She also denies any known trauma. She does mention that the patient has been limping and complaining of left leg pain since a fall 2 months ago. On physical exam, there are multiple 2-3 cm hyperpigmented patches on the patient\u2019s trunk. There is bilateral enlargement of the breasts but no pubic hair. The vaginal orifice is normal and clear with an intact hymen. A plain radiograph of the left lower leg shows patchy areas of lytic bone and sclerosis within the femoral metaphysis. Which of the following is associated with the patient\u2019s most likely diagnosis?",
+    "input": "Bitemporal hemianopsia,Hypertension,Pheochromocytoma,Polyostotic fibrous dysplasia",
+    "output": "Polyostotic fibrous dysplasia"
+  },
+  {
+    "instruction": "A 5-year-old boy is brought to the physician because of an irregular gait 3 days after receiving age-appropriate vaccinations. Examination of the lower extremities shows no redness or swelling. When the child stands on his right leg, his left leg drops and his pelvis tilts towards the left. Sensation to light touch is normal in both legs. This patient's symptoms are most likely due to the injection of the vaccine into which of the following locations?",
+    "input": "Inferolateral quadrant of the right buttock,Inferomedial quadrant of the right buttock,Inferomedial quadrant of the left buttock,Superomedial quadrant of the right buttock",
+    "output": "Superomedial quadrant of the right buttock"
+  },
+  {
+    "instruction": "A 2-year-old boy is brought to the physician because of decreased appetite and abdominal pain for the last several weeks. Physical examination shows a well-appearing toddler with a palpable left-sided abdominal mass that does not cross the midline. A CT of the abdomen shows a large, necrotic tumor on the left kidney. Histological examination of the kidney mass shows primitive blastemal cells and immature tubules and glomeruli. This tissue is most likely derived from the same embryological structure as which of the following?",
+    "input": "Adrenal medulla,Thyroid gland,Papillary muscles,Anterior pituitary\n\"",
+    "output": "Papillary muscles"
+  },
+  {
+    "instruction": "A 16-month-old boy is brought to the physician by his mother for a regular check-up. His mother says that he has not yet begun to walk. He is exclusively breastfed. He is at the 20th percentile for length, 10th percentile for weight, and 50th percentile for head circumference. Physical examination shows erosion of the enamel on the lingual surface of the incisors and carious molars. He has frontal bossing. His wrists are widened, his legs appear bowed, and there is beading of the ribs. Which of the following is the most likely underlying cause of this patient's condition?",
+    "input": "Deficiency of cofactor for prolyl and lysyl hydroxylase,Defect in type I collagen,Impaired growth plate mineralization,Mutation of fibroblast growth factor receptor 3",
+    "output": "Impaired growth plate mineralization"
+  },
+  {
+    "instruction": "A 16-year-old patient presents to the physician\u2019s office with an absence of menstruations. Her last period was 6 months ago. Since almost a year and a half ago, she intentionally restricted her diet at the expense of carbohydrates, exercised intensively, and lost 18.0 kg (39.7 lb). She had her menarche at the age of 12 and menstruated normally until last year. She is not sexually active. On physical examination, the vital signs include blood pressure 100/60 mm Hg, heart rate 55/min, respiratory rate 12/min, and temperature 35.9\u00b0C (96.6\u00b0F). Her weight is 55.0 kg (121.3 lb), and her height is 166 cm (5 ft 5 in). Physical examination reveals the good development of muscles and decreased adiposity. A bone scan shows decreased calcium mineral deposits. Which statement about this patient\u2019s condition is correct?",
+    "input": "This patient has insulin resistance,Decreased adiposity contributes to hypoestrogenemia in this patient,The patient is likely to have decreased blood estrogen concentration due to increased liver metabolism,The patient should be checked for hyperthyroidism because such extensive lipolysis is likely to result from thyroid hyperfunction",
+    "output": "Decreased adiposity contributes to hypoestrogenemia in this patient"
+  },
+  {
+    "instruction": "A 6-month-old boy presents to his pediatrician for a wellness examination. The mother reports that her child has difficulty rolling from his back to his front and sitting unsupported. The patient is able to smile and furrow his brow normally, but she has noticed that he has a weak cry and suck. He was born at 38 weeks gestation via a spontaneous vaginal delivery without any complications. The mother said that the patient appeared \"normal\" until the past few weeks. On physical exam, his extraocular muscle movements are intact, and a symmetric smile is seen. He has symmetric flaccid weakness of both his upper and lower extremities. He also has a bell-shaped chest. Deep tendon reflexes are diminished. Which of the following is the most likely cause of this patient's symptoms?",
+    "input": "Anterior horn cell degeneration,Axonal demyelination,Decreased acetylcholine receptor density,Myonecrosis",
+    "output": "Anterior horn cell degeneration"
+  },
+  {
+    "instruction": "A 6-day-old male newborn is brought to the physician because he has become increasingly irritable and restless over the past 2 days. During this period, he has had 12 bowel movements. He feeds 10 to 12 times a day. He was born at 38 weeks' gestation and weighed 1800 g (3 lb 15 oz); he currently weighs 1700 g (3 lb 12 oz). His mother has Graves' disease and received propylthiouracil during the last trimester of pregnancy. She has a history of intravenous heroin use. His temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 180/min, and respirations are 50/min. Examination shows mild diaphoresis and a firm 2-cm midline neck swelling. The lungs are clear to auscultation. Which of the following is the most appropriate next step in management?",
+    "input": "Methimazole and propranolol therapy,Potassium iodide therapy,Naloxone therapy,Calcium gluconate therapy",
+    "output": "Methimazole and propranolol therapy"
+  },
+  {
+    "instruction": "A 3-month-old girl is brought to the physician because of a productive cough for 5 days. Over the past month, she has had several episodes of watery stools. She is exclusively breastfed every 3\u20134 hours for 15\u201320 minutes. She was delivered vaginally at 38 weeks' gestation at home and has not yet been evaluated by a physician. The mother reports that her child is not gaining weight. The mother had no prenatal care. The infant is at the 5th percentile for height and weight. The infant has not received any immunizations. Her temperature is 38.5\u00b0C (101.3\u00b0F), pulse is 155/min, respirations are 45/min, and blood pressure is 88/50 mm Hg. Oral examination shows white plaques covering the tongue and the palate. Rales are heard bilaterally on cardiopulmonary examination. Cervical and inguinal lymphadenopathy is present. Which of the following is most likely to confirm the diagnosis?",
+    "input": "Karyotyping of infant's chromosomes,DNA test for CFTR mutation,Fluorescent treponemal antibody absorption test,Polymerase chain reaction for viral genes",
+    "output": "Polymerase chain reaction for viral genes"
+  },
+  {
+    "instruction": "A 5-month-old boy is brought to the physician with a 3-day history of fever and cough. His mother reports that he has had multiple episodes of loose stools over the past 3 months. He has been treated for otitis media 4 times and bronchiolitis 3 times since birth. He was born at 37 weeks' gestation, and the neonatal period was uncomplicated. He is at the 10th percentile for height and 3rd percentile for weight. His temperature is 38.3\u00b0C (100.9\u00b0F), pulse is 126/min, and respirations are 35/min. Examination shows an erythematous scaly rash over his trunk and extremities. The white patches on the tongue and buccal mucosa bleed when scraped. Inspiratory crackles are heard in the right lung base. An X-ray of the chest shows an infiltrate in the right lower lobe and an absent thymic shadow. Which of the following is the most likely definitive treatment for this patient\u2019s condition?",
+    "input": "Hematopoietic cell transplantation,Intravenous immune globulin,Leucovorin supplementation,Thymic transplantation",
+    "output": "Hematopoietic cell transplantation"
+  },
+  {
+    "instruction": "An 8-week-old male presents with his mother to the pediatrician for a well visit. The patient has been breastfed since birth, and usually feeds for 30 minutes every 2-3 hours. The patient\u2019s mother is concerned that her milk production is not keeping up with the patient\u2019s nutritional requirements. She reports that about two weeks ago the patient began regurgitating breastmilk through his nose and mouth after some feeds. She reports that he seems mildly upset during the episodes of regurgitation but usually settles down quickly and is hungry again soon afterwards. The patient\u2019s mother has already tried limiting the volume of each feed, which seems to have reduced the frequency of the regurgitation. She denies any diarrhea, hematochezia, or family history of food allergies. Her older son had a similar problem with vomiting that resolved around 12 months of age. Four weeks ago, the patient\u2019s height and weight were in the 40th and 34th percentiles, respectively. His height and weight are now respectively in the 37th and 36th percentiles. On physical exam, the patient is cooing in his mother\u2019s lap and smiles reciprocally with her. He lifts his head and shoulders off the examination table when placed in the supine position. His abdomen is soft, non-tender and non-distended. Bowel sounds are normoactive.\n\nWhich of the following is the best next step in management?",
+    "input": "Initiate proton pump inhibitor,Obtain abdominal ultrasound,Reassurance and counseling on positioning,Recommend modification of mother\u2019s diet",
+    "output": "Reassurance and counseling on positioning"
+  },
+  {
+    "instruction": "A six-year-old boy with a history of asthma currently uses an albuterol inhaler as needed to manage his asthma symptoms. His mother brings him into your office because she feels she has had to increase the patient\u2019s use of his inhaler to four times per week for the past month. She also reports that he has woken up three times during the night from his symptoms this month. The boy reports that he is upset because he can\u2019t always keep up with his friends in the playground. His past medical history is significant for allergic rhinitis. The patient\u2019s temperature is 98\u00b0F (36.6\u00b0C), blood pressure is 110/70 mmHg, pulse is 88/min, and respirations are 18/min with an oxygen saturation of 98% O2 on room air. Auscultation of his lungs reveals bilateral late expiratory wheezes.\n\nWhat changes should be made to his current asthma treatment regimen?",
+    "input": "Maintain current therapy,Add fluticasone daily,Add salmeterol twice daily,Add zileuton twice daily",
+    "output": "Add fluticasone daily"
+  },
+  {
+    "instruction": "An 8-year-old girl presents to her pediatrician with intensely pruritic lesions over her buttocks, as shown. These lesions occur intermittently but have worsened over time. Her medical history is remarkable for iron deficiency, for which she is on ferrous sulfate. The patient has also experienced intermittent episodes of mild diarrhea, previously diagnosed as lactose intolerance. Her height is at the 30th percentile and weight is at the 25th percentile for age and sex. An immunoglobulin A (IgA) tissue transglutaminase titer is 5 times the upper limit of normal. Which of the following is the most likely cause of this patient's condition?",
+    "input": "Crohn\u2019s disease,Celiac disease,Common variable immune deficiency,Henoch-Schonlein purpura",
+    "output": "Celiac disease"
+  },
+  {
+    "instruction": "A 3-year-old male is brought in to his pediatrician by his mother because she is concerned that he is not growing appropriately. Physical examination is notable for frontal bossing and shortened upper and lower extremities. His axial skeleton appears normal. He is at the 7th percentile for height and 95th percentile for head circumference. He demonstrates normal intelligence and is able to speak in three-word sentences. He first sat up without support at twelve months and started walking at 24 months. Genetic analysis reveals an activating mutation in a growth factor receptor. Which of the following physiologic processes is most likely disrupted in this patient\u2019s condition?",
+    "input": "Intramembranous ossification,Osteoblast maturation,Endochondral ossification,Production of type I collagen",
+    "output": "Endochondral ossification"
+  },
+  {
+    "instruction": "A 17-year-old man presents to his family physician for an evaluation about the size of his penis. He feels increasingly anxious during physical education (PE) class as he has noticed that the size of his penis is significantly smaller when compared to his peers. Based on the physical examination, he is Tanner stage 1. The weight and height are 60 kg (132 lb) and 175 cm (5 ft 9 in), respectively. The cardiopulmonary examination is normal; however, the patient has difficulty identifying coffee grounds by smell. Which of the following explains the pathophysiology underlying this patient\u2019s disorder?",
+    "input": "Expansion of a CTG trinucleotide repeat,Isolated gonadotropin-releasing hormone (GnRH) deficiency,Sex-specific epigenetic imprinting,Non-disjunction of sex chromosomes",
+    "output": "Isolated gonadotropin-releasing hormone (GnRH) deficiency"
+  },
+  {
+    "instruction": "A three-day-old, full-term infant born by uncomplicated vaginal delivery is brought to a pediatrician by his mother, who notes that her son's skin appears yellow. She reports that the child cries several times per day, but sleeps 7-8 hours at night, uninterrupted. She has been breastfeeding the infant but feels the latch has been poor and is unsure how much milk he has been consuming but feels it is not enough. A lactation consult was called for the patient and it was noted that despite proper instruction the observed latch was still poor. When asked the mother stated that the baby is currently making stools 2 times per day. Which of the following is the most likely etiology of the patient's presentation?",
+    "input": "Breast milk jaundice,Breastfeeding jaundice,Sepsis,Physiologic hyperbilirubinemia",
+    "output": "Breastfeeding jaundice"
+  },
+  {
+    "instruction": "A 5-year-old male presents to the pediatrician with a 10-day history of cough that is worse at night. The patient has a history of mild intermittent asthma and has been using his albuterol inhaler without relief. He has also been complaining of headache and sore throat, and his mother has noticed worsening rhinorrhea. The patient\u2019s past medical history is otherwise unremarkable, and he has no known drug allergies. In the office, his temperature is 101.8\u00b0F (38.8\u00b0C), blood pressure is 88/65 mmHg, pulse is 132/min, and respirations are 16/min. The patient has purulent mucus draining from the nares, and his face is tender to palpation over the maxillary sinuses. His pharynx is erythematous with symmetric swelling of the tonsils. On lung exam, he has moderate bilateral expiratory wheezing.\n\nWhich of the following is the best next step in management?",
+    "input": "Amoxicillin,Amoxicillin-clavulanic acid,Clindamycin,Levofloxacin",
+    "output": "Amoxicillin-clavulanic acid"
+  },
+  {
+    "instruction": "A 17-year-old girl is brought to the pediatrician by her father for evaluation. He is concerned that she has not undergone puberty yet, while all of her classmates at school have. The patient herself feels well overall, with no specific complaints. Examination shows vital signs of T 98.9, HR 71, and BP 137/92. The physician notes undeveloped breasts and normal external and internal female genitalia in Tanner I stage of development. Her body mass index is within normal limits, she is in the 40th percentile for height, and she is agreeable and pleasant during the interview. Which of the following additional findings is likely present in this patient?",
+    "input": "Aromatase enzyme deficiency,Hypokalemia,XY karyotype,Hypercortisolism",
+    "output": "Hypokalemia"
+  },
+  {
+    "instruction": "A previously healthy 4-month-old girl is brought to the emergency department by her parents because she has not stopped crying for the past 5 hours. Her parents report that she has not eaten anything during this period and that they were unable to calm her down. She has not had any trauma. She was born at term via vaginal delivery and her delivery was uncomplicated. Her vital signs are within normal limits. Examination shows a reddened and swollen 2nd toe of the left foot. A photograph of the left foot is shown. Which of the following is the most likely diagnosis?",
+    "input": "Raynaud phenomenon,Ingrown toe nail,Hair tourniquet syndrome,Herpetic whitlow",
+    "output": "Hair tourniquet syndrome"
+  },
+  {
+    "instruction": "A 2-year-old boy in respiratory distress is brought to the emergency department by his parents. They state that approximately one hour after putting their child to sleep, a \"hacking\" cough was heard from his bedroom. After entering his room the parents state their child appeared to be in distress, making a high pitched noise with every breath. Beyond a runny nose for the past few days, the child has been healthy. He has no toys in his bed or access to any other small objects. Physical exam demonstrates a 2-year-old child in respiratory distress.\n\nWhich of the following choices is the proper management for this patient?",
+    "input": "Humidified oxygen and dexamethasone; discharge if the patient improves,Dexamethasome, racemic epinephrine and observation for 4 hours; discharge if stridor remits,Broncoscopy to remove a foreign body in the upper airway then discharge,Empiric intravenous (IV) antibiotics, intubate and admission",
+    "output": "Dexamethasome, racemic epinephrine and observation for 4 hours; discharge if stridor remits"
+  },
+  {
+    "instruction": "A 2050-g (4.5-lb) female newborn and a 2850-g (6.3-lb) female newborn are delivered at 37 weeks' gestation to a 23-year-old, gravida 2, para 1 woman. The mother had no prenatal care. Examination of the smaller newborn shows a flattened nose and left-sided clubfoot. The hematocrit is 42% for the smaller newborn and 71% for the larger newborn. This pregnancy was most likely which of the following?",
+    "input": "Monochorionic-diamniotic monozygotic,Dichorionic-diamniotic dizygotic,Monochorionic-monoamniotic monozygotic,Conjoined twins",
+    "output": "Monochorionic-diamniotic monozygotic"
+  },
+  {
+    "instruction": "An 8-year-old boy who recently immigrated to the United States presents with a rash. Past medical history is significant for a recent sore throat which caused him to miss several days at school. The patient\u2019s vaccination status is unknown. On physical examination, the patient is pale and ill-looking. There are pink rings present on the torso and inner surfaces of the limbs. Cardiac exam is significant for a holosystolic murmur heard best over the apex of the heart. Which of the following histopathologic findings is most likely associated with this patient\u2019s condition?",
+    "input": "Atypical lymphocytes on peripheral blood smear,Starry sky appearance,Needle-shaped, negatively birefringent crystal deposits,Granulomas with giant cells",
+    "output": "Granulomas with giant cells"
+  },
+  {
+    "instruction": "A 6-month-old boy is brought to the physician by his parents for difficulty breathing and bluish discoloration of the lips for the past hour. During the past 3 months, the patient has had several upper respiratory tract infections and poor weight gain. Physical examination shows crackles over both lung fields and enlargement of the tonsils and cervical lymph nodes. His serum IgA, IgE, and IgG titers are decreased. An x-ray of the chest shows bilateral interstitial infiltrates. Methenamine silver staining of bronchial lavage fluid shows disc-shaped cysts. A defect in which of the following is the most likely underlying cause of this patient's condition?",
+    "input": "Actin filament assembly,T-cell receptor signaling,Microtubule polymerization,B-cell maturation",
+    "output": "T-cell receptor signaling"
+  },
+  {
+    "instruction": "A 6-year-old boy presents with fever, malaise, and intense pain in the anterior neck. His vital signs include: body temperature 39.0\u00b0C (102.2\u00b0F), heart rate 120/min, and respiratory rate 18/min and regular. On physical examination, there is erythema, tenderness and enlargement of the thyroid gland that is worse on the left. Pain is worsened during neck hyperextension and relieved during neck flexion. Thyroid function tests are within normal limits. An ultrasound of the thyroid gland reveals a unifocal perithyroidal hypoechoic space. Which of the following is the most likely mechanism underlying this patient\u2019s condition?",
+    "input": "Postviral inflammatory process,Pyriform sinus fistula,Antithyroid peroxidase (TPO),Autoantibodies to the thyrotropin receptor (TRAb)",
+    "output": "Pyriform sinus fistula"
+  },
+  {
+    "instruction": "Six hours after birth, a newborn boy is evaluated for tachypnea. He was delivered at 41 weeks' gestation via Caesarian section and the amniotic fluid was meconium-stained. His respiratory rate is 75/min. Physical examination shows increased work of breathing. X-rays of the abdomen and chest show no abnormalities. Echocardiography shows elevated pulmonary artery pressure. He is started on an inhaled medication that increases smooth muscle cGMP, and there is immediate improvement in his tachypnea and oxygenation status. Three hours later, the newborn is tachypneic and there is blue-grey discoloration of the lips, fingers, and toes. Which of the following is the most likely cause of this infant's cyanosis?",
+    "input": "Increase in concentration of serum myoglobin,Closure of the ductus arteriosus,Oxidization of Fe2+ to Fe3+,Allosteric alteration of heme groups",
+    "output": "Oxidization of Fe2+ to Fe3+"
+  },
+  {
+    "instruction": "A previously healthy 3-year-old boy is brought to the physician by his parents because of fever and a rash for 6 days. His temperature is 38.9\u00b0C (102\u00b0F). Examination shows right-sided anterior cervical lymphadenopathy, bilateral conjunctival injection, erythema of the tongue and lips, and a maculopapular rash involving the hands, feet, perineum, and trunk. Which of the following is the most common complication of this patient's condition?",
+    "input": "Coronary artery aneurysm,Rapidly progressive glomerulonephritis,Hearing loss,Retinopathy",
+    "output": "Coronary artery aneurysm"
+  },
+  {
+    "instruction": "A 10-year-old boy is brought to the emergency room by his grandparents. He is in a wheelchair with soft restraints because he has been violent and had been trying to hurt himself that day. The child\u2019s parents died in a car accident 1 month ago. His grandparents also brought the medications he stopped taking after his parents\u2019 death, including multivitamins, allopurinol, and diazepam. They say that their grandson has been using these medications for many years; however, they are unable to provide any medical history and claim that their grandson has been behaving strangely, exhibiting facial grimacing, irregular involuntary contractions, and writhing movements for the past few days. They also note that he has had no teeth since the time they first met him at the age of 2. An intramuscular medication is administered to calm the boy down prior to drawing blood from him for laboratory tests. Which of the following biochemical pathway abnormalities is the most likely cause of this patient\u2019s condition?",
+    "input": "Hypoxanthine-guanine phosphoribosyl transferase of the pyrimidine metabolism pathway,Aminolevulinic acid synthetase of the heme metabolism pathway,Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway,Thymidylate synthetase of the pyrimidine metabolism pathway",
+    "output": "Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway"
+  },
+  {
+    "instruction": "A 2-day-old boy delivered at 34 weeks gestation is found to have a murmur on routine exam. He is lying supine and is not cyanotic. He has a pulse of 195/min, and respirations of 59/min. He is found to have a nonradiating continuous machine-like murmur at the left upper sternal border. S1 and S2 are normal. The peripheral pulses are bounding. Assuming this patient has no other cardiovascular defects, what is the most appropriate treatment?",
+    "input": "Indomethacin,Thiazide diuretic,Aspirin,Penicillin",
+    "output": "Indomethacin"
+  },
+  {
+    "instruction": "A 4-year-old boy presents for a routine checkup. The patient\u2019s parents say he was doing well until a few weeks ago at which time he started to complain of daily abdominal cramps and occasional muscle pains. His mother also noticed that he has been less active than usual. The parents deny any complaints of headaches or convulsions. The family lives together in a house built in 1950. The patient\u2019s temperature is 36.8\u00b0C (98.2\u00b0F), blood pressure is 100/70 mm Hg, pulse is 100/min and respirations are 20/min. Abdominal exam shows mild diffuse tenderness to palpation and normal bowel sounds. The patient\u2019s height, weight, and head circumference are normal. Laboratory results are as follows:\nHemoglobin 7 g/dL\nMean corpuscular volume (MCV) 72\nLead level (capillary blood) 15 mcg/dL\nLead level (venous blood) 60 mcg/dL\nFindings on a peripheral blood smear are shown in the image. Which of the following is the best treatment option for this patient?",
+    "input": "Trientine,Calcium disodium edetate (EDTA),Penicillamine,Dimercaptosuccinic acid (DMSA), also known as succimer",
+    "output": "Dimercaptosuccinic acid (DMSA), also known as succimer"
+  },
+  {
+    "instruction": "A 3-year-old girl is brought to the cardiologist because of sweating and respiratory distress while eating. She is at the 30th percentile for height and 15th percentile for weight. Echocardiography shows a defect in the membranous portion of the interventricular septum and a moderately decreased left ventricular ejection fraction. Physical examination is most likely to show which of the following findings?",
+    "input": "Systolic murmur that increases with hand clenching,Systolic murmur that increases with forced exhalation against a closed glottis,Diastolic murmur preceded by opening snap,Continuous murmur that is loudest at the second heart sound",
+    "output": "Systolic murmur that increases with hand clenching"
+  },
+  {
+    "instruction": "A 6-week-old girl is brought to the pediatrician for a post-natal visit. She was born at 38 weeks gestation to a 25-year-old woman via an uncomplicated spontaneous vaginal delivery. The mother reports that prenatal screening revealed no developmental abnormalities and that the baby has been gaining weight, feeding, stooling, and urinating appropriately. Physical exam of the infant is unremarkable. The mother has a history of polycystic ovarian syndrome and is curious about the development of her daughter's ovaries. Which of the following is true regarding the baby\u2019s reproductive system at this time?",
+    "input": "The baby has not yet developed oocytes,The baby\u2019s oocytes are arrested in prophase,The baby\u2019s oocytes are arrested in interphase,The baby\u2019s oocytes are fully matured",
+    "output": "The baby\u2019s oocytes are arrested in prophase"
+  },
+  {
+    "instruction": "A 3-day-old boy is brought to the emergency department because of a 4-hour history of somnolence, poor feeding, and one episode of vomiting. He is exclusively breastfed. His serum glucose concentration is 88 mg/dL and his serum ammonia concentration is 850 \u03bcmol/L (N<90). Urinalysis shows an increased orotic acid to creatinine ratio. Urinary ketones are absent. This patient is most likely deficient in an enzyme that catalyzes which of the following reactions?",
+    "input": "Ornithine and carbamoyl phosphate to citrulline,Orotic acid to uridine monophosphate,Pyruvate to acetyl-coenzyme A,Glutamate and acetyl-coenzyme A to N-acetylglutamate",
+    "output": "Ornithine and carbamoyl phosphate to citrulline"
+  },
+  {
+    "instruction": "A one-week-old, full-term infant born by uncomplicated vaginal delivery is brought to a pediatrician by his mother, who notes that her daughter's skin appears yellow. She reports that the child cries several times per day and sleeps 7-8 hours at night, uninterrupted. She has been breastfeeding exclusively and feels that he has been feeding well. Which of the following is the best treatment for this condition?",
+    "input": "Phenobarbital administration,Plasma exchange,Switch from breast milk to formula,Continue normal breast feeding",
+    "output": "Continue normal breast feeding"
+  },
+  {
+    "instruction": "A one-week-old boy presents with yellow sclerae, severe lethargy, and decreased muscle tone. His mother notes that the symptoms started shortly after birth and have been progressively worsening. The patient is breast fed and takes no medications. His labs are within normal limits with the exception of his liver function tests as follows:\n\nALT: 8 U/ L\nAST: 10 U/L\nAlkaline phosphatase: 50 U/L\nAlbumin: 3.7 g/dL\nTotal protein: 6.7 g/dL\nBilirubin, total: 29.4 mg/dL\nBilirubin, unconjugated: 29.2 mg/dL\nBilirubin, conjugated: 0.2 mg/dL\n\nThe boy is taken immediately for treatment. What is the most likely underlying cause of his condition?",
+    "input": "Absence of UDP-glucuronosyltransferase-1A1,Alteration in the ankyrin protein,Reduction in UDP-glucuronosyltransferase-1A1 activity,Deficiency in glucocerebrosidase",
+    "output": "Absence of UDP-glucuronosyltransferase-1A1"
+  },
+  {
+    "instruction": "A 10-year-old boy is brought to the physician because of a generalized, non-itchy rash for 2 days. He has also had a fever and sore throat for 4 days. He has not received any routine childhood vaccinations. Examination shows a flushed face except around his mouth. A diffuse, papular, erythematous rash that blanches with pressure is seen over the trunk. Pharyngeal erythema and a red beefy tongue are noted. His leukocyte count is 11,200/mm3 (75% segmented neutrophils, 22% lymphocytes). Without treatment, this patient's current condition puts him at greatest risk for which of the following complications?",
+    "input": "Coronary artery aneurysms,Encephalitis,Mitral valve regurgitation,Minimal change disease",
+    "output": "Mitral valve regurgitation"
+  },
+  {
+    "instruction": "A 6-week-old male infant is brought to the physician by his mother because of a 2-day history of recurrent nonbilious vomiting. Vomiting occurs almost immediately after most feeds. Each time, he becomes irritable while feeding and refuses to finish the bottle. He was born at 37 weeks' gestation and weighed 3300 g (7 lb 4 oz); he currently weighs 4000 g (8 lb 13 oz). He has Down syndrome. His vaccinations are up-to-date. He appears agitated and cries during the examination. His temperature is 37.2\u00b0C (99\u00b0F), pulse is 156/min, respirations are 32/min, and blood pressure is 100/49 mm Hg. Examination shows upward slanting of the eyelids, a broad and flat nasal bridge, and a single transverse palmar crease on both hands. The abdomen is soft and nontender. A 2.5-cm (1-inch) epigastric mass is palpated. Cardiac examination shows no abnormalities. Arterial blood gas analysis is within normal limits. Further diagnostic evaluation of the patient is most likely to show which of the following?",
+    "input": "Dilated colon segment on abdominal x-ray,Detection of rotavirus antigen on enzyme immunoassay (EIA),Elongated and thickened pylorus on abdominal ultrasound,Tripple bubble sign on abdominal x-ray",
+    "output": "Elongated and thickened pylorus on abdominal ultrasound"
+  },
+  {
+    "instruction": "A 1-month-old girl is brought to the emergency department with persistent vomiting, dehydration, and irritability. Over the past week, she has been projectile vomiting after most feedings. Initially, the vomiting would occur just once or twice a day, but now it occurs after every feed. However, her appetite hasn\u2019t decreased, and she seeks milk right after each episode of vomiting. She was born at 39 weeks gestation via spontaneous vaginal delivery and is breastfed exclusively. On physical exam, the vital signs include: temperature 37.5\u00b0C (99.5\u00b0F), blood pressure 85/55 mm Hg, respiratory rate 28/min, and heart rate 150/min. On examination, she appears to be mildly dehydrated, listless, and irritable. Her abdomen is soft and nontender with a palpable olive-shaped mass in the epigastric region. Which of the following acid-base disturbances is most likely associated with this patient\u2019s condition?",
+    "input": "Respiratory alkalosis,Metabolic alkalosis,Respiratory acidosis,Mixed respiratory and metabolic acidosis",
+    "output": "Metabolic alkalosis"
+  },
+  {
+    "instruction": "A 1-day-old infant is in the neonatal intensive care unit due to respiratory failure from pulmonary hypoplasia. The mother is a healthy 32-year-old woman who did not have regular prenatal exams. On physical examination, you notice low-set ears and retrognathia with abnormal extremity development. Which of the following abnormalities is associated with the most likely cause of this patient's symptoms?",
+    "input": "Hepatosplenomegaly,Posterior urethral valves,Rocker bottom feet,Duodenal atresia",
+    "output": "Posterior urethral valves"
+  },
+  {
+    "instruction": "A male newborn born at 27 weeks' gestation is evaluated for rapid breathing and hypoxia shortly after birth. His mother had no prenatal care. Cardiopulmonary examination shows normal heart sounds, intercostal retractions, and nasal flaring. An x-ray of the chest shows low lung volumes, air bronchograms, and diffuse ground-glass opacities. He is started on nasal continuous positive airway pressure. Further evaluation of this patient is most likely to show which of the following findings?",
+    "input": "Bilateral pleural effusions on lung ultrasound,Corkscrew-shaped organisms on umbilical cord culture,Hyaline membranes lining the alveoli on lung biopsy,Meconium-stained fluid on deep suctioning",
+    "output": "Hyaline membranes lining the alveoli on lung biopsy"
+  },
+  {
+    "instruction": "A 16-year-old healthy female presents to her pediatrician concerned that she has not had a menstrual period. She has no past medical history and takes no medications. She plays volleyball and gets good grades in school. Her BMI is 22 kg/m2. Physical examination reveals normal female external genitalia and pubic hair along the mons pubis and superomedial thighs. Her breasts appear normal. Transabdominal ultrasound reveals an absent uterus. Serum testosterone levels is within the normal range for females. What is the most likely cause of this patient\u2019s condition?",
+    "input": "Pituitary tumor,Absence of second X chromosome,Androgen receptor mutation,Failure of paramesonephric duct development",
+    "output": "Failure of paramesonephric duct development"
+  },
+  {
+    "instruction": "Three patients present to the pediatrician for routine well-child visits. The first child\u2019s mother reports that he seems to be breastfeeding well and voids at least eight times per day. His stools are a yellow color, and he does not seem to be straining. In the office, he can lift his head and chest when in the prone position, and he can track an object with his eyes to the midline. His hands remain fisted 50% of the time.\n\nThe second child\u2019s parents report that she is doing well at home and seems to enjoy playing with her older brother. In the office, she can roll from supine to prone and can transfer her rattle from hand to hand. She cannot yet say any words.\n\nThe third child\u2019s father reports that he is starting to explore the world around him. He has begun taking independent steps at home. In the office, he seems to recognize the name of several objects, but he cannot follow the direction to \u201cgrab the ball.\u201d All three children are assessed as developmentally normal.\n\nWhich of the following represents these patient's respective ages?",
+    "input": "Ages 1 month, 4 months, and 9 months,Ages 2 months, 4 months, and 12 months,Ages 2 months, 6 months, and 9 months,Ages 2 months, 6 months, and 12 months",
+    "output": "Ages 2 months, 6 months, and 12 months"
+  },
+  {
+    "instruction": "An 11-month-old boy is brought to the physician for a well-child examination. He is growing along with the 75th percentile and meeting all milestones. Physical examination shows a poorly rugated scrotum. The palpation of the scrotum shows only 1 testicle. A 2nd testicle is palpated in the inguinal canal. The examination of the penis shows a normal urethral meatus. The remainder of the physical examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "input": "Chorionic gonadotropin therapy,Exploratory laparoscopy,Orchiectomy,Orchiopexy",
+    "output": "Orchiopexy"
+  },
+  {
+    "instruction": "A 14-year-old girl comes to the physician because she has not yet had her period. She is at the 10th percentile for height and 25th percentile for weight. Examination shows a broad chest with widely spaced nipples, a low posterior hairline, forearms angled 20\u00b0 away from the body when fully extended, and shortened fourth metacarpals bilaterally. Sexual development is Tanner stage 1. Which of the following statements about this patient's fertility is most accurate?",
+    "input": "Pregnancy success rate with donor oocytes is similar to patients with primary ovarian failure,Administration of gonadotropins will increase the chances of conceiving,Impaired tubal ciliary function will prevent natural fertilization,The majority of patients become pregnant without medical assistance",
+    "output": "Pregnancy success rate with donor oocytes is similar to patients with primary ovarian failure"
+  },
+  {
+    "instruction": "An 18-month-old boy is brought to his pediatrician because his mother is concerned about his walking. The boy was born at 37 weeks\u2019 gestation and spent 1 night in the neonatal intensive care unit for respiratory distress. He otherwise has been healthy and started walking independently at 12 months. However, his mother reports that he has stopped walking and appears weaker than he was a few months ago. He also has started having brief convulsive episodes over the past week. His parents are both healthy with no medical conditions. On exam, the child demonstrates muscle rigidity and diffuse muscle wasting. He is unable to stand or sit up straight. His patellar, Achilles, and brachioradialis reflexes are absent. Fundoscopic examination is unremarkable. A urine sample demonstrates metachromic granules. This patient\u2019s condition is caused by a defect in which of the following enzymes?",
+    "input": "Alpha-galactosidase A,Arylsulfatase A,Beta-galactocerebrosidase,Hexosaminidase A",
+    "output": "Arylsulfatase A"
+  },
+  {
+    "instruction": "An 11-month-old male infant is brought to his pediatrician by his mother. She is concerned about his leg and his inability to stand. He was born vaginally to a 33-year-old woman (gravida 3, para 2) from an uncomplicated pregnancy at 39 weeks. He has met all developmental milestones and is up to date on all vaccinations. His mother explains that he can normally stand without help and can walk briefly on his own. However, he hit his right leg against a chair 2 days ago. The area became edematous and bruised overtime and the infant became unable to stand or crawl and cries when he puts weight on it. The mother denies any child abuse from her family or child care. The patient\u2019s vital signs are as follows: blood pressure 80/40 mm Hg, heart rate 137/min, respiratory rate 25/min, and temperature 36.7\u00b0C (97.0\u00b0F). His length and weight are both between the 15th and 25th percentile. On physical examination, blue-grayish discoloration of the sclerae are noted. Respiratory, cardiovascular, and abdominal examinations are within normal limits for his age. There is joint hypermobility and decreased tone in both upper and lower extremities. The patient\u2019s right calf appears slightly deformed, edematous, and warm to the tough. The patient begins to cry loudly when the physician palpates his leg. The patient\u2019s X-ray shows an incomplete fracture of the right tibial diaphysis. What is the most likely cause of the patient\u2019s symptoms?",
+    "input": "Insufficient production of procollagen type 1,Mutation in the gene encoding fibrillin-1,Defective collagen type 3,Dysfunctional structure of laminins",
+    "output": "Insufficient production of procollagen type 1"
+  },
+  {
+    "instruction": "A 2-hour-old, 3.2 kg (7.0 lb) newborn boy born by cesarean delivery is being evaluated by the resident on-call. The child was born to a gravida 2, para 0 mother with known hepatitis B. The mother made it to all of her prenatal appointments and took the recommended dose of folic acid since conception. She gave up smoking when she discovered she was pregnant. The infant\u2019s heart rate is 150/min, respiratory rate is 48/min, temperature is 37.5\u00b0C (99.5\u00b0F), and blood pressure is 80/52 mm Hg. APGAR testing exhibits a score of 7 and 8 at 1 and 5 minutes, respectively. The head is normocephalic. No neural tube defects are present on inspection or palpation of the spine. There is strong flexion in all 4 extremities. Cranial nerves 2\u201312 are intact. Sensory and deep tendon reflexes are without any abnormalities. Which of the following is the best course of action for the newborn child?\nHepatitis B serology\nHBsAg positive\nHBeAg positive\nIgM HBc negative\nTotal anti-HBc positive\nAnti-HBs negative\nAnti-HBc negative\nHBV DNA greater than 1 million IU/mL\nAlanine transferase normal",
+    "input": "Administer hepatitis B vaccine,Administer hepatitis B immunoglobulin (HBIG),Administer hepatitis B vaccine and HBIG,Check hepatitis B serology",
+    "output": "Administer hepatitis B vaccine and HBIG"
+  },
+  {
+    "instruction": "A 3-year-old refugee with increasing pitting edema and abdominal swelling over the past 2 months is brought to the physician. Her family has been displaced several times over the last few years. Nutrition and housing were frequently inadequate. At the physician\u2019s clinic, the boy appears irritated and drowsy. He is difficult to arouse. Physical examination shows pitting edema over the ankles and feet and around his eyes. Abdominal examination is positive for ascites and hepatomegaly. Oral examination shows several missing teeth. Which of the following best explains these findings?",
+    "input": "Kwashiorkor,Marasmus,Beriberi,Rickets",
+    "output": "Kwashiorkor"
+  },
+  {
+    "instruction": "A 2-year-old boy is brought to his pediatrician by his parents for a routine visit. Since his 18-month visit, the parents have become concerned that his speech does not seem to be developing appropriately. The parents report that the patient\u2019s vocabulary is still limited to fewer than 10 words, and he is still only using single words to describe things. The parents say that his motor milestones do not seem to be affected, as the patient is very physically active and can run and kick a ball. At times the patient seems hyperactive and can be difficult to redirect. On exam, his temperature is 98.4\u00b0F (36.9\u00b0C), blood pressure is 110/70 mmHg, pulse is 80/min, and respirations are 14/min. The rest of the exam is unremarkable, except that the patient\u2019s face appears to be abnormally long and narrow. The patient is further referred to a geneticist, as he is believed to have a trinucleotide repeat disorder. Which of the following is the most likely inheritance pattern of this disorder?",
+    "input": "Autosomal dominant,Autosomal recessive,Noninherited somatic mutation,X-linked dominant",
+    "output": "X-linked dominant"
+  },
+  {
+    "instruction": "A 36-year-old G3P2 woman with no significant past medical history delivers a 3.7 kg (8 lb, 3 oz) baby boy following an uncomplicated pregnancy. On physical examination in the delivery room, the pediatrician notes that the baby has upslanting palpebral fissures, epicanthal folds, a flat facial profile, small ears, a single palmar crease, and hypotonia. When discussing the diagnosis with the parents, which of the following is this baby at an increased risk for having?",
+    "input": "Tetralogy of Fallot,Omphalocele,Congenital cataracts,Cleft lip",
+    "output": "Omphalocele"
+  },
+  {
+    "instruction": "A 7-year-old girl is brought to the physician by her mother for a well-child examination. The mother reports that she had her first menstrual period 1 week ago. She has no history of serious illness. Immunizations are up-to-date. Physical examination shows Tanner stage 3 breast development and pubic hair. Without treatment, this patient is at greatest risk for which of the following as an adult?",
+    "input": "Delayed skeletal maturity,Short stature,Genu varum,Coarse facial features",
+    "output": "Short stature"
+  },
+  {
+    "instruction": "An 11-month-old boy is brought to the emergency department by his mother after she observed jerking movements of his arms and legs for about 30 seconds earlier that morning. He has not had fever, cough, or a runny nose. He has been healthy, except for occasional eczema. He was delivered at home in Romania. His mother had no prenatal care. She reports that he has required more time to reach developmental milestones compared to his older brother. The patient's immunization records are not available. He takes no medications. He appears pale with blue eyes and has a musty odor. He has poor eye contact. Which of the following would have most likely prevented the patient's symptoms?",
+    "input": "Levothyroxine therapy during pregnancy,Dietary restriction of phenylalanine,Daily allopurinol intake,Avoidance of fasting states",
+    "output": "Dietary restriction of phenylalanine"
+  },
+  {
+    "instruction": "A 3-week-old newborn is brought to the physician by his parents because of poor feeding, irritability, and frequent vomiting over the past week. The vomitus is greenish in color and smells strange. His parents have tried to feed him every 4 hours, but the patient often spits up or refuses to eat. The patient was born at term and had his first bowel movement at 50 hours of life. He has since had one bowel movement daily. He is at the 50th percentile for length, 10th percentile for weight, and 40th percentile for head circumference. He does not appear to be in acute distress. His temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 140/min, respirations are 40/min, and blood pressure is 90/60 mm Hg. Physical examination shows that the patient has small, low-set ears, a broad and flat nasal bridge, and a large space between the first and second toes bilaterally. The abdomen is distended. When the finger is removed following a rectal exam, there is an explosive release of stool from the patient's rectum. An x-ray of the abdomen shows a section of dilated colon followed by a segment of colon without stool or air. Which of the following is most likely to confirm the diagnosis?",
+    "input": "CT scan of the abdomen,Transabdominal ultrasonography,Anorectal manometry,Rectal suction biopsy",
+    "output": "Rectal suction biopsy"
+  },
+  {
+    "instruction": "A 13-year-old boy is brought to the physician because of progressive left leg pain for 2 months, which has started to interfere with his sleep. His mother has been giving him ibuprofen at night for \u201cgrowing pains,\u201d but his symptoms have not improved. One week before the pain started, the patient was hit in the thigh by a baseball, which caused his leg to become red and swollen for several days. Vital signs are within normal limits. Examination shows marked tenderness along the left mid-femur. His gait is normal. Laboratory studies show a leukocyte count of 21,000/mm3 and an ESR of 68 mm/h. An x-ray of the left lower extremity shows multiple lytic lesions in the middle third of the femur, and the surrounding cortex is covered by several layers of new bone. A biopsy of the left femur shows small round blue cells. Which of the following is the most likely diagnosis?",
+    "input": "Osteosarcoma,Osteochondroma,Ewing sarcoma,Osteoid osteoma",
+    "output": "Ewing sarcoma"
+  },
+  {
+    "instruction": "A 3-day-old male is evaluated in the hospital nursery for delayed passage of meconium. His mother is breastfeeding and has started to produce milk. The patient has been feeding well every two hours and is urinating over eight times per day. The patient was born at 35 weeks gestation to a 27-year-old gravida 4. The patient is of Ashkenazi Jewish descent, and the patient\u2019s parents denied all prenatal genetic testing. The pregnancy was uncomplicated until the patient\u2019s mother had spontaneous rupture of membranes at 35 weeks gestation. The patient\u2019s three older siblings are all healthy. In the hospital nursery, the patient\u2019s temperature is 98.2\u00b0F (36.8\u00b0C), blood pressure is 48/32 mmHg, pulse is 164/min, and respirations are 48/min. On physical exam, he appears to be in moderate distress. He has no dysmorphic features, and his abdomen is distended and non-tender. Bowel sounds are absent.\n\nWhich of the following is the best next step in management?",
+    "input": "Abdominal radiograph,Contrast enema,Upper gastrointestinal series,Sweat testing",
+    "output": "Abdominal radiograph"
+  },
+  {
+    "instruction": "A 3466-g (7-lb, 10-oz) female newborn is delivered at 38 weeks' gestation to a 32-year-old woman, gravida 2, para 1. Apgar scores are 7 and 8, at 1 and 5 minutes, respectively. The mother has a history of schizophrenia and was treated with lithium until 5 weeks' gestation, when she found out that she was pregnant. The mother was treated for alcohol abuse disorder 2 years ago. She has been sober for 14 months now. Examination shows that the child has micrognathia, a broad nasal bridge, a short philtrum, and small, low-set ears. Examination of the mouth shows a cleft palate. A grade 3/6 systolic ejection murmur can be heard over the left sternal border. Echocardiography shows a single overriding great vessel arising from the heart. Further evaluation is most likely to show which of the following findings?",
+    "input": "Low levels of parathyroid hormone in serum,Double bubble sign on abdominal x-ray,Chromosome 5p deletion on FISH studies,Bilateral cataracts on ocular examination",
+    "output": "Low levels of parathyroid hormone in serum"
+  },
+  {
+    "instruction": "A 10-year-old boy is brought to his pediatrician after discovering a painless mass in the left testicle. Results from tumor markers and a biopsy are as follows:\nAFP 350 ng/mL (normal value < 10 ng/mL)\nhCG 0.4 IU/L (normal value < 0.5 IU/L)\nBiopsy: Presence of glomeruli-like structures with a central capillary within a mesodermal core, lined by flattened layers of germ cells.\nWhat is the most likely diagnosis in this patient?",
+    "input": "Classic seminoma,Choriocarcinoma,Teratoma,Yolk sac tumor",
+    "output": "Yolk sac tumor"
+  },
+  {
+    "instruction": "A 3-year-old boy is brought to his pediatrician for evaluation because his parents have been concerned by a number of troubling signs. Specifically, they have noticed that he has been exhibiting aggressive behavior as well as hyperactivity. In addition, he has had intellectual disability and is slow to hit developmental milestones. Physical exam reveals coarse facies, short stature, and joint stiffness. Eye exam reveals no abnormalities of the cornea or lens. Based on these findings, the patient is referred to a geneticist for further evaluation. Which of the following substances would most likely accumulate in the cells of this patient?",
+    "input": "Cerebroside sulfate,Galactocerebroside,Heparan sulfate,Sphingomyelin",
+    "output": "Heparan sulfate"
+  },
+  {
+    "instruction": "A 3550-g (7.8-lb) male newborn is delivered at term to a 27-year-old, gravida 1, para 1 woman (Rh+). Within the first 24 hours after birth, the newborn develops fever and a yellow discoloration of skin and sclerae. Examination shows loss of flexion in the extremities, splenomegaly, and cyanosis. Laboratory studies show decreased haptoglobin levels and increased LDH levels. A photomicrograph of a peripheral blood smear is shown. Which of the following is most likely involved in the pathogenesis of this patient's condition?",
+    "input": "Decrease in the reduced form of glutathione,Maternal antibodies against the rhesus D antigen,Deficiency of ATP,Osmotically fragile erythrocytes",
+    "output": "Deficiency of ATP"
+  },
+  {
+    "instruction": "A 5-day-old boy is brought to the emergency department because of a 1-day history of poor feeding, irritability, and noisy breathing. The mother did not receive any prenatal care. His respirations are 26/min. Physical examination shows sunken fontanelles, tightly clenched fists, and erythema around the umbilical cord stump. Which of the following best describes the pathogenesis of the disease process in this patient?",
+    "input": "Inhibition of voltage-gated sodium channels,Destruction of Schwann cells,Decreased release of glycine,Destruction of anterior horn cells",
+    "output": "Decreased release of glycine"
+  },
+  {
+    "instruction": "Thirty minutes after delivery, a 3600-g (7-lb 15-oz) newborn has noisy breathing, bluish discoloration of her lips, and intermittent respiratory distress. She was born at 38 weeks' gestation and required bag-mask resuscitation immediately after delivery. Pregnancy was uncomplicated. Her mother has noticed the bluish lip discoloration worsen when she fed and improve when she cried. The patient's pulse is 163/min, respirations are 62/min, and blood pressure is 60/30 mm Hg. The crying infant's lungs are clear to auscultation. Further evaluation of this patient is most likely to show which of the following?",
+    "input": "Diffuse reticulogranular densities on chest x-ray,Boot-shaped heart on chest x-ray,Passage of a gastric catheter through the mouth not possible,Passage of a catheter through the nasal cavity not possible",
+    "output": "Passage of a catheter through the nasal cavity not possible"
+  },
+  {
+    "instruction": "A 15-year-old female presents to her pediatrician\u2019s office for severe menstrual cramping. The patient underwent menarche at age 11, and her periods were irregular every 2-3 months for two years. After that, her cycles became roughly regular every 28-35 days, but she has had extremely painful cramps and often has to miss school. The cramps are intermittent and feel like a dull ache in the center of her abdomen, and there is usually accompanying back pain. The patient has been using heating pads with limited relief. She reports some periods being \u201creally heavy\u201d and requires a superabsorbent pad every 6 hours for 2 days each cycle, but this does not limit her activities. She denies any bowel or bladder changes. The patient had normal development throughout childhood, is on the soccer team at school, and is not sexually active. Her father has hypertension and her mother has endometriosis and heavy periods. On exam, the patient is 5 feet 5 inches and weighs 158 pounds (BMI 26.3 kg/m^2). She is well appearing and has no abdominal tenderness. She has Tanner IV breasts and Tanner IV pubic hair, and external genitalia are normal. Which of the following is the best next step for this patient\u2019s menstrual cramps?",
+    "input": "Pelvic ultrasound,MRI of the pelvis,NSAIDs,Increased exercise",
+    "output": "NSAIDs"
+  },
+  {
+    "instruction": "A 21-month-old boy is brought to the physician for a well-child examination. His mother noticed deformities in both of his legs since he started walking independently. He has been healthy apart from an upper respiratory tract infection 6 months ago. He was delivered at 38 weeks' gestation. His 6-year-old sister was treated for developmental dysplasia of the hip. He can kick a ball and say a 2-word phrase. He plays well with other children at his day care. His immunizations are up-to-date. He is at the 40th percentile for height and 50th percentile for weight. Vital signs are within normal limits. Examination shows closed anterior and posterior fontanelles. The knees do not stay together when both the feet and ankles are placed together. The gait is unremarkable. The mother is concerned that he has a growth disorder. Which of the following is the most appropriate next step in management?",
+    "input": "Vitamin D supplementation,Reassurance and follow-up,X-ray of the lower extremities,Bracing of the lower extremities",
+    "output": "Reassurance and follow-up"
+  },
+  {
+    "instruction": "A 1900-g (4-lb 3-oz) newborn is delivered at term to a 36-year-old primigravid woman. Pregnancy was complicated by polyhydramnios. Apgar scores are 7 and 7 at 1 and 5 minutes, respectively. He is at the 2nd percentile for head circumference and 15th percentile for length. Examination shows a prominent posterior part of the head. The ears are low-set and the jaw is small and retracted. The fists are clenched, with overlapping second and third fingers. The calcaneal bones are prominent and the plantar surface of the foot shows a convex deformity. Abdominal examination shows an omphalocele. Further evaluation of this patient is most likely to show which of the following findings?",
+    "input": "Ventricular septal defect,Ebstein's anomaly,Pheochromocytoma,Holoprosencephaly",
+    "output": "Ventricular septal defect"
+  },
+  {
+    "instruction": "A 7-month-old boy is brought to the physician because of a 2-month history of fatigue, weakness, and difficulty feeding. He was delivered at term to a 32-year-old woman. He is not able to sit upright on his own. He is at the 75th percentile for height and 25th percentile for weight. His temperature is 37.7\u00b0C (99.8\u00b0F), blood pressure is 110/68 mm Hg, pulse is 150/min, and respirations are 50/min. His tongue protrudes beyond the teeth. Neck veins are distended. Crackles are heard at both lung bases. Cardiac examination shows an S3 gallop. The liver is palpated 2 cm below the right costal margin. Neurologic examination shows profound weakness in proximal and distal muscles of the upper and lower extremities. He has 2+ reflexes bilaterally. A chest x-ray shows cardiomegaly. Serum glucose is 105 mg/dL. Which of the following is the enzyme most likely to be defective in this patient?",
+    "input": "Muscle glycogen phosphorylase,Very-long-chain acyl-CoA dehydrogenase,Lysosomal acid maltase,Glycogen debranching enzyme",
+    "output": "Lysosomal acid maltase"
+  },
+  {
+    "instruction": "A four-day-old neonate is brought to the pediatrician with vaginal discharge for the last two days. Her mother is concerned about the blood-tinged discharge but states that her daughter has been feeding and voiding well. The neonate was delivered at 39 weeks gestation by an uncomplicated vaginal delivery, and she and her mother were discharged home after two days. The prenatal course was complicated by chlamydia in the mother during the first trimester, for which she and the partner were both treated with a negative test of cure. The neonate\u2019s biological father is no longer involved the patient's care, but her mother\u2019s boyfriend has been caring for the baby whenever the mother rests. At this visit, the neonate\u2019s temperature is 98.5\u00b0F (36.9\u00b0C), pulse is 138/min, and respirations are 51/min. She appears comfortable, and cardiopulmonary and abdominal exams are unremarkable. There are no bruises or marks on her skin. Examination of the genitals reveals no vulvar irritation or skin changes, but there is scant pink mucoid discharge at the introitus. Which of the following is the best next step in management?",
+    "input": "Vaginal exam under anesthesia,Vaginal culture,Warm water irrigation of the vagina,Reassurance",
+    "output": "Reassurance"
+  },
+  {
+    "instruction": "A 9-month-old boy is brought to his pediatrician by his mother for a routine health checkup. The boy was born at 39 weeks gestation via spontaneous vaginal delivery. He is up to date on all vaccines and is meeting all developmental milestones. He was breastfed for the first 3 months and then switched to cow\u2019s milk and about two months ago she started giving him fruits and vegetables. Family history is noncontributory. Today, his heart rate is 120/min, respiratory rate is 40/min, blood pressure is 90/50 mm Hg, and temperature of 37.0\u00b0C (98.6\u00b0F). On examination, he has a heartbeat with a regular rate and rhythm and his lungs are clear to auscultation bilaterally. Generally, the boy looks pale. His weight and height fall within the expected range. A complete blood count (CBC) shows the following:\nHemoglobin (Hb): 9.1 g/dL\nMean corpuscular volume (MCV): 65 fL\nTotal iron binding capacity (TIBC): 550 \u03bcg/dL\nSerum iron: 45 \u00b5g/dL\nSerum lead: < 5 \u00b5g/dL\nWhat is the best treatment for this patient?",
+    "input": "Iron supplementation only,Proper diet and iron supplementation,Multivitamins,Proper diet only",
+    "output": "Proper diet and iron supplementation"
+  },
+  {
+    "instruction": "A 7 -day-old newborn boy presents to the emergency department with a history of fever, irritability, and generalized erythema. During the first 2 days of clinical manifestations, the parents of the child tried to control the symptoms using acetaminophen; however, the newborn continued to be ill, and blisters were noticeable around the buttocks, hands, and feet. During the physical examination, the vital signs include body temperature 39.0\u00b0C (102.3\u00b0F), heart rate 130/min, and respiratory rate 45/min. Ears, nose, and oral mucosa preserved their integrity, while the skin presents with diffuse blanching erythema and flaccid blisters with a positive Nikolsky\u2019s sign. What is the most likely diagnosis in this patient?",
+    "input": "Scarlet fever,Scalded skin syndrome,Impetigo,Pyoderma",
+    "output": "Scalded skin syndrome"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "instruction": "A 21-year-old sexually active male complains of fever, pain during urination, and inflammation and pain in the right knee. A culture of the joint fluid shows a bacteria that does not ferment maltose and has no polysaccharide capsule. The physician orders antibiotic therapy for the patient. The mechanism of action of action of the medication given blocks cell wall synthesis, which of the following was given?",
+    "input": "Gentamicin,Ciprofloxacin,Ceftriaxone,Trimethoprim",
+    "output": "Ceftriaxone"
+  },
+  {
+    "instruction": "A 56-year-old woman is brought to the physician by her husband because of a two-day history of fever, malaise, headaches, and confusion. She recently immigrated from rural China and her immunization status is unknown. Her temperature is 39.1\u00b0C (102.4\u00b0F). Physical examination shows nuchal rigidity and photophobia. Cerebrospinal fluid analysis shows a neutrophil count of 1,500/mm3. Cerebrospinal fluid cultured on Thayer-Martin agar and normal sheep blood agar shows no growth. However, when the sheep blood agar sample is heated, numerous non-hemolytic, opaque, cream-colored colonies grow. Which of the following characteristics best describes the most likely causal pathogen?",
+    "input": "Gram-negative coccobacillus,Gram-positive, lancet-shaped diplococcus,Gram-negative diplococcus,Gram-positive, facultative intracellular bacillus",
+    "output": "Gram-negative coccobacillus"
+  },
+  {
+    "instruction": "A 22-year old active duty soldier presents to your clinic with complaints of intense fatigue, fevers, abdominal pain, and a nonproductive cough. Her symptoms began a few days ago, but she returned from a tour of duty in Malawi and Mozambique four weeks ago. She endorses sleeping outside, using minimal bug spray, and swimming in rivers during her tour. On physical exam, her temperature is 101.5, and she appears exhausted. She has a hive-like rash scattered over her body. Her abdominal exam is notable for hepatosplenomegaly, and her lung exam is notable for scattered crackles. Her CBC with diff is remarkable for marked eosinophilia, and she has an elevated IgE. Of the following organisms, infection with which one is most consistent with her symptoms?",
+    "input": "Plasmodium falciparum,Schistosoma mansoni,Mycobacterium tuberculosis,Trypanosoma brucei rhodesiense",
+    "output": "Schistosoma mansoni"
+  },
+  {
+    "instruction": "A 31-year-old male presents with a 2-day history of watery diarrhea that began 8 days after his arrival from Africa. None of the other members of his family became ill. He reports symptoms of malaise, anorexia, and abdominal cramps followed by watery diarrhea. He denies tenesmus, urgency, and bloody diarrhea. His temperature is 98.6\u00b0F (37\u00b0C), respiratory rate is 15/min, pulse is 107/min, and blood pressure is 90/68 mm Hg. A physical examination is performed and is within normal limits. Intravenous fluids are started, and a stool sample is sent to the lab, which comes out to be negative for any ova/parasites, blood cells, or pus cells. What is the most likely diagnosis?",
+    "input": "Giardiasis,Irritable bowel syndrome (IBS),Traveler\u2019s diarrhea due to Norovirus,Traveler\u2019s diarrhea due to ETEC",
+    "output": "Traveler\u2019s diarrhea due to ETEC"
+  },
+  {
+    "instruction": "A 4-year-old boy is brought to the physician because of a progressive rash for 2 days. The rash started behind the ears and now involves the trunk and extremities. Over the past 4 days, he has had mild sore throat, red, itchy eyes, and headache. He was born at term and has been healthy except for recurrent episodes of tonsillitis and occasional asthma attacks. Two weeks ago, he was treated for tonsillitis that resolved with penicillin therapy. He immigrated with his family from Brazil 3 weeks ago. His immunization status is unknown. The patient appears weak and lethargic. His temperature is 38\u00b0C (100.4\u00b0F), pulse is 100/min, and blood pressure is 100/60 mm Hg. Examination shows postauricular and suboccipital lymphadenopathy. There is a non-confluent, pink maculopapular rash over the torso and extremities. His palms and soles show no abnormalities. Which of the following is the most likely diagnosis?",
+    "input": "Rubella,Allergic drug reaction,Scarlet fever,Erythema infectiosum",
+    "output": "Rubella"
+  },
+  {
+    "instruction": "A 53-year-old man comes to the physician because of a 1-day history of fever and chills, severe malaise, and cough with yellow-green sputum. He works as a commercial fisherman on Lake Superior. Current medications include metoprolol and warfarin. His temperature is 38.5\u00b0C (101.3\u00b0F), pulse is 96/min, respirations are 26/min, and blood pressure is 98/62 mm Hg. Examination shows increased fremitus and bronchial breath sounds over the right middle lung field. An x-ray of the chest shows consolidation of the right upper lobe. Which of the following is the most likely causal pathogen?",
+    "input": "Pseudomonas aeruginosa,Streptococcus pyogenes,Haemophilus influenzae,Streptococcus pneumoniae",
+    "output": "Streptococcus pneumoniae"
+  },
+  {
+    "instruction": "A research group designed a study to investigate the epidemiology of syphilis in the United States. The investigators examined the total number of cases of syphilis and genitourinary chlamydia in the United States using a national health survey of a nationally representative sample of US citizens conducted in 2012. The investigators ultimately found that a history of genitourinary chlamydia infection is associated with syphilis. This study is best described as which of the following?",
+    "input": "Single-blind clinical trial,Double-blind clinical trial,Cross-sectional study,Case-control study",
+    "output": "Cross-sectional study"
+  },
+  {
+    "instruction": "A 36-year-old man presents with a 3-week history of fever, enlarged lymph nodes, fatigue, and a dry cough. The patient\u2019s wife says she has noticed that he lost a lot of weight over the last 6 months and seems very pale. Over the last week, he has noticed a worsening non-productive cough and night sweats. His blood count shows anemia and low lymphocyte count. He tells the physician that he had multiple unprotected sexual relationships with women other than his wife about 6 years ago and is fearful this may be related to his current health concerns. A test is performed which screens for the cause of this patient's immunodeficiency. Which of the following does this screening test detect?",
+    "input": "Anti-HCV antigen,Lactic dehydrogenase,p24 antigen,CCR5 mutation",
+    "output": "p24 antigen"
+  },
+  {
+    "instruction": "A 40-year-old woman with HIV infection comes to the emergency department because of a 4-week history of progressively worsening fatigue and headache. On mental status examination, the patient is somnolent and oriented only to person. Her CD4+ lymphocyte count is 80/mm3 (N \u2265 500). Analysis of this patient's cerebrospinal fluid (CSF) shows a leukocyte count of 30/mm3 (60% lymphocytes), a protein concentration of 52 mg/dL, and a glucose concentration of 37 mg/dL. An India ink stain of the CSF is shown. Which of the following is the most appropriate pharmacotherapy for this patient's neurological symptoms?",
+    "input": "Pyrimethamine, sulfadiazine, and folinic acid,Isoniazid, rifampin, pyrazinamide, and ethambutol,Amphotericin B and flucytosine,Fluconazole",
+    "output": "Amphotericin B and flucytosine"
+  },
+  {
+    "instruction": "A 32-year-old G2P1 at 32 weeks gestation presents to the emergency department with complaints of severe abdominal pain, fatigue, and nausea. Physical examination is significant for profound jaundice and tenderness to palpation of the right upper quadrant of the abdomen. The patient returned 2 weeks ago from a 1 month-long trip to India. She received sporadic pre-natal care while traveling and reports no known complications in her current pregnancy to date. She denies any past medical problems and states that her prior pregnancy proceeded as a normal vaginal birth without any complications. Infection with which of the following organisms would portend the worst prognosis with the highest mortality rate for this patient?",
+    "input": "Hepatitis A,Hepatitis B,Hepatitis D,Hepatitis E",
+    "output": "Hepatitis E"
+  },
+  {
+    "instruction": "A 4-year-old girl from a recently immigrated family presents to the emergency department with episodes of severe coughing lasting up to several minutes followed by vomiting. She had a low grade fever and runny nose over the last 2 weeks but these coughing episodes just began one day prior to presentation. A complete blood count shows a lymphocytic infiltrate and Gram stain reveals a gram-negative coccobacillus. The emergency department physician explains that this organism causes disease by toxin-mediated inactivation of an inhibitory signaling molecule. Which of the following could be used to culture the most likely cause of this disorder?",
+    "input": "Charcoal yeast with iron and cysteine,Eaton agar,Loffler medium,Regan-Lowe medium",
+    "output": "Regan-Lowe medium"
+  },
+  {
+    "instruction": "A 31-year-old woman presents to her primary care physician because she has been experiencing diarrhea over the last several days. She returned from a cruise ship vacation 3 days ago and has recently been to many countries in Central and South America. After returning, she developed bloody diarrhea, nausea, and right-upper quadrant abdominal pain. Stool examination shows blood and neutrophils and imaging reveals abscesses in the liver. Which of the following findings would most likely be seen in this patient?",
+    "input": "Acid fast cysts,Motile bacteria,Non-invasive trophozoites,Ulcers that are flask-shaped",
+    "output": "Ulcers that are flask-shaped"
+  },
+  {
+    "instruction": "A 3-year-old boy who has no known past medical or family history is brought by his parents to his pediatrician for new symptoms. Specifically, his parents state that he has suffered from a fever associated with diarrhea and conjunctivitis over the past week or so. His parents note that he has never had an episode of diarrhea like this previously, but that several other children at his daycare had been ill recently. The blood pressure is 112/70 mm Hg, heart rate is 94/min, respiratory rate is 14/min, and temperature is 37.0\u00b0C (98.6\u00b0F). The physical exam is significant for preauricular adenopathy. Which of the following interventions would have been most effective to prevent this condition?",
+    "input": "Appropriate immunization,Better hand-washing practices,Keeping all food stored in the refrigerator,Avoiding undercooked seafood",
+    "output": "Better hand-washing practices"
+  },
+  {
+    "instruction": "A previously healthy 7-year-old girl is brought to the physician for a well-child examination. She feels well. She emigrated from India 3 months ago. There is no family history of serious illness. Her immunizations are up-to-date. She is at 60th percentile for height and weight. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 90/min, and respirations are 26/min. Examination shows no abnormalities. Laboratory studies show:\nHemoglobin 13.2 g/dL\nLeukocyte count 8900/mm3\nPlatelet count 310,000/mm3\nSerum\nHepatitis B surface antigen negative\nHepatitis B antibody positive\nInterferon-\u03b3 release assay positive\nAn x-ray of the chest shows no abnormalities. Which of the following is the most appropriate next step in management?\"",
+    "input": "Perform acid-fast stain on induced sputum,Administer isoniazid,Perform tuberculin skin test,Administer isoniazid, rifampin, ethambutol and pyrazinamide",
+    "output": "Administer isoniazid"
+  },
+  {
+    "instruction": "A 23-year-old woman comes to the physician because of a painless lesion on the arm that first appeared 5 days after she visited a petting zoo. The lesion began as a small papule and then became a blister that has since ulcerated. Her temperature is 38.3\u00b0C (101\u00b0F). Examination shows a black eschar with edematous borders on the left upper arm. There is axillary lymphadenopathy. The virulence factor responsible for the edema seen in this patient has a mechanism of action similar to which of the following enzymes?",
+    "input": "Adenylate cyclase,Catalase,Guanylate cyclase,SNARE protein",
+    "output": "Adenylate cyclase"
+  },
+  {
+    "instruction": "A 26-year-old man comes to the physician because of a 3-week history of malaise and recurrent fever. He has also had a 4.5-kg (10-lb) weight loss over the past 3 months. He came back from his honeymoon in Kenya 6 months ago. He appears ill. His temperature is 39\u00b0C (102.2\u00b0F). He is alert and oriented to person, time, and place. Physical examination shows generalized lymphadenopathy and hepatosplenomegaly. Laboratory studies show a hemoglobin concentration of 9.1 g/dL, leukocyte count of 2,900/mm3, and platelet count of 108,000/mm3. Which of the following is the most likely vector of this patient's condition?",
+    "input": "Tsetse fly,Sand fly,Freshwater snail,Anopheles mosquito",
+    "output": "Sand fly"
+  },
+  {
+    "instruction": "An investigator is studying an experimental treatment for HIV infection that inhibits the maturation of new HIV virions. Patients who are taking the drug are observed for several years and side effects are recorded. A correlation is established between the drug and the development of impaired glucose tolerance. In addition, a significant portion of the patients who take the drug for several years shows increased fat accumulation in the neck with loss of subcutaneous fat in the face and extremities. Which of the following processes is most likely targeted by this drug?",
+    "input": "Viral entry into host cell,Viral polypeptide cleavage,Viral budding from host cells,Reverse transcription of viral RNA",
+    "output": "Viral polypeptide cleavage"
+  },
+  {
+    "instruction": "A 27-year-old woman comes to the physician because of a rash and headache. She recently returned from a camping trip in North Carolina. She has a severe allergy to doxycycline. Her temperature is 38.2\u00b0C (100.8\u00b0F). Physical examination shows a blanching erythematous rash and petechiae over both ankles and the soles of her feet. A drug is prescribed that can cause fatal aplastic anemia. The bacteriostatic effect of this drug is most likely due to which of the following mechanisms?",
+    "input": "Inhibition of initiation complex formation at the 30S ribosomal subunit,Inactivation of prokaryotic topoisomerase II and IV,Inhibition of tRNA binding site at the 30S ribosomal subunit,Inactivation of bacterial peptidyltransferase at the 50S ribosomal subunit",
+    "output": "Inactivation of bacterial peptidyltransferase at the 50S ribosomal subunit"
+  },
+  {
+    "instruction": "A 20-year-old man presents to an outpatient clinic with complaints of fever and sweating for 2 months. He says that he does not have the same appetite as before. He lost 2.7 kg (6.0 lb) in the last 2 months. He also complains of pleuritic chest pain and difficulty breathing, which is not nocturnal and is unrelated to position. He has had a mild cough for several months. On examination, the patient is afebrile with normal auscultatory findings. A chest X-ray reveals a right upper lobe homogeneous density. Ziehl-Neelsen staining of sputum shows Mycobacterium tuberculosis. What is the most likely pathological process seen in this type of infection?",
+    "input": "Caseous necrosis,Liquefactive necrosis,Fat necrosis,Fibrinoid necrosis",
+    "output": "Caseous necrosis"
+  },
+  {
+    "instruction": "A 32-year-old man from the Czech Republic is brought to the emergency department by his girlfriend with a 2-day history of yellowing of the skin. His girlfriend also reports a several-week history of anorexia, nausea without vomiting, and diffuse low-grade abdominal pain. He is a frequent injection drug user. His temperature is 38.1\u00b0C (100.6\u00b0F). He is grossly confused and somnolent. Physical examination is notable for scleral icterus and diffuse jaundice; when asked to hold his hands in wrist extension, a flapping movement is observed. Liver function tests show alanine aminotransferase 1,830 U/L, aspartate aminotransferase 1,377 U/L, and direct bilirubin 15 mg/dL. Coagulation studies reveal an international normalized ratio of 3.8. On serological testing, HBsAg is positive, and HBsAb is negative. Which of the following laboratory tests should be performed in this patient prior to initiating treatment?",
+    "input": "Hepatitis D serologies,HIV ELISA,PPD skin test,Lumbar puncture",
+    "output": "Hepatitis D serologies"
+  },
+  {
+    "instruction": "A 32-year-old man presents to the emergency department with fever, weight loss, and right upper quadrant pain. He says that he started experiencing nausea and fatigue after he returned from a honeymoon trip to Asia with his wife. Notably, she is 5 months pregnant with their first child. On presentation, his temperature is 100.8\u00b0F (38.2\u00b0C), blood pressure is 118/79 mmHg, pulse is 81/min, and respirations are 14/min. Physical exam reveals a jaundiced patient with a palpable liver edge as well as splenomegaly. Labs are sent in order to confirm the diagnosis. After confirmation, the patient's wife is immediately tested as well because she is at a much higher risk of fatal complications from this infection. The organism that is most likely responsible for this patient's symptoms has which of the following structures?",
+    "input": "Enveloped dsDNA virus,Enveloped (-) RNA virus,Enveloped (+) RNA virus,Non-enveloped (+) RNA hepevirus",
+    "output": "Non-enveloped (+) RNA hepevirus"
+  },
+  {
+    "instruction": "A 43-year-old man comes to the physician because of redness and swelling of his right leg. He reports that it is very painful to touch. He has had fever and chills. He has no chest pain or shortness of breath. He has a history of type 2 diabetes mellitus and underwent saphenous vein stripping and ligation in his right leg 3 years ago. He works as a security guard. He does not smoke or drink alcohol. His medications include metformin and sitagliptin. His temperature is 38.7\u00b0C (101.7\u00b0F), pulse is 99/min, and blood pressure is 138/72 mm Hg. Examination shows an 8-cm, indurated, tender, warm, erythematous skin lesion with sharply demarcated margins. There is no inguinal lymphadenopathy. Toe web intertrigo is noted. Which of the following is the most appropriate next step in management?",
+    "input": "Oral cephalexin therapy,Intravenous cefazolin therapy,Intravenous ciprofloxacin therapy,Subcutaneous heparin injection",
+    "output": "Intravenous cefazolin therapy"
+  },
+  {
+    "instruction": "A 4-year-old girl is brought to the physician with progressively worsening fever, malaise, and a sore throat. Her parents say \u201cOur daughter has not received vaccinations because her body has to learn how to fight infections.\u201d Her temperature is 38.5\u02daC (101.3 F). Physical examination shows marked cervical lymphadenopathy. There are gray-white membranes over the tonsils and posterior pharynx that bleed when scraped off. The patient's symptoms are most likely caused by disruption of which of the following steps in protein synthesis?",
+    "input": "Folding of completed proteins,Translocation of the ribosome along the mRNA,Binding of tRNA to the A site,Release of completed protein from ribosome",
+    "output": "Translocation of the ribosome along the mRNA"
+  },
+  {
+    "instruction": "A 24-year-old woman visits the health services of her university for vaginal itching, dysuria, pelvic discomfort, and foul-smelling vaginal discharge. She states this is the eighth time she has had such symptoms within the last year, for which she and her sexual partners have received multiple courses of doxycycline and ceftriaxone or azithromycin and ceftriaxone. A pelvic examination showed a mucopurulent cervical discharge with cervical friability. A vaginal wet-mount showed an elevated number of polymorphonuclear leukocytes. What is the most likely cause of this patient\u2019s cervicitis?",
+    "input": "Chlamydia trachomatis,Mycoplasma hominis,Mycoplasma genitalium,Neisseria gonorrhoeae",
+    "output": "Mycoplasma genitalium"
+  },
+  {
+    "instruction": "A 5-year-old boy is brought to the physician because of high-grade fever and generalized fatigue for 5 days. Two days ago, he developed a rash on his trunk. He returned from a family hiking trip to Montana 1 week ago. His immunization records are unavailable. His temperature is 39.8\u00b0C (103.6\u00b0F), pulse is 111/min, and blood pressure is 96/60 mm Hg. Examination shows injection of the conjunctivae bilaterally. The tongue and pharynx are erythematous. Tender cervical lymphadenopathy is present on the left. There is a macular rash over the trunk and extremities. Bilateral knee joints are swollen and tender; range of motion is limited by pain. Cardiopulmonary examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "input": "Staphylococcal scalded skin syndrome,Juvenile idiopathic arthritis,Granulomatosis with polyangiitis,Kawasaki disease\n\"",
+    "output": "Kawasaki disease\n\""
+  },
+  {
+    "instruction": "A 59-year-old man is brought to the emergency department by his wife because of fever, chills, night sweats, and generalized fatigue for 2 weeks. His temperature is 39.1\u00b0C (102.4\u00b0F). He appears ill. Physical examination shows a grade 3/6 mid-diastolic murmur at the left sternal border, and crackles at both lung bases. A transesophageal echocardiography shows a 12 mm vegetation on the aortic valve. Blood cultures show gram-positive, catalase-negative, gamma-hemolytic cocci in chains that are unable to grow in a 6.5% NaCl medium. Which of the following is the most likely predisposing factor for this patient\u2019s current condition?",
+    "input": "Periodontal disease,Colon cancer,Valve replacement,Urinary tract infection",
+    "output": "Colon cancer"
+  },
+  {
+    "instruction": "A 31-year-old male presents to his primary care physician complaining of low back pain and fevers. He reports a four-day history of intermittent fevers, chills, and low back pain. He denies trauma or recent illness. His past medical history is notable for recurrent renal stones, diabetes mellitus, and alcohol abuse. He takes metformin but admits to missing several doses. He has had multiple sexual partners and uses condoms intermittently. His temperature is 100.6\u00b0F (38.1\u00b0C), blood pressure is 110/70 mmHg, pulse is 110/min, and respirations are 21/min. On examination, he demonstrates mild tenderness to palpation along his lower back. Sensation to touch is intact in the bilateral lower extremities. Strength in leg and hip flexion and extension is 5/5 bilaterally. The physician is unable to perform a digital rectal examination due to pain. A urinalysis demonstrates leukocytes. Which of the following treatment regimens is most appropriate in this patient?",
+    "input": "Ampicillin and gentamicin,Ciprofloxacin and trimethroprim-sulfamethoxazole,Terazosin,Ceftriaxone and doxycycline",
+    "output": "Ceftriaxone and doxycycline"
+  },
+  {
+    "instruction": "A 35-year-old woman comes to employee health services 30 minutes after a work-related incident. She works as a phlebotomist and reports that blood splashed into her right eye when she was drawing blood from a 30-year-old male patient. Immediately following the incident, she flushed her eye with water for several minutes. The patient from whom she drew blood was admitted for hemoptysis, weight loss, and night sweats. He is an intravenous drug user and is sexually active with several male and female partners. The phlebotomist has no history of serious illness and takes no medications. Her immunizations are up-to-date. Physical examination shows no abnormalities. In addition to drawing her blood for viral serologies, which of the following is the most appropriate next step?",
+    "input": "Start raltegravir, tenofovir, and emtricitabine,Start zidovudine,Start tenofovir and emtricitabine,Administer hepatitis B immune globulin and vaccine",
+    "output": "Start raltegravir, tenofovir, and emtricitabine"
+  },
+  {
+    "instruction": "A 57-year-old man with HIV and GERD comes to the emergency department because of productive cough with malodorous phlegm and night sweats for the past week. He has smoked 1 pack of cigarettes daily for 30 years and he drinks 8\u201310 beers daily. His temperature is 38.9\u00b0C (102.0\u00b0F). Physical examination shows coarse crackles and dullness to percussion at the right lung base. Scattered expiratory wheezing is heard throughout both lung fields. The CD4+ T-lymphocyte count is 280/mm3 (N \u2265 500). An x-ray of the chest is shown. Which of the following is the most likely cause of this patient's symptoms?",
+    "input": "Bronchiectasis,Adenocarcinoma in situ,Tuberculosis,Aspiration pneumonia",
+    "output": "Aspiration pneumonia"
+  },
+  {
+    "instruction": "A 46-year-old man presents to a physician three days after arriving in Morocco. He endorses acute onset of painless, profuse watery diarrhea that appears white and cloudy. The patient denies bloody stool, vomiting, or subjective fevers. Vital signs are T 98.6, HR 120, RR 17, and BP 85/50. On physical exam, the patient has dry mouth, decreased skin turgor, and cold clammy skin. His peripheral pulse is rapid and thready. The toxin responsible for this clinical presentation has a mechanism of action that is most similar to which other toxin?",
+    "input": "Diphtheria toxin,Exotoxin A,Edema toxin,Shiga-like toxin",
+    "output": "Edema toxin"
+  },
+  {
+    "instruction": "Three days after surgical repair of a distal right radius fracture, a 62-year-old man develops severe wound pain and fever. His temperature is 39.1\u00b0C (102.4\u00b0F). Physical examination shows erythema and edema of the right arm that extends up to the elbow. Yellow pus drains from the surgical wound. Cultures from the wound fluid grow gram-positive bacteria in grape-like clusters that are resistant to nafcillin. While treating the patient's condition, the hospital also wants to eradicate the causal pathogen in asymptomatic carriers. Which of the following measures would be most effective?",
+    "input": "Permethrin hair wash,Colistin nebulized aerosol,Chlorhexidine hand disinfection,Mupirocin nasal ointment",
+    "output": "Mupirocin nasal ointment"
+  },
+  {
+    "instruction": "An 18-month-old boy is brought to the emergency department by his babysitter because of lethargy and fever for 3 hours. He has not fully recovered from a middle ear infection that started a few days ago. The parents cannot be reached for further information. His temperature is 39.1\u00b0C (102.3\u00b0F). Physical examination shows nuchal rigidity. A pathogen is isolated from the patient's cerebrospinal fluid that does not grow on regular blood agar plate but produces colonies when cocultured with Staphylococcus aureus. Vaccination against the causal pathogen of this patient's current disease is most likely to also prevent which of the following conditions?",
+    "input": "Bacterial rhinosinusitis,Epiglottitis,Chancroid,Impetigo",
+    "output": "Epiglottitis"
+  },
+  {
+    "instruction": "A 24-year-old medical student presents to urgent care with cough and rhinorrhea. He has been learning about HIV and immunosuppression in medical school, and he is worried that he is seriously ill. He has no significant medical history, and he is sexually active with his girlfriend. He consumes alcohol on weekends but does not use tobacco or other recreational drugs. He candidly reports that, in microbiology lab, he cultured his own sputum on Sabouraud agar, and Candida grew on the agar. Examination of the oropharynx does not show any abnormalities. You perform a nasal viral swab, which confirms that he has a rhinovirus infection. Which of the following is the most likely explanation for his positive Candida culture?",
+    "input": "HIV virus infection,Xerostomia,Surreptitious drug use,Benign Candida colonization",
+    "output": "Benign Candida colonization"
+  },
+  {
+    "instruction": "A 9-year-old female child whose family recently emigrated from Afghanistan presents to the county hospital with difficulty swallowing and generalized muscle rigidity. Her parents note that although she is in severe pain she always appears to be smiling. After getting a detailed history from the parents, the residents comes to the conclusion that the child's clinical presentation is due to a lack of immunizations and a deep wound on her knee resulting from a fall six days ago. Which of the following is the mechanism of action of the toxin causing this child's symptoms?",
+    "input": "Inhibiting protein synthesis via ADP-ribosylation of elongation factor 2,Overactivating adenylate cyclase by ADP-ribosylation of the Gs alpha subunit,Overactivating adenylate cyclase by disabling the Gi subunit,Preventing release of GABA by cleaving of synaptobrevin 2",
+    "output": "Preventing release of GABA by cleaving of synaptobrevin 2"
+  },
+  {
+    "instruction": "A 13-year-old boy is brought to the physician because of pain and redness on his back for 2 days. He returned yesterday from a vacation to East Africa with his parents, where he took multiple rides on hot air balloons. His vital signs are within normal limits. Examination shows a tender, nonpruritic, erythematous rash with edema covering the extensor surface of both forearms, the shoulders, and the upper back, with small patches of skin exfoliation. The rash becomes pale when pressed and then rapidly regains color. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "input": "Dress wound with wet gauze,Administer 2 liters of intravenous fluids,Apply topical mupirocin,Apply aloe vera-based moisturizer\n\"",
+    "output": "Apply aloe vera-based moisturizer\n\""
+  },
+  {
+    "instruction": "A 55-year-old man comes to the emergency department because of headache, fever, chills, shortness of breath, and abdominal pain for 1 week. He also feels tired and nauseous. He returned from a trip to Botswana 2 weeks ago. He has type 2 diabetes mellitus. He has smoked one pack of cigarettes daily for the past 30 years and drinks a glass of beer daily. His only current medication is metformin. His temperature is 39.3\u00b0C (102.8\u00b0F), pulse is 122/min, respirations are 28/min, and blood pressure is 109/84 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. Examination shows jaundice. A few scattered inspiratory crackles are heard in the thorax. The liver is palpated 2 cm below the right costal margin. Laboratory studies show:\nHemoglobin 9.2 g/dL\nLeukocyte count 9,400/mm3\nPlatelet count 90,000/mm3\nSerum\nNa+ 137 mEq/L\nCl- 102 mEq/L\nK+ 5.2 mEq/L\nHCO3- 13 mEq/L\nGlucose 69 mg/dL\nLactate dehydrogenase 360 U/L\nCreatinine 0.9 mg/dL\nBilirubin\n_ Total 4.2 mg/dL\n_ Direct 0.8 mg/dL\nAST 79 U/L\nALT 90 U/L\nUrine\nBlood 3+\nProtein trace\nRBC 0\u20131/hpf\nWBC 1\u20132/hpf\nArterial blood gas analysis on room air shows a pH of 7.31. Which of the following is the most appropriate next step in management?\"",
+    "input": "Coombs test,Blood culture,Blood smear,Serology",
+    "output": "Blood smear"
+  },
+  {
+    "instruction": "A previously healthy 18-year-old woman comes to the emergency department because of diarrhea and abdominal cramps since the previous evening. She has had around 3\u20134 episodes of watery stools. She feels nauseous and has vomited twice. She recollects eating out 2 days ago. She has been on a vegan diet for 6 months. She takes no medications and has not traveled anywhere recently. Her temperature is 36.8\u00b0(98.2\u00b0F), pulse is 73/min, and blood pressure is 110/70 mm Hg. Examination shows dry mucous membranes. Abdominal examination is unremarkable. Which of the following is the most likely causal organism?",
+    "input": "Rotavirus,Norovirus,Vibrio vulnificus,Bacillus cereus",
+    "output": "Norovirus"
+  },
+  {
+    "instruction": "A 28-year-old woman, gravida 1, para 0, at 32 weeks' gestation comes to the physician for a prenatal visit. She has had no prenatal care. She emigrated from China 5 years ago and cannot recall all of her vaccinations. She appears well. Physical examination shows a uterus consistent in size with a 32-week gestation. Serum studies show:\nAnti-hepatitis A IgM antibody negative\nAnti-hepatitis A IgG antibody positive\nHepatitis B surface antigen negative\nAnti-hepatitis B surface antibody positive\nHepatitis B core antigen negative\nAnti-hepatitis B core antibody negative\nWhich of the following is the most appropriate next step in management?\"",
+    "input": "Plan normal vaginal delivery at term,Determine hepatitis B e antigen serum level,Administer hepatitis B vaccine to mother,Perform liver biopsy of mother",
+    "output": "Plan normal vaginal delivery at term"
+  },
+  {
+    "instruction": "A 4-month-old male presents to the emergency department with severe cough, wheezing, and cyanosis. You suspect bronchiolitis of viral etiology and you administer an anti-viral medication. This drug is often used to treat which one of these other infections?",
+    "input": "Hepatitis B,Hepatitis C,Rhinovirus,HSV",
+    "output": "Hepatitis C"
+  },
+  {
+    "instruction": "A 31-year-old man comes to the physician because of diarrhea, bloating, nausea, and vomiting for the past week. He describes his stool as greasy, frothy, and soft; it is not red or darkened. The patient went on a hiking trip in Brazil 3 weeks ago. He has no history of serious illness and takes no medications. The patient appears dehydrated. His vital signs are normal. Examination shows dry mucous membranes and diffuse abdominal tenderness. Microscopy of the stool reveals egg-shaped cysts with prominent two-layered cell wall and multiple nuclei. Which of the following is the most appropriate treatment?",
+    "input": "Supportive treatment only,Trimethoprim-sulfamethoxazole therapy,Metronidazole therapy,Octreotide therapy",
+    "output": "Metronidazole therapy"
+  },
+  {
+    "instruction": "A 14-year-old Caucasian male presents with painful erythematous and honey-colored crusted lesions around his mouth. Culture of the lesions reveals gram-positive cocci in clusters. Further analysis reveals bacteria that are beta-hemolytic, coagulase positive, catalase positive, and appear golden on the blood agar plate. Which of the following helps the bacterium in this infection bind to immunoglobulin and prevent phagocytosis when invading its host?",
+    "input": "Protein A,Staphylokinase,Exfoliatin A,Neurotoxin",
+    "output": "Protein A"
+  },
+  {
+    "instruction": "A 37-year-old man presents to the emergency department with acute loss of vision, slurred speech, and agitation. Past medical history is significant for HIV and hepatitis C, diagnosed 10 years ago for which he is non-compliant with medication. A T1 MRI of the brain shows asymmetric, hypointense white matter lesions. Which of the following pathogens is most likely responsible for this patient\u2019s opportunistic infection?",
+    "input": "Herpes virus 8,Candida albicans,JC virus,Pneumocystis jirovecii",
+    "output": "JC virus"
+  },
+  {
+    "instruction": "A 51-year-old police officer is brought to the emergency room after being shot in the abdomen. His wound was packed and bandaged by emergency medical services before he was transported to the hospital. His past medical history is notable for hypertension and diabetes. He takes metformin and lisinopril. He has a 20-pack-year smoking history and does not drink alcohol. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 142/86 mmHg, pulse is 120/min, and respirations are 24/min. On exam, he appears uncomfortable but is able to answer questions appropriately. He has a 1 cm x 1 cm wound in the left upper quadrant. There is an exit wound in the left lower back. After undergoing the appropriate laboratory and imaging tests, he undergoes a diagnostic laparotomy. No involvement of the colon or small intestine is noted intraoperatively. He is placed on the appropriate antibiotic and pain control regimens. Three days later, he experiences several episodes of non-bloody diarrhea. His temperature is 101\u00b0F (38.3\u00b0C). Sigmoidoscopy reveals multiple pseudomembranous plaques in the sigmoid and descending colon. This patient's symptoms are most likely due to taking an antibiotic that inhibits which of the following enzymes?",
+    "input": "30S ribosomal subunit,50S ribosomal subunit,Dihydropteroate synthetase,DNA-dependent RNA polymerase",
+    "output": "50S ribosomal subunit"
+  },
+  {
+    "instruction": "A 9-year-old boy is brought to the emergency room by his concerned mother after he \"urinated blood.\" The boy reports that, starting this morning, he experienced significant pain with urination and his urine appeared a bright red color. These symptoms were not present before today; however, he reports a cough, runny nose, and sore throat that started approximately 3 days ago. Vital signs are as follows: T 38.4 deg C, HR 101, BP 110/65, RR 14, SpO2 99%. Physical examination is significant for bilateral conjunctivitis, tenderness to suprapubic palpation, and a small amount of clotted blood is noted surrounding the urethral meatus. A urine sample is obtained, and urinalysis shows 3+ blood, and urine microscopy demonstrates gross blood with too many cells to count per high powered field. Which of the following is the most common viral cause of this child's condition?",
+    "input": "Parvovirus B19,Coronavirus,Adenovirus,Coxsackie A virus",
+    "output": "Adenovirus"
+  },
+  {
+    "instruction": "A 3-year-old boy is brought to the emergency department because of abdominal pain and watery diarrhea for the past 3 days. This morning he also had nausea and his stool had a red tint. Four days ago, he and his parents returned home from a vacation, during which they visited a petting zoo and consumed many new foods. He lives with his family and they have cats and dogs at home. The patient attends daycare. His immunizations are up-to-date. His temperature is 38\u00b0C (100.4\u00b0F), pulse is 140/min, and blood pressure is 80/45 mm Hg. Examination shows dry mucus membranes. The abdomen is soft, and there is tenderness to palpation of the right lower quadrant with rebound. Stool culture grows Yersinia enterocolitica. Which of the following is most likely to have prevented this patient's condition?",
+    "input": "Hand-washing at daycare,Avoiding the consumption of undercooked pork,Avoiding the consumption of deli meats,Avoiding the consumption of unwashed vegetables",
+    "output": "Avoiding the consumption of undercooked pork"
+  },
+  {
+    "instruction": "A 67-year-old man presents to his physician\u2019s office with a progressive cough. It has been increasing in intensity over the past week. He has also been noticing an increase in the amount of sputum he usually produces, which is thick and yellow. He also complains of increased difficulty in breathing, more so than he previously experienced. He was diagnosed with chronic obstructive lung disease (COPD) about 3 years ago and has been on treatment for it since then. He doesn\u2019t report any fever, chills, or night sweats. He has observed a foul smell to his sputum. His blood pressure is 100/65 mm Hg, the respirations are 23/min and the pulse is about 110/min. Currently, his FEV1 is around 48% of the normal predicted value. He is currently receiving a yearly influenza shot and has taken the pneumococcal vaccination at the time of his diagnosis. In spite of this, he has had acute exacerbations of his symptoms 4 times over the last year. His last episode was 2 months ago, for which he was treated with a short course of antibiotics. He is also currently receiving treatment for diabetes. Which of the following pathogens should be considered before initiating treatment for the current episode?",
+    "input": "S. pneumonia,H. influenzae,P. aeruginosa,Syncytial virus",
+    "output": "P. aeruginosa"
+  },
+  {
+    "instruction": "A 54-year-old woman presents to the emergency department due to recent onset of a high fever, accompanied by severe headache and neck stiffness. Her past medical history is significant for rapidly progressive glomerulonephritis. She is currently on immunosuppressants after a kidney transplant performed 6 months ago. On presentation, her temperature is 102.2\u00b0F (39\u00b0C), blood pressure is 112/71 mmHg, pulse is 107/min, and respirations are 22/min. Physical exam reveals severe pain with neck flexion and reciprocal knee flexion. Laboratory tests reveal a gram-positive organism with endotoxin. Which of the following characteristics is true of the most likely cause of this patient's disorder?",
+    "input": "Anaerobic spore forming rods,Catalase-negative,Coagulase-positive,Tumbling motility in broth",
+    "output": "Tumbling motility in broth"
+  },
+  {
+    "instruction": "A 2-year-old boy is brought to see the pediatrician by his mother due to a \u201cbad\u201d cough. The mother reports that he has been coughing so hard that he threw up on several occasions. He is adopted and the mother does not know his vaccination history. He has no known allergies. His temperature is 38.5\u00b0C (100.5\u00b0F), pulse is 120/min, respirations are 33/min, blood pressure is 101/54 mm Hg, and oxygen saturation is 96% on room air. The boy looks unwell with mild difficulty breathing and a nonproductive cough multiple times followed by a \u201cwhoop\u201d sound during the inhalation. He has scattered petechiae on his face. A nasopharyngeal swab is sent for culture and PCR. Which of the following antibiotics is recommended for this patient?",
+    "input": "Ceftriaxone,Cefotaxime,Erythromycin,Ampicillin",
+    "output": "Erythromycin"
+  },
+  {
+    "instruction": "A 19-year-old man returns from travel in South America. He presents complaining of profuse, watery diarrhea. You suspect the causative organism to be Enterotoxigenic E. coli. What is the mechanism by which this organism causes diarrhea?",
+    "input": "Blocks the release of inhibitory neurotransmitters GABA and glycine,Blocks the presynaptic release of acetylcholine at the neuromuscular junction,Stimulates release of cytokines,Stimulates adenylate cyclase (increasing cAMP)",
+    "output": "Stimulates adenylate cyclase (increasing cAMP)"
+  },
+  {
+    "instruction": "A 62-year-old woman presents to a clinic with complaints of a worsening rash on her back, fevers with chills, and rigor for 2 days. She denies any headaches, nausea, or vomiting. She is currently on chemotherapy for multiple myeloma, which was diagnosed last year. On examination, there were multiple punched-out ulcers covered in crusts surrounded by raised, violaceous margins on her back. Some of the lesions have black necrotic centers. The vital signs include: temperature 38.8\u00b0C (102.0\u00b0F), respirations 24/min, pulse 110/min, and blood pressure 100/90 mm Hg. Laboratory studies show:\nHemoglobin 8.4 g/dL\nWhite blood cell (WBC) count  1,500/mm3\nPlatelets 300,000/mm3\nWhich of the following organisms is most likely responsible for this patient\u2019s condition?",
+    "input": "Pseudomonas aeruginosa,Streptococcus pneumoniae,Haemophilus influenzae,Streptococcus pyogenes",
+    "output": "Pseudomonas aeruginosa"
+  },
+  {
+    "instruction": "A 7-year-old girl is brought to the physician by her mother for a 6-month history of irritability. She has no history of significant illness and is up-to-date on her immunizations. She appears markedly lethargic. Her vital signs are within normal limits. Physical examination shows subconjunctival pallor. Her hemoglobin concentration is 9.2 g/dL and mean corpuscular volume is 76 \u03bcm3. A photomicrograph of a wet stool mount is shown. Which of the following infectious agents is the most likely cause of these findings?",
+    "input": "Necator americanus,Enterobius vermicularis,Trichuris trichiura,Taenia solium",
+    "output": "Necator americanus"
+  },
+  {
+    "instruction": "A 6-year-old boy presents with high fever, sore throat, and cough for the past day. The patient\u2019s mother also says he is complaining of generalized muscle aches and chills. Past medical history is significant for childhood asthma, managed with inhaled mometasone furoate. The patient\u2019s temperature is 39.1\u00b0C (102.3\u00b0F), pulse is 120/min, and respiratory rate is 20/min. On physical examination, his oropharynx is erythematous with mild swelling of the pharyngeal tonsils. Chest auscultation reveals crepitus over the lung bases bilaterally. There are no signs of respiratory distress. Rapid diagnostic testing for influenza B infection in this patient is positive. In addition to symptomatic treatment, which of the following antiviral drugs would most likely benefit this patient?",
+    "input": "Amantadine,Ribavirin,Rimantadine,Oseltamivir",
+    "output": "Oseltamivir"
+  },
+  {
+    "instruction": "A 25-year-old man presents to the emergency department after being rescued from a house fire 30 minutes ago. He is conscious and in distress. On examination, he is noted to have 1st-degree burns involving 54% of his total body surface area. He has type 1 diabetes and takes insulin every day. He is admitted to the burn unit and treated appropriately. Ten days after admission, the physician notices blue-green pus oozing from the burn wounds. He is afebrile with a pulse of 90/min and a blood pressure of 130/80 mm Hg. A sample exudate is collected with a sterile swab and sent to the laboratory for culture, which yields the growth of aerobic gram-negative rods. Which of the following antibiotics will be most effective in treating this patient\u2019s condition?",
+    "input": "Azithromycin with rifampin,Piperacillin with gentamicin,Piperacillin,Ticarcillin",
+    "output": "Piperacillin with gentamicin"
+  },
+  {
+    "instruction": "A 58-year-old man is hospitalized and treated with clindamycin for a pulmonary abscess. During his hospital stay he develops abdominal pain and bloody diarrhea, and has a WBC of 14,000; serum creatinine is 0.9 mg/dL. On teaching rounds, you learn that the responsible pathogen produces a multi-unit toxin that binds to the colonic mucosa, causing actin depolymerization that results in cell death and mucosal necrosis. What is the preferred treatment for this condition?",
+    "input": "Metronidazole,Penicillin G,Tetracycline,Erythromycin",
+    "output": "Metronidazole"
+  },
+  {
+    "instruction": "A 69-year-old woman presents with insomnia and altered mental status. The patient is accompanied by her husband who says her symptoms began acutely 4 days ago with no obvious trigger and have not improved. Before this point, she had been living independently with no signs of cognitive impairment. The patient\u2019s husband says that the patient is often non-compliant with medication and eats and drinks little unless prompted. Past medical history is significant for hypertension, diabetes mellitus type 2, chronic pyelonephritis, and depression. Current medications are aspirin, metoprolol, hydrochlorothiazide, losartan, metformin, and trazodone. Vitals include: temperature 38.1\u2103 (100.6\u2109), blood pressure 130/70 mm Hg, pulse 91/min, respiratory rate 17/min, and oxygen saturation 99% on room air. On physical examination, the patient is agitated and easily distracted. Oriented x 1. She believes it is 1967, and she is at the bookstore. She talks to non-existent people and uses words inappropriately. Cardiac sounds are muffled but otherwise normal. Lungs are clear to auscultation. On abdominal examination, the tip of the urinary bladder can be palpated. Costovertebral angle tenderness is present bilaterally. Catheterization of the bladder yields cloudy, foul-smelling urine. Urinalysis is pending. Which of the following would be the best treatment for this patient\u2019s change in mental status?",
+    "input": "Changing trazodone to amitriptyline,Antibiotic therapy,Discontinuation of metoprolol,Lifelong administration of memantine",
+    "output": "Antibiotic therapy"
+  },
+  {
+    "instruction": "A 27-year-old man presents for followup 3 months after starting an antiretroviral regimen consisting of efavirenz, tenofovir, and emtricitabine. Labs drawn just prior to presentation reveal an undetectable viral load and a T-lymphocyte count of 317/mm^3. By comparison, his viral load was 6100/mL and his T-lymphocyte count was 146/mm^3 at the time of treatment initiation. He reports that he is tolerating the medications well and is not experiencing any major side effects. Which of the following treatment regimens should be recommended for this patient given the fully suppressed viral load?",
+    "input": "Continue current regimen of efavirenz, tenofovir, and emtricitabine,Continue efavirenz and emtricitabine but discontinue tenofovir,Continue efavirenz and tenofovir but discontinue emtricitabine,Continue tenofovir and emtricitabine but discontinue efavirenz",
+    "output": "Continue current regimen of efavirenz, tenofovir, and emtricitabine"
+  },
+  {
+    "instruction": "A 37-year-old homeless man is brought in by ambulance to the emergency department after being found unresponsive. He was found in an area of IV drug use with drug paraphernalia including glassine envelopes with a white powder residue. There is no past medical history available. He is treated with intranasal naloxone and stabilized in the field. Upon arrival to the hospital, his blood pressure is 100/70 mm Hg, pulse rate is 90/min, respiratory rate is 18/min, and temperature is 38.9\u00b0C (102.0\u00b0F). On physical examination, the patient is jaundiced with white scrapable exudates on the oral mucosa. His arms are covered with stigmata of IV drug use. Heart auscultation reveals a holosystolic murmur that is loudest at the left sternal border. The lungs are clear to auscultation bilaterally. Laboratory work is performed which shows:\nHemoglobin 10.9 g/dL\nHematocrit 37.7%\nLeukocyte count 1,500/mm3\nNeutrophils 65%\nLymphocytes 30%\nMonocytes 5%\nMean corpuscular volume 82.2 \u03bcm3\nPlatelet count 190,000/mm3\nErythrocyte sedimentation rate 35 mm/h\nAspartate aminotransferase 2,400 U/L\nAlanine aminotransferase 3,200 U/L\nCD4 count 27 cells/mm3\nHIV-1 antibody positive\nHepatitis C virus antibody positive\nQuantiferon-gold test negative\nWhich of the laboratory findings will be found in this patient?",
+    "input": "Atypical lymphocytes on blood smear,Positive blood culture,Elevated levels of cardiac troponin I and T,Positive sputum culture",
+    "output": "Positive blood culture"
+  },
+  {
+    "instruction": "A large, multicenter study is conducted to assess the prevalence and mortality rate of pneumonia requiring hospitalization caused by various pathogens in 3 states over the past year. The study encompassed 250,000 adults between 45\u201379 years of age. The results for five different pathogens are shown:\nAll cases Fatal cases\nPathogen Number Percentage Number Percentage\nS. aureus 460 34.8 69 50.3\nInfluenza virus 288 21.8 12 8.8\nP. aeruginosa 136 10.3 17 12.4\nS. pneumoniae 338 25.5 27 19.7\nKlebsiella spp. 101 7.6 12 8.8\nTotal 1323 100 137 100\nA journalist would like to report the yearly case fatality rate of the pneumonia pathogen responsible for most hospitalizations in these states. Based on the study results, which of the following responses by the investigator is most accurate?\"",
+    "input": "10.4%,34.8%,15.0%,12.5%",
+    "output": "15.0%"
+  },
+  {
+    "instruction": "An 18-year-old woman presents with a dry cough for the past 2 weeks. She also says that she is tired all the time and feels feverish and chilly at times. She is a college student and lives in a dormitory and says that her roommate has a similar cough. Past medical history is unremarkable. The patient denies any smoking history, alcohol or recreational drug use. Her vitals signs include: temperature 36.8\u00b0C (98.2\u00b0F), pulse 72/min, blood pressure 118/63 mm Hg, and respiratory rate 15/min. Physical examination is unremarkable. A chest radiograph reveals interstitial infiltrates that look worse than her symptoms. A nasopharyngeal swab is sent to the lab for a bacterial culture which shows colonies having fried-egg appearance on Eaton\u2019s agar. Cold agglutinins are positive. Which of the following antibiotics would be best to administer to this patient?",
+    "input": "Penicillin,Ceftriaxone,Erythromycin,Aztreonam",
+    "output": "Erythromycin"
+  },
+  {
+    "instruction": "A previously healthy 25-year-old woman comes to the physician because of a 3-week history of fever, recurrent headaches, and anorexia. One month ago, she returned from a camping trip in Chile. Her temperature is 39.3\u00b0C (102.8\u00b0F). Examination shows a swelling in the left periorbital region and axillary, cervical, and inguinal lymphadenopathy. A blood sample is obtained. Processing of the sample with which of the following methods is most likely to confirm the diagnosis?",
+    "input": "Staining with India ink,Staining with Giemsa dye,Staining of glycogen,Staining with silver",
+    "output": "Staining with Giemsa dye"
+  },
+  {
+    "instruction": "A 7-year-old girl is brought to the emergency department because of diffuse abdominal pain and multiple episodes of vomiting for 2 hours. She started developing fever, headache, and neck pain 3 days ago. On arrival, she is unresponsive. Her temperature is 40.3\u00b0C (104.5\u00b0F) and palpable blood pressure is 45 mm Hg. Physical examination shows diffuse purpuric skin lesions. In spite of all appropriate therapy, she dies shortly thereafter. Autopsy shows massive parenchymal hemorrhage of the adrenal glands. Which of the following was the portal of entry for the most likely causal organism?",
+    "input": "Nasopharynx,Genital mucosa,Choroid plexus,Gastrointestinal tract",
+    "output": "Nasopharynx"
+  },
+  {
+    "instruction": "A 55-year-old woman presents to the emergency department with recent onset confusion and photophobia. Upon questioning her husband, you discover the patient has been sick over the past week with fevers and productive sputum. Her vital signs are Temperature 102.6 Pulse 80 Respirations 18 Blood Pressure 110/70. The physical exam is significant for lethargy and nuchal rigidity. A lumbar puncture is performed and demonstrates cloudy fluid with an opening pressure of 35 cm H20, cell count of 1500 cells/uL (neutrophil predominant), protein level of 50 mg/dL and glucose of 30 mg/dL. Computed tomography scan demonstrates no space-occupying lesions. What is the most appropriate initial treatment for this patient?",
+    "input": "Acyclovir,Ceftriaxone and dexamethasone,Vancomycin, ceftriaxone, ampicillin and dexamethasone,Vancomycin, ceftriaxone and ampicillin",
+    "output": "Vancomycin, ceftriaxone, ampicillin and dexamethasone"
+  },
+  {
+    "instruction": "A group of multidisciplinary researchers from a tertiary hospital decides to investigate whether there is an association between splenectomy and pulmonary tuberculosis. From the hospital database, they identify 19,000 patients over the age of 20 with newly diagnosed pulmonary tuberculosis, as well as 72,000 patients without pulmonary tuberculosis for comparison purposes. Both of these groups are matched for age, gender, and an index year when the condition was initially diagnosed. The odds of pulmonary tuberculosis development associated with splenectomy and other comorbidities is estimated. After controlling for all relevant confounders, the results show that splenectomy is associated with a two-fold higher incidence of pulmonary tuberculosis development. There is also a synergistic effect between splenectomy and other comorbid conditions in the development of pulmonary tuberculosis. What type of study has been used by the researchers in this example?",
+    "input": "Cohort study,Case-control study,Ecological study,Intervention study",
+    "output": "Case-control study"
+  },
+  {
+    "instruction": "A 65-year-old man presents to the emergency department with confusion and chest pain. He states his symptoms started after he landed on a return flight from Brazil. Since then, the patient states that he feels anxious, short of breath, and has pleuritic chest pain. The patient has a past medical history of diabetes and chronic kidney disease. His medications include insulin, lisinopril, aspirin, and atorvastatin. His temperature is 101\u00b0F (38.3\u00b0C), blood pressure is 154/94 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 96% on room air. Physical exam is notable for a confused man. The patient\u2019s laboratory studies are ordered as seen below.\n\nSerum:\nNa+: 140 mEq/L\nCl-: 103 mEq/L\nK+: 5.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 33 mg/dL\nGlucose: 168 mg/dL\nCreatinine: 1.8 mg/dL\nCa2+: 10.0 mg/dL\nTroponin: < 0.05 mcg/L\n\nA chest CT angiogram, an echocardiogram (ECG), and a second troponin are ordered and are all unremarkable. The patient\u2019s chest pain resolves with diazepam. A lumbar puncture is performed and based on the results the patient is subsequently started on acyclovir. Which of the following is the best next step in management?",
+    "input": "Bolus of IV fluids,Calcium gluconate,Hemodialysis,No further interventions needed",
+    "output": "Bolus of IV fluids"
+  },
+  {
+    "instruction": "A 52-year-old woman comes to the physician because of a 4-day history of painful swallowing and retrosternal pain. She was diagnosed with HIV infection 2 months ago; her medications include tenofovir, emtricitabine, and raltegravir. Vital signs are within normal limits. Physical examination of the oral cavity shows no abnormalities. The patient's CD4+ T-lymphocyte count is 70/mm3 (N \u2265 500). Empiric treatment is started. Two weeks later, she reports no improvement in symptoms. Esophagogastroduodenoscopy is performed and shows multiple round superficial ulcers in the distal esophagus. Which of the following is the most likely underlying cause of this patient's symptoms?",
+    "input": "Adverse effect of medication,Degeneration of ganglion cells within the myenteric plexuses,Infection with herpes simplex virus,Infection with Candida species",
+    "output": "Infection with herpes simplex virus"
+  },
+  {
+    "instruction": "A 48-year-old patient comes to the physician because of a 4-day history fever, headaches, loss of appetite, and myalgia. Two weeks ago, the patient went on a camping trip to Wisconsin. His temperature is 39.5\u00b0C (103.1\u00b0F). Physical examination shows no rash or joint swelling. Laboratory studies show:\nHemoglobin 14.1 g/dL\nLeukocyte count 3,800/mm3\nPlatelet count 85,000/mm3\nSerum\nAST 48 U/L\nALT 52 U/L\nTreatment with doxycycline is begun and the patient recovers. A paired acute and convalescent indirect fluorescent antibody test confirms that the patient had anaplasmosis. The patient's condition was most likely transmitted by which of the following vectors?\"",
+    "input": "Lone star tick,Ixodes tick,Dog tick,Flea",
+    "output": "Ixodes tick"
+  },
+  {
+    "instruction": "A 45-year-old woman presents to the office with a chief complaint of a cough that has persisted for a month and a half. She also has night fevers and has lost 5 kg (11 lb) in the last 2 months. She recently returned from a 6-month trip to Peru. Her vitals include: heart rate 82/min, respiratory rate 17/min, temperature 38.0\u00b0C (100.4\u00b0F), and blood pressure 107/80 mm Hg. On auscultation, she has diminished respiratory sounds at the base of the right lung. Chest radiography shows an opacity in the right apex. What is the most likely cause of her presentation?",
+    "input": "Echinococcosis,Tuberculosis,Pulmonary thromboembolism,Heart failure",
+    "output": "Tuberculosis"
+  },
+  {
+    "instruction": "A 26-year-old man is brought to the emergency department because he has had abdominal pain, nausea, and vomiting for the past 2 hours. He ate a sandwich and coleslaw from a deli about 1 hour before the symptoms began. He has no history of serious illness and takes no medications. His temperature is 99.6\u00b0F (37.6\u00b0C), pulse is 80/min, respirations are 18/min, and blood pressure is 122/68 mm Hg. The lungs are clear to auscultation. Cardiac examination shows no abnormalities. Abdominal examination shows diffuse mild tenderness with no rigidity, rebound, or guarding. The remainder of the examination shows no abnormalities. Which of the following is the most likely causal organism?",
+    "input": "Shigella dysenteriae,Staphylococcus aureus,Enterotoxigenic Escherichia coli,Bacillus cereus",
+    "output": "Staphylococcus aureus"
+  },
+  {
+    "instruction": "A 45-year-old man presents to the emergency room with fever and headache. He recently had a middle ear infection. On physical examination, when the head is passively flexed towards the chest, then flexion of the knee is observed. In addition, he reports that his headache increases after rotating his head horizontally. Lumbar puncture and CSF analysis were done. Which of the following laboratory findings would best represent your suspected diagnosis?",
+    "input": "Glucose: \u2191, Proteins: \u2191, Cells: 10% lymphocytes, Lactic Acid (mmol/l): 3.0,Glucose: \u2193, Proteins: normal, Cells: 10% lymphocytes, Lactic Acid (mmol/l): 2.8,Glucose: \u2191, Proteins: \u2193, Cells: 90% neutrophils , Lactic Acid (mmol/l): 4.3,Glucose: \u2193, Proteins: \u2191, Cells: 90% neutrophils, Lactic Acid (mmol/l): 4.5",
+    "output": "Glucose: \u2193, Proteins: \u2191, Cells: 90% neutrophils, Lactic Acid (mmol/l): 4.5"
+  },
+  {
+    "instruction": "A 34-year-old gravida-1 at 8 weeks gestation seeks evaluation for a fever and sore throat for 3 days. She also reports generalized body pain and fatigue over this period. She was diagnosed with Graves\u2019 disease 6 months ago. Before conception, methimazole was switched to propylthiouracil. She appears ill. The vital signs include: axillary temperature 38.0\u2103 (100.4\u2109), pulse 88/min, respiratory rate 12/min, and blood pressure 120/80 mm Hg. A 1 \u00d7 1 cm ulcer is seen on the side of the tongue. The ulcer is tender with surrounding erythema. Examination of the neck, lungs, heart, and abdomen shows no abnormalities. The laboratory studies show the following:\nHemoglobin 13.5 g/dL\nMean corpuscular volume 90 \u03bcm3\nLeukocyte count 2,500/mm3\nSegmented neutrophils 5%\nLymphocytes 88%\nPlatelet count 240,000/mm3\nAlanine aminotransferase 18 U/L\nAspartate transaminase 16 U/L\nWhich of the following is the most appropriate next step in management?",
+    "input": "Acetaminophen for fever control,Discontinuation of propylthiouracil,Oral ampicillin,Rectal temperature measurement",
+    "output": "Discontinuation of propylthiouracil"
+  },
+  {
+    "instruction": "A 29-year-old woman comes to the physician with complaints of fever, headache, and rash, which have gradually worsened over the past 6 days. The patient informs the physician that the rash appeared after 2 days of fever. The rash started at the wrists and ankles and then gradually spread to the trunk, palms, and soles. On examination, the physician notes a maculopapular rash as shown in the image below. Vital signs show a temperature of 39.4\u00b0C (103.0\u00b0F), a blood pressure of 110/70 mm Hg, and a pulse rate of 86/min. Which of the following is the most likely diagnosis?",
+    "input": "Endemic typhus,Lyme disease,Rocky Mountain spotted fever,Q fever",
+    "output": "Rocky Mountain spotted fever"
+  },
+  {
+    "instruction": "A 19-year-old man is admitted to the medical intensive care unit with suspected sepsis. Blood cultures grow Gram-negative cocci containing lipooligosaccharide in their cell wall. Which of the following would you expect to find on a detailed history and physical examination of this patient?",
+    "input": "Petechial rash,Ascending paralysis,History of exposure to rabbit hides,Rice water stools",
+    "output": "Petechial rash"
+  },
+  {
+    "instruction": "A 4-year-old boy presents with 3 days of fever, crampy abdominal pain, vomiting, and loose, bloody bowel movements containing mucus. The patient\u2019s mother says that other children from his daycare class have also developed similar symptoms. The patient\u2019s temperature is 39.0\u00b0C (102.2\u00b0F). On physical examination, the patient is irritable and inconsolable, and his abdomen is distended. Intravenous fluid resuscitation is initiated. Histopathologic analysis of his stool reveals numerous red and white blood cells. Which of the following is characteristic of the most likely microorganism responsible for this patient\u2019s symptoms?",
+    "input": "Inactivation of the 60S ribosome subunit,Permanent activation of Gs alpha subunit,Overactivation of guanylate cyclase,Disabling Gi alpha subunit",
+    "output": "Inactivation of the 60S ribosome subunit"
+  },
+  {
+    "instruction": "A 43-year-old man presents to the clinic for pain with swallowing for a month. He says that the pain has gotten worse over the past few weeks. His past medical history is significant for AIDS. He states that he has not been able to afford his highly active antiretroviral therapy, so he is not currently taking any medications. His temperature is 98.6\u00b0F (37\u00b0C), respirations are 15/min, pulse is 70/min, and blood pressure is 100/84 mm Hg. Physical examination reveals no mucosal lesions. Evaluation of the blood reveals:\nHb%: 11 gm/dL\nTotal count (WBC): 2,400 /mm3\nDifferential count:\nNeutrophils: 70%\nLymphocytes: 25%\nMonocytes: 5%\nCD4+ cell count: 51/mm3\nWhat is the best pharmacotherapy for this patient's current symptom?",
+    "input": "Oral fluconazole,Oral nystatin liquid suspension,Intravenous amphotericin B,Oral acyclovir",
+    "output": "Oral fluconazole"
+  },
+  {
+    "instruction": "A 43-year-old man is brought to the emergency department because of a fever, cough, pleuritic chest pain, and dyspnea. Two days ago, he returned from a construction site along the Mississippi River. Abdominal examination shows a palpable spleen. An x-ray of the chest shows diffuse reticulonodular infiltrates. Therapy with a drug that binds ergosterol is initiated. This patient is most likely to experience which of the following adverse effects?",
+    "input": "Hypomagnesemia,Histamine release,Leukopenia,Cytochrome P450 induction",
+    "output": "Hypomagnesemia"
+  },
+  {
+    "instruction": "A 51-year-old woman comes to the physician because of a 3-week history of fatigue, non-productive cough, and worsening shortness of breath while walking. She was diagnosed with HIV 11 years ago. Two years ago, she was treated for esophageal thrush with fluconazole. She takes no medications because she does not feel like she needs them. She occasionally uses intravenous illicit drugs and has smoked a pack of cigarettes daily for 35 years. She appears ill. Her temperature is 38.4\u00b0C (101.1\u00b0F), respiratory rate is 25/min, pulse is 116/min, and blood pressure is 115/70 mm Hg. Pulse oximetry shows an oxygen saturation of 89% on room air. Inspiratory crackles are heard over bilateral lung fields. Cardiac examination shows no abnormalities. Laboratory studies show a CD4 count of 67/mm3 (N \u2265 500/mm3) and an elevated HIV viral load. An x-ray of the chest shows diffuse interstitial infiltrates bilaterally. In addition to starting antiretroviral therapy, the appropriate treatment for her current illness is initiated. Maintaining the patient on this medication to prevent recurrence of her current illness will also prevent infection with which of the following pathogens?",
+    "input": "Varicella zoster virus,Toxoplasmosa gondii,Cryptococcus neoformans,Candida albicans",
+    "output": "Toxoplasmosa gondii"
+  },
+  {
+    "instruction": "A 21-year-old woman comes to the physician because of a 5-day history of pain with urination and vaginal itching. She is sexually active with multiple partners and uses condoms inconsistently. Pelvic examination shows erythema of the vulva and vaginal mucosa, punctate hemorrhages on the cervix, and green-yellow, malodorous discharge. A photomicrograph of the discharge is shown. Which of the following is the most likely causal organism?",
+    "input": "Neisseria gonorrhoeae,Treponema pallidum,Candida albicans,Trichomonas vaginalis",
+    "output": "Trichomonas vaginalis"
+  },
+  {
+    "instruction": "A 52-year-old man with limited, unresectable small cell lung cancer comes to the emergency department because of fever for the past 2 days. He has been on numerous chemotherapy regimens. His last round of treatment was with cisplatin and etoposide and ended 10 days ago. He feels fatigued but has not had nausea or vomiting. His temperature is 38.5\u00b0C (101.3\u00b0F), blood pressure is 100/60 mm Hg, and pulse is 115/min. The lungs are clear to auscultation. Examination shows a soft, nontender abdomen. Laboratory studies show:\nHemoglobin 10.2 g/dL\nLeukocyte count 4,000/mm3\nTotal neutrophils 8%\nEosinophils 2%\nLymphocytes 80%\nMonocytes 10%\nUrinalysis shows no abnormalities. Blood culture samples are obtained. Which of the following is the most appropriate next step in management?\"",
+    "input": "Cefepime,Piperacillin,Clindamycin,High-resolution chest CT",
+    "output": "Cefepime"
+  },
+  {
+    "instruction": "A 62-year-old man with end-stage renal disease is brought to the emergency department because of fever, severe abdominal pain, and shaking chills for 4 hours. His last hemodialysis was 2 days ago. On arrival, he appears ill and is poorly responsive. Blood cultures grow gram-positive, catalase-positive cocci that express mecA. Intravenous antibiotic therapy is begun with an agent that disrupts cell membranes by creating transmembrane channels. Which of the following adverse events is associated with the use of this agent?",
+    "input": "Photosensitivity,Rhabdomyolysis,Ototoxicity,QT prolongation",
+    "output": "Rhabdomyolysis"
+  },
+  {
+    "instruction": "A 34-year-old man comes to the physician for a follow-up appointment. He was diagnosed with HIV 6 years ago and has been on highly active antiretroviral therapy with emtricitabine, tenofovir, and darunavir. He reports that he has been compliant with his medication regimen. His last CD4+ T-lymphocyte count was 520/mm3 (N > 500) and HIV viral load was undetectable. Today, his CD4+ T-lymphocyte count is 410/mm3 and his HIV viral load is 240 copies/mL. Further evaluation shows resistance to emtricitabine and tenofovir. Mutations in which of the following genes are most likely responsible for these findings?",
+    "input": "tat,pol,rev,env",
+    "output": "pol"
+  },
+  {
+    "instruction": "Four days after admission to the hospital for community-acquired pneumonia, a 68-year-old woman has abdominal pain and multiple episodes of loose stools. They are watery, foul-smelling, and occasionally streaked with blood. She has approximately 6 episodes daily. She feels tired. She is currently being treated with intravenous ceftriaxone and oral azithromycin. She underwent a laparoscopic cholecystectomy 5 years ago. She returned from a trip to Bolivia 4 weeks ago. Her temperature is 37.5\u00b0C (99.5\u00b0F), pulse is 98/min, and blood pressure is 138/80 mm Hg. Bronchial breath sounds are heard over her right lung. Abdominal examination shows mild diffuse tenderness throughout the lower quadrants. The abdomen is not distended. The remainder of her examination shows no abnormalities. Her hemoglobin concentration is 12 g/dL, leukocyte count is 14,100/mm3, and erythrocyte sedimentation rate is 37 mm/h. Which of the following is the most appropriate next step in management?",
+    "input": "Stool for ova and parasites,Fecal lactoferrin,Enzyme immunoassay for glutamate dehydrogenase antigen,Stool acidity test",
+    "output": "Enzyme immunoassay for glutamate dehydrogenase antigen"
+  },
+  {
+    "instruction": "A 55-year-old male presents to the emergency department after he was seen having a seizure. On presentation he is comatose and very jaundiced despite having no previous medical history and dies shortly thereafter. Over the next several hours 5 more patients present to the ER with severe diarrhea, abdominal pain, and bleeding abnormalities. They all recently returned from a several day camping trip where they slept in the woods and cooked with ingredients they were able to find in the wild. The original patient was also part of this camping trip. Postmortem analysis reveals massive hepatic necrosis. Which of the following activities was most likely inhibited by the cause of this patient's presentation?",
+    "input": "Transcription of mRNA,Transcription of rRNA,Transcription of tRNA,Translation of mRNA",
+    "output": "Transcription of mRNA"
+  },
+  {
+    "instruction": "A 31-year-old woman visits her local walk-in clinic for 2 days of dysuria, increased voiding frequency, urgency, and intense suprapubic pain. She just came back a day ago from a short honeymoon trip to Prague. On physical examination, the patient is found with exquisite suprapubic pain. Costovertebral tenderness is absent and pelvic examination is normal. Her vital signs are: temperature 36.5\u00b0C (97.7\u00b0F), heart rate 78/min, respiratory rate 15/min. Which of the following organisms would be most likely isolated in this patient?",
+    "input": "Streptococcus agalactiae,Enterococcus faecalis,Klebsiella pneumoniae,Staphylococcus saprophyticus",
+    "output": "Staphylococcus saprophyticus"
+  },
+  {
+    "instruction": "A 41-year-old man comes to the physician because of a 10-day history of generalized weakness. He has also had headaches and night sweats and is a known user of illicit intravenous drugs. His temperature is 39.1\u00b0C (102.4\u00b0F), pulse is 110/min, respirations are 17/min, and blood pressure is 127/78 mm Hg. There are several track marks on his forearms. A holosystolic murmur that increases on inspiration is heard along the left sternal border. Laboratory studies show a leukocyte count of 13,900/mm3 and an erythrocyte sedimentation rate of 58 mm/h. Which of the following is the most likely consequence of this patient's condition?",
+    "input": "Hematuria,Rupture of nail-bed capillaries,Pulmonary embolism,Painful nodules on pads of the fingers",
+    "output": "Pulmonary embolism"
+  },
+  {
+    "instruction": "A 31-year-old man presents to the clinic with complaints of sudden onset of fever, headache, chills, and a painful \u201cbump\u201d in his right groin. He recently spent three months working as a park ranger in New Mexico. His physical exam is notable for an enlarged lymph node in the inguinal region that is extremely tender to palpation. The patient is promptly treated with antibiotics, and his case is reported to the Centers for Disease Control and Prevention. Which of the following was the most likely vector that transmitted the disease to this for patient?",
+    "input": "Armadillo,Flea,Rat,Tick",
+    "output": "Flea"
+  },
+  {
+    "instruction": "A previously healthy 29-year-old woman comes to the physician because of a 3-day history of low-grade fever, muscle aches, and a rash. She has had 4 male sexual partners over the past year and uses condoms inconsistently. Examination shows a diffuse maculopapular rash that includes the palms and soles. Testing for nonspecific anticardiolipin antibodies is positive. Which of the following is the most appropriate next step in management?",
+    "input": "Assess for double-stranded DNA antibodies,Administer penicillin G,Analyze rash with darkfield microscopy,Test for fluorescent treponemal antibody absorption",
+    "output": "Test for fluorescent treponemal antibody absorption"
+  },
+  {
+    "instruction": "A 32-year-old man comes to the physician because of a 1-week history of fever, nausea, headache, and confusion. Three weeks ago, he had an episode of a sore throat, diarrhea, and generalized lymphadenopathy. He is sexually active with a new partner that he met 2 months ago and they use condoms inconsistently. He appears ill. Physical examination shows nuchal rigidity. Further evaluation shows infection with a single-stranded, positive-sense RNA virus. The cells most likely affected in this patient\u2019s current condition are analogous to which of the following cell types?",
+    "input": "Osteoblasts,Mast cells,Schwann cells,Langerhans cells",
+    "output": "Langerhans cells"
+  },
+  {
+    "instruction": "A 7-year-old boy is brought to the physician by his mother because of low-grade fevers and a cough lasting for 2 weeks. He has vomited several times after fits of coughing. He has no history of serious illness and has not received any routine childhood vaccinations. His temperature is 38.3\u00b0C (101\u00b0F). Physical examination shows erythema of the nasal and oral mucosa. While in the exam room, he has a long series of consecutive coughs, during which he appears diaphoretic. The coughing is followed by a loud inspiratory gasp. Laboratory studies show a leukocyte count of 16,300/mm3 (67% lymphocytes). The pathogen most likely responsible for this patient's presentation contains a toxin that acts by which of the following mechanisms?",
+    "input": "Increases intracellular cAMP,Increases intracellular cGMP,Inactivates host elongation factor,Inactivates host 60S ribosome",
+    "output": "Increases intracellular cAMP"
+  },
+  {
+    "instruction": "A 21-year-old college student is rushed to the ER because of a high-grade fever that started this morning. She vomited several times last night. She is complaining of a severe, unremitting headache. Her temperature is 38.9\u00b0C (102.0\u00b0F), respiratory rate is 20/min, pulse is 112/min, and blood pressure is 105/78 mm Hg. She is highly sensitive to light. Her neck feels stiff on passive flexion, with positive Kernig\u2019s and Brudzinski\u2019s signs. There is a non-blanching maculopapular rash all over the body. Cerebrospinal fluid (CSF) samples are sent to the lab for analysis and she is started on intravenous fluids and antibiotics. The CSF analysis will most likely reveal which of the following?",
+    "input": "Eosinophils,Decreased protein concentration,Lymphocytosis,Polymorphonuclear leukocytosis",
+    "output": "Polymorphonuclear leukocytosis"
+  },
+  {
+    "instruction": "A 34-year-old man presents with severe left inguinal pain and swelling since last night. He has just returned from a summer trip to the southwestern United States where he spent most of his time working with homeless and unemployed people in an area that straddles New Mexico and Utah. Upon further inquiry, he denies any contact with wild or domestic animals including pets, but he does remember occasionally seeing mice in his motel room and found their droppings on the floor. On physical exam his temperature is 38.5\u00b0C (101.3\u00b0F), pulse is 95/min, respiration rate is 18/min, and blood pressure is 130/85 mm Hg. The left inguinal area is swollen. There is no skin erythema and it is not warm to palpation. There are several enlarged and soft lymph nodes with a hard underlying core. The area is very tender and surrounded by edema. A localized rash is found in the ipsilateral inner thigh above the knee (see image). Examination of the heart, lungs, abdomen, and other limbs shows no abnormalities. Which of the following pathogens is the most likely cause of this patient\u2019s condition?",
+    "input": "Hantavirus,Rhabdovirus,Borrelia burgdorferi,Yersinia pestis",
+    "output": "Yersinia pestis"
+  },
+  {
+    "instruction": "A 66-year-old woman comes to the emergency department because of fever and difficulty swallowing for 5 hours. She appears anxious. Her temperature is 39.1\u00b0C (102.4\u00b0F). Physical examination shows an extended neck and excessive drooling. Her voice is muffled and there is inspiratory stridor. There is tender bilateral cervical lymphadenopathy and pain upon palpation of the hyoid. Laboratory studies show a leukocyte count of 18,800/mm3 with 85% neutrophils. Which of the following is the most likely causal organism?",
+    "input": "Haemophilus influenzae type b,Streptococcus pyogenes,Corynebacterium diphtheriae,Parainfluenza virus\n\"",
+    "output": "Haemophilus influenzae type b"
+  },
+  {
+    "instruction": "A 5-year-old boy is brought to the physician by his mother because of a 3-day history of low-grade fever and sore throat. This morning, she noticed a rash on his buttocks, hands, and feet. He does not have pruritus. His temperature is 38.3\u00b0C (100.9\u00b0F), pulse is 99/min, and blood pressure is 123/78 mm Hg. Physical examination shows oral vesicles. A photograph of the rash on the feet is shown. Which of the following is the most likely pathogen?",
+    "input": "Herpes simplex virus 1,Coxsackie A virus,Parvovirus B19,Epstein-Barr virus",
+    "output": "Coxsackie A virus"
+  },
+  {
+    "instruction": "A 53-year-old woman comes to see her primary care physician because she has had fever and malaise for two days. She was in her usual state of health until three days ago when she began to feel tired in the evening and decided to go to bed early. The next day she developed a fever, productive cough, chills, and malaise. She is otherwise healthy with no chronic conditions and lives by herself with two cats. She smokes one pack of cigarettes per day and drinks alcohol socially. On physical exam, she is found to have increased dullness to percussion at the lung bases and blood work is obtained showing elevated levels of C-reactive protein and hepcidin. The signal responsible for the elevated levels of these proteins was most likely secreted by which of the following cells?",
+    "input": "Macrophages,Neutrophils,Regulatory T-cells,Type 2 helper T-cells",
+    "output": "Macrophages"
+  },
+  {
+    "instruction": "Three weeks after undergoing transurethral prostate resection for benign prostatic hyperplasia, a 70-year-old man has fever, malaise, and pain in his extremities. Physical examination shows subungal petechiae and tender red papules on his fingers and toes. A new holosystolic murmur is heard on chest auscultation. A photomicrograph of a Gram stain of an isolate from blood culture is shown. The organism does not cause hemolysis on blood agar. Addition of pyrrolidonyl-\u03b2-naphthylamide gives the bacterial colonies a cherry red color. Which of the following is the most likely causal organism?",
+    "input": "Enterococcus faecalis,Streptococcus gallolyticus,Cardiobacterium hominis,Staphylococcus epidermidis",
+    "output": "Enterococcus faecalis"
+  },
+  {
+    "instruction": "A 45-year-old man with HIV comes to the physician because of multiple lesions on his lower extremity. The lesions are increasing in size and are not painful or pruritic. He does not have lymphadenopathy. He works at a garden center. He lives in Mississippi. Medications include abacavir, dolutegravir, and lamivudine. His temperature is 37.7\u00b0C (98.8\u00b0F), pulse is 75/min, and blood pressure is 125/80 mm Hg. Examination shows multiple lesions on both heels; some are elevated. There are two similar lesions on the chest. An image of the patient's right heel is shown. His CD4+ T-lymphocyte count is 450/mm3 (normal \u2265 500/mm3). A skin biopsy shows multiple spindle-shaped cells and leukocyte infiltration. Which of the following is the most likely causal organism?",
+    "input": "Mycobacterium avium complex,Human herpesvirus 8,Coccidioides immitis,Epstein-Barr virus",
+    "output": "Human herpesvirus 8"
+  },
+  {
+    "instruction": "A 35-year-old woodsman from local forestry presents to a clinic for counseling regarding his contact with a wild fox that occurred 5 days ago. He says that the fox was not aggressive, allowed him to caress it, and even licked his forearm where he had an open wound. Two days ago, in the same forest, foresters shot a group of foxes who had attacked them, and the fox corpses were handed over to a local veterinary laboratory for testing. Two locals also reported they were attacked by foxes, so the patient became concerned about his exposure. At the time of presentation, the patient had no complaints. His vital signs are as follows: the blood pressure is 125/80 mmHg, the heart rate is 81/min, the respiratory rate is 14/min, and the temperature is 36.8\u00b0C (98.2\u00b0F). Physical examination reveals 2 healing lacerations, 2 \u00d7 3 cm, with a depth of 1 mm each, and multiple scratches on the flexor surface of his right arm. The patient is unaware of his immunization status. Which of the following statements is correct?",
+    "input": "The patient does not need immunoglobulin to be administered since he was not bitten by the animal.,Before initiating post-exposure prophylaxis, results of laboratory testing of the fox's corpses should be obtained.,There is no need to treat the patient\u2019s wounds before administering post-exposure prophylaxis because the wounds are already healing; thus, they do not pose a threat to the patient\u2019s health.,If rabies immunoglobulin is not available immediately, it can be administered within 7 days of the first vaccine dose.",
+    "output": "If rabies immunoglobulin is not available immediately, it can be administered within 7 days of the first vaccine dose."
+  },
+  {
+    "instruction": "A 4-year-old is brought into the emeregency room by his mother. The mother states that the child had a slight cough one week ago that has since worsened. The mother states the child's cough sounds like someone barking and states that he has also had mild fevers along with rhinorrhea. The patient's vitals are significant for a fever of 100.8 F, and his physical exam reveals inspiratory stridor. What is the most likely organism responsible?",
+    "input": "Parainfluenza virus,Respiratory syncytial virus,Adenovirus,Ebstein barr virus",
+    "output": "Parainfluenza virus"
+  },
+  {
+    "instruction": "An 84-year-old woman with an indwelling urinary catheter and a history of recurrent nephrolithiasis is brought to the emergency department from her nursing home because of increasing confusion over the past day. On arrival, she is oriented only to person. Her temperature is 38.3\u00b0C (100.9\u00b0F). Examination shows dry mucous membranes. Urine studies show:\npH 8.3\nWBC 40/hpf\nBacteria moderate\nNitrites positive\nThe urine has an ammonia odor. Which of the following is most likely to be present on this patient's urine culture?\"",
+    "input": "Gram-negative, oxidase-positive rods,Gram-positive, novobiocin-resistant cocci,Gram-positive, gamma-hemolytic cocci,Gram-negative, oxidase-negative rods",
+    "output": "Gram-negative, oxidase-negative rods"
+  },
+  {
+    "instruction": "A 3-year-old male is brought to the emergency room by his mother for a rash and fever. The mother reports that the child first developed a cough and malaise three days ago. Over the last 24 hours, a rash developed and the patient had a temperature up to 101.4\u00b0F (38.6\u00b0C) the night prior to presentation. The child\u2019s medical history is notable for a prior hospitalization at the age of 2 for fever, vomiting, and lethargy. During that hospitalization, a cerebrospinal fluid sample demonstrated gram-negative diplococci. His current temperature is 100.9\u00b0F (38.3\u00b0C), blood pressure is 130/85 mmHg, pulse is 115/min, and respirations are 22/min. Physical examination reveals a lethargic male child with a diffuse petechial skin rash that is most prominent on the trunk and legs. This patient most likely has a deficiency in which of the following factors?",
+    "input": "C1q,C3,C4,C5",
+    "output": "C5"
+  },
+  {
+    "instruction": "A 55-year-old man is brought to the emergency department because of cough and poor appetite for the past week. Since it began, he has been coughing up small amounts of malodorous phlegm. During the past two nights, he has also had night sweats. He was diagnosed with HIV infection 5 years ago. He has hypertension, type 2 diabetes mellitus, and severe heartburn. The patient is homeless and does not take any medication. He has smoked a pack of cigarettes daily for 30 years. He drinks 8\u201310 beers daily. His temperature is 38.9\u00b0C (102.0\u00b0F), pulse is 101/min, respirations are 25/min and blood pressure is 145/92 mm Hg. The patient appears intoxicated. Physical examination shows crackles and dullness to percussion at the right lung base. Scattered expiratory wheezing is heard throughout both lung fields. A grade 2/6 mid-systolic ejection murmur is heard along the upper right sternal border. His CD4+T-lymphocyte count is 280/mm3 (Normal \u2265 500). An x-ray of the chest shows a hazy infiltrate in the right lower lung field. Which of the following is the most likely cause of this patient's symptoms?",
+    "input": "Pneumocystis pneumonia,Aspiration pneumonia,Mitral valve regurgitation,Pharyngoesophageal diverticulum\n\"",
+    "output": "Aspiration pneumonia"
+  },
+  {
+    "instruction": "A confused and disoriented 32-year-old man is brought to the emergency department by his wife. He was in his usual state of health until yesterday, when he started complaining of fever and headache. This morning he was complaining of worsened headache and was acting odd, prompting his wife to bring him to the hospital. His past medical history is unremarkable. At the hospital, his temperature is 39.2\u00b0C (102.5\u00b0F), pulse is 116/min, and blood pressure is 96/64 mm Hg. Physical examination is notable for neck stiffness and a large scar across his abdomen that his wife says is from a splenectomy operation following a car accident a few years ago. He has not seen a doctor since that time. A lumbar puncture shows elevated protein, low glucose, and 1,200 WBCs with 95% polymorphonuclear cells; gram staining shows gram-positive diplococci. Which of the following is the most likely risk factor contributing to this patient's underlying diagnosis?",
+    "input": "Congenital humoral immunodeficiency,Dysfunction of a single organ,Dysfunction of multiple organs,Undiagnosed viral infection",
+    "output": "Dysfunction of a single organ"
+  },
+  {
+    "instruction": "A 54-year-old man presents with fever and a painful jaw mass with a yellowish discharge. He says that he first noticed the jaw mass 6 weeks ago and that the mass has been progressively increasing in size. He reports a history of chronic alcoholism and currently takes more than 6 drinks daily. His temperature is 37.9\u00b0C (100.2\u00b0F). On physical examination, there is a 7 \u00d7 7 cm mass at the tip of the jaw bone with significant surrounding edema and sclerosis The mass is severely tender on light palpation and has a yellowish malodorous discharge. The oral cavity shows signs of very poor dentition. Laboratory analysis of the discharge reveals gram-positive anaerobic filamentous bacteria. Which of the following organisms is the most likely cause of this patient\u2019s condition?",
+    "input": "Peptostreptococcus magnus,Actinomyces israelii,Nocardia asteroides,Eikenella corrodens",
+    "output": "Actinomyces israelii"
+  },
+  {
+    "instruction": "A 26-year-old man comes to the physician because of high-grade fever, fatigue, nausea, and headache for 4 days. The headache is constant and feels like a tight band around his head. He also reports that his eyes hurt while looking at bright lights. He has been taking acetaminophen and using cold towels to help relieve his symptoms. He works as an assistant for a nature camp organization but has been unable to go to work for 3 days. His immunization records are unavailable. His temperature is 38.5\u00b0C (101.3\u00b0F), pulse is 92/min, and blood pressure is 108/74 mm Hg. He is oriented to time, place, and person. There is no rash or lymphadenopathy. Flexion of the neck results in flexion of the knee and hip. A lumbar puncture is done; cerebrospinal fluid analysis shows an opening pressure of 80 mm H2O, leukocyte count of 93/mm3 (78% lymphocytes), a glucose concentration of 64 mg/dL, and a protein concentration of 50 mg/dL. Which of the following is the most likely causal organism?",
+    "input": "Borrelia burgdorferi,Mycobacterium tuberculosis,Herpes simplex virus 1,Coxsackievirus",
+    "output": "Coxsackievirus"
+  },
+  {
+    "instruction": "A 20-year-old woman comes to the physician because of a 2-day history of low-grade fever and painful lesions on her left index finger. Two weeks ago, she had a painful rash on the right labia majora that resolved without treatment. Physical examination shows tender lymphadenopathy of the left epitrochlear and right inguinal region. A photograph of the left index finger is shown. Which of the following best describes the properties of the most likely virus involved?",
+    "input": "Naked virus with a double-stranded, circular DNA structure,Naked virus with a single-stranded, positive sense, linear RNA structure,Enveloped virus with a double-stranded, linear DNA structure,Enveloped virus with a partially double-stranded, circular DNA structure",
+    "output": "Enveloped virus with a double-stranded, linear DNA structure"
+  },
+  {
+    "instruction": "A 42-year-old man is brought to the emergency department by his wife with chills and a temperature of 38.5\u00b0C (101.3\u00b0F) for the past 2 days. The patient\u2019s wife mentions that he recently injured his leg 5 days ago, after which she noticed that his calf was swollen, red, and painful. She says there was no pus, but that her husband was in excruciating pain. His vital signs include: temperature 38.9\u00b0C (102.1\u00b0F), blood pressure 110/75 mm Hg, and  respiratory rate 18/min. On physical examination, there is a tender mass over the left calf which is red and inflamed. Blood and wound cultures are taken. The patient is started on empiric antibiotics with vancomycin, but shows no improvement. Culture results reveal that the causative organism is resistant to the current antibiotic as well as penicillin. Which of the following antibiotic therapies would be most suitable for this patient?",
+    "input": "IV nafcillin,Dicloxacillin,IV daptomycin,Doxycycline",
+    "output": "IV daptomycin"
+  }
+]

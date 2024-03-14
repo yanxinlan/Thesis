@@ -1,0 +1,357 @@
+[
+  {
+    "instruction": "A 15-year-old girl is brought to the clinic by her mother because she is worried the patient has not yet had her period. The patient\u2019s older sister had her first period at age 14. The mother had her first period at age 13. The patient reports she is doing well in school and is on the varsity basketball team. Her medical history is significant for asthma and atopic dermatitis. Her medications include albuterol and topical triamcinolone. The patient\u2019s temperature is 98\u00b0F (36.7\u00b0C), blood pressure is 111/72 mmHg, pulse is 65/min, and respirations are 14/min with an oxygen saturation of 99% on room air. Her body mass index (BMI) is 19 kg/m^2. Physical exam shows absent breast development and external genitalia at Tanner stage 1. Serum follicle stimulating hormone (FSH) level is measured to be 38 mIU/mL. Which of the following is the next best diagnostic step?",
+    "input": "CYP17 gene work-up,Estrogen levels,Gonadotrophin-releasing hormone stimulation test,Karotype",
+    "output": "Karotype"
+  },
+  {
+    "instruction": "A 27-year-old G1P0 woman at 9 weeks estimated gestational age presents for a prenatal visit. She has no current complaints and takes no medications. She is vegetarian and emigrated from Nepal 7 years ago. She does not use tobacco, alcohol or recreational drugs. The patient\u2019s vital signs include: blood pressure 111/95 mm Hg, temperature 36.7\u00b0C (98.6\u00b0F), pulse 88/min. Laboratory results are significant for the following:\nHemoglobin 10.2 g/dL\nErythrocyte count 5.5 million/mm3\nMean corpuscular volume 65 \u03bcm3\nMean corpuscular hemoglobin 21 pg/cell\nRed cell distribution width 13.5% (ref: 11.5\u201314.5%)\nSerum ferritin 170 ng/mL\nWhich of the following is the most likely cause of this patient's anemia?",
+    "input": "Vitamin B12 deficiency,Zinc deficiency,Gestational anemia,Thalassemia trait",
+    "output": "Thalassemia trait"
+  },
+  {
+    "instruction": "A 24-year-old primigravid woman at 8 weeks' gestation is brought to the emergency department because of a 5-day history of nausea and vomiting. She has not been able to tolerate much food or drink. Her symptoms are worse in the morning. She has tried multiple oral antiemetics with limited relief. She has not had fevers, chills, abdominal pain, urinary symptoms, or diarrhea. She appears tired. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 105/min, and blood pressure is 108/60 mm Hg. Examination shows dry mucous membranes and cool extremities, with delayed capillary refill time. Arterial blood gas analysis on room air shows:\npH 7.56\nPCO2 40 mm Hg\nPO2 94 mm Hg\nHCO3- 30 mEq/L\nMeasurement of which of the following is the most appropriate next step in diagnosis?\"",
+    "input": "Serum osmolal gap,Serum anion gap,Urine albumin to urine creatinine ratio,Urine chloride concentration",
+    "output": "Urine chloride concentration"
+  },
+  {
+    "instruction": "A 34-year-old pregnant woman, gravida 2, para 0, at 28 weeks of gestation presents to the physician for a prenatal visit. She has not had regular prenatal care. Her most recent abdominal ultrasound was at 20 weeks of gestation, and it confirmed accurate fetal dates and appropriate fetal development. She takes levothyroxine for hypothyroidism. She used to work as a nurse before she emigrated from Brazil 13 years ago. She lost her immunization records during the move and cannot recall all of her vaccinations. She appears well. Her vital signs are within normal limits. The physical examination reveals a fundal height of 26 cm. No abnormalities are found during the physical exam. An ELISA test conducted for HIV is negative. Serology test results for hepatitis B surface antibody and hepatitis C antibody are positive for both. The laboratory test results for hepatitis B core antibody, hepatitis B surface antigen, and hepatitis A antibody are negative. The polymerase chain reaction analysis of hepatitis C RNA is positive for genotype 1. Which of the following is the most appropriate recommendation at this time?",
+    "input": "Hepatitis A vaccination,Plan to formula feed the newborn,Start combination therapy with interferon \u03b1 and ribavirin,Undergo liver biopsy",
+    "output": "Hepatitis A vaccination"
+  },
+  {
+    "instruction": "A 23-year-old female comes to the office because of a 3-week history of vaginal discharge and itching despite cleaning her genitals with a vaginal douche. Her last menstrual period was one week ago. She is sexually active with her new boyfriend. She has an intrauterine device and does not use barrier protection. She was treated for a sore throat infection one month ago. Speculum examination shows erythema around the vaginal introitus and copious white discharge. Vaginal pH is 4.3 and a KOH test shows multiple pseudohyphae on microscopy. Which of the following is the strongest predisposing factor for this patient's condition?",
+    "input": "Suppression of vaginal bacterial flora,Increased vaginal pH,Intrauterine device,Unprotected sexual intercourse",
+    "output": "Suppression of vaginal bacterial flora"
+  },
+  {
+    "instruction": "A 24-year-old woman with no past medical history presents to her PCP for a routine checkup. She feels generally healthy but has noticed a new vaginal discharge that has a strange odor. The patient has been in a long-term relationship and denies any new sexual partners. She denies vaginal itching, abnormal menstruation, or dyspareunia. Vital signs are within normal limits. The physical exam reveals thin, greyish-white vaginal discharge but is otherwise unremarkable. A sample of this discharge is collected. What would be the most likely finding on wet mount?",
+    "input": "Motile, flagellated protozoans,Long, branching filamentous structures,Epithelial cells with stippling,Large mucoid capsules",
+    "output": "Epithelial cells with stippling"
+  },
+  {
+    "instruction": "A 33-year-old G1P0 at 39 weeks gestation is admitted to the labor and delivery floor for induction of labor. She feels well and is no acute distress. She is accompanied by her husband. Her past medical history is notable for major depressive disorder and generalized anxiety disorder. She takes sertraline. Her temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 120/75 mmHg, pulse is 95/min, and respirations are 18/min. To initiate labor induction, the obstetrician injects the patient with a hormone that is endogenously made in the hypothalamus and released by the posterior pituitary. This medication is associated with an increased risk of which of the following complications?",
+    "input": "Placental abruption,Vasa previa,Placenta accreta,Preeclampsia",
+    "output": "Placental abruption"
+  },
+  {
+    "instruction": "A 29-year-old G3P2 undergoes a cesarean section at 38 weeks gestation and delivers a boy weighing 4570 g with Apgar scores of 5 and 8 at 1 and 5 minutes, respectively. The current pregnancy was complicated by gestational diabetes with poor glycemic control. The newborn\u2019s heart rate is 122/min, the respiratory rate is 31/min, and the temperature 36.4\u2103 (97.5\u2109). On examination, the newborn is pale, lethargic, diaphoretic, and has poor muscular tone. The liver is 2 cm below the right costal margin. Which of the following is the most probable cause of the newborn\u2019s condition?",
+    "input": "Microangiopathy,Hyperinsulinemia,Hyperglycemia,Polycythemia",
+    "output": "Hyperinsulinemia"
+  },
+  {
+    "instruction": "A 39-year-old woman, gravida 3, para 2, at 39 weeks' gestation is admitted to the hospital with leakage of fluid and contractions. She noticed the fluid leak about an hour ago and has no associated bleeding. Contractions have been about 20 minutes apart. On admission, she is dilated 2 cm, 50% effaced, and at -2 station. Spontaneous rupture of membranes is confirmed and she is monitored by external tocodynamometer. Repeat evaluation after 2 hours shows dilation of 6 cm , 70% effacement, and -1 station. Four hours later, her pelvic exam shows no changes and she has 4 strong contractions every 10 minutes. The fetal heart rate is 120/min, with moderate accelerations and no late or variable decelerations. Which of the following is the most appropriate next step in management?",
+    "input": "Cesarean delivery,Assisted vaginal delivery,Amnioinfusion,Intrauterine pressure catheter\n\"",
+    "output": "Cesarean delivery"
+  },
+  {
+    "instruction": "A 37-year-old G2P1001 presents to her obstetrician\u2019s office at 31 weeks gestation for decreased fetal movement over the last day. She states that although she occasionally feels some movement, it is decreased from baseline. She denies any gush of fluid, vaginal bleeding, or painful contractions. This pregnancy has been complicated by gestational diabetes for which the patient was prescribed insulin. She reports not always taking postprandial fingersticks; therefore, she infrequently uses her insulin. She also had a urinary tract infection in the first trimester that was successfully treated with nitrofurantoin. The patient has a past medical history of obesity and rosacea, and she had an uncomplicated spontaneous vaginal delivery six years ago. At this visit, the patient\u2019s temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 148/71 mmHg, pulse is 75/min, and respirations are 14/min. The patient appears comfortable and has a fundal height of 33 centimeters. An initial attempt with Doppler ultrasound is unable to detect fetal heart tones. Which of the following is the best next step in management?",
+    "input": "Non-stress test,Biophysical profile,Contraction stress test,Cervical exam",
+    "output": "Non-stress test"
+  },
+  {
+    "instruction": "A 4800 g (10.6 lb) male newborn is delivered at term to a 35-year-old woman, gravida 1, para 1. Significant lateral neck traction is required during delivery. Apgar scores are 9 and 9 at 1 and 5 minutes, respectively. Vital signs are within normal limits. At rest, his right shoulder is adducted and internally rotated. The baby cries with passive movement of the arm. Laboratory studies show:\nHematocrit 66%\nLeukocyte count 9000/mm3\nSerum\nNa+ 142 mEq/L\nCl- 103 mEq/L\nK+ 5.1 mEq/L\nHCO3- 20 mEq/L\nUrea nitrogen 8 mg/dL\nGlucose 34 mg/dL\nCreatinine 0.6 mg/dL\nWhich of the following is most likely to have prevented this infant's condition?\"",
+    "input": "Avoidance of soft cheeses,Administration of insulin,Abstinence from cocaine,Avoidance of cat feces",
+    "output": "Administration of insulin"
+  },
+  {
+    "instruction": "A 30-year-old woman comes to the physician for evaluation of successful conception. She and her husband are trying to conceive, and they have had frequent sexual intercourse over the past month. Her menstrual cycles occur at regular 28-day intervals, and her last menstrual period began 25 days ago. Which of the following is the most sensitive test for diagnosing pregnancy at this time?",
+    "input": "Serum testing,Transvaginal ultrasound,Transabdominal Doppler ultrasound,Urine testing",
+    "output": "Serum testing"
+  },
+  {
+    "instruction": "A 37-year-old 11-week primigravida will soon undergo a prenatal evaluation. The doctor wants to exclude chromosomal abnormalities with a test. He tells her that the test includes extracting a blood sample to determine the chances of having certain genetic conditions. This process involves analyzing fetal DNA in the mother\u2019s blood. What conditions can the given test predict?",
+    "input": "Trisomy 21, Ebstein anomaly,Trisomy 21, trisomy 13, trisomy 18, fetal sex,Trisomy 21, trisomy 13, spina bifida,Trisomy 21, spina bifida",
+    "output": "Trisomy 21, trisomy 13, trisomy 18, fetal sex"
+  },
+  {
+    "instruction": "A 35-year-old woman, gravida 3, para 2, at 37 weeks' gestation comes to the physician for a prenatal visit. She feels well. She states that she did not follow up with her gynecologist on a regular basis due to a busy work schedule. Pregnancy and delivery of her first two children were uncomplicated. Her blood pressure was 127/75 mm Hg at her initial obstetrics appointment. Her temperature is 37.2\u00b0C (99\u00b0F), pulse is 90/min, and blood pressure is 145/95 mm Hg. Pelvic examination shows a uterus consistent in size with a 37-week gestation. Physical examination shows 2+ edema in the lower extremities. Urinalysis shows:\nBlood negative\nProtein 3+\nRBC 1\u20132/hpf\nRBC casts negative\nAfter four hours of observation, her vital signs are unchanged. Which of the following is the most appropriate next step in management?\"",
+    "input": "Induce labor,Administration of methyldopa,Reassurance,Fetal monitoring with continuous cardiotocography",
+    "output": "Induce labor"
+  },
+  {
+    "instruction": "A 27-year-old G1P0000 at 17 weeks of gestation is interested in participating in a clinical trial for nausea management during pregnancy. The trial will be evaluating the effects of moderate ginger consumption on nausea symptoms. Prior to enrolling in the trial, the investigators explain to the patient that they will be doing a full exam and some special testing to make sure she is experiencing a healthy pregnancy. Which of the following findings would most likely be abnormal during pregnancy?",
+    "input": "Hypertension,Increased cardiac output,Increase in factor VII,Respiratory alkalosis",
+    "output": "Hypertension"
+  },
+  {
+    "instruction": "A 56-year-old woman with a history of stage IIA cervical cancer presents to your office after her 5th episode of a complicated urinary tract infection. She complains of easy fatigability, weakness, and has noted that her shoes no longer fit. The physical examination is unremarkable, except for a blood pressure of 165/90 mm Hg and mild pitting lower extremity edema. The rectovaginal exam revealed no masses. Given the patient\u2019s medical history, the specialist makes a stage IIIB diagnosis; however, to confirm this, he orders abdominal and transvaginal ultrasounds and renal function tests. Which of the following findings would you most likely expect to be reported in the ultrasound?",
+    "input": "Bladder or rectum mucosa invasion,Distant metastasis,Parametrial invasion by cancer,Hydronephrosis",
+    "output": "Hydronephrosis"
+  },
+  {
+    "instruction": "A 32-year-old woman, gravida 2, para 1, at 40 weeks' gestation is admitted to the hospital 30 minutes after spontaneous rupture of membranes without labor pains. She delivered her first child vaginally at 38 weeks' gestation. Pregnancy was complicated by hypothyroidism. She has no other history of serious illness. Medications include levothyroxine and a multivitamin. Her pulse is 90/min, respirations are 16/min, and blood pressure is 134/76 mm Hg. Pelvic examination shows a uterus consistent in size with a 40 week gestation. A cardiotocography reading is shown. Which of the following is the most likely cause of the cardiotocography findings?",
+    "input": "Umbilical cord compression,Fetal head compression,Uteroplacental insufficiency,Fetal CNS depression",
+    "output": "Umbilical cord compression"
+  },
+  {
+    "instruction": "A 61-year old obese nulliparous female presents to your office with right lower quadrant abdominal pain. Her medical history is significant for breast cancer and past use of postmenopausal estrogen replacement therapy. This patient most likely has elevated levels of which of the following?",
+    "input": "hCG,AFP,CA 19-9,CA 125",
+    "output": "CA 125"
+  },
+  {
+    "instruction": "A 26-year-old woman comes to the physician because of progressively worsening episodic pelvic pain for 2 years. The pain starts a few days before her menstrual period and lasts about 10 days. She has tried taking ibuprofen, but her symptoms do not improve. Menses have occurred at regular 29-day intervals since menarche at the age of 11 years and last for 5\u20137 days. The first day of her last menstrual period was 2 weeks ago. She is sexually active with her boyfriend and has noticed that intercourse is often painful; they use condoms inconsistently. Vital signs are within normal limits. Pelvic examination shows a normal vagina and cervix. Bimanual examination shows a normal-sized uterus and no palpable adnexal masses. Urine pregnancy test is negative. Which of the following is the most appropriate next step in management?",
+    "input": "Perform MRI of the pelvis,Prescribe gonadotropin-releasing hormone agonists,Prescribe androgenic steroids,Prescribe estrogen-progestin contraceptives",
+    "output": "Prescribe estrogen-progestin contraceptives"
+  },
+  {
+    "instruction": "A 28-year-old nulligravid woman comes to the physician for a routine health maintenance examination. Upon questioning, she reports that she and her husband have been trying to conceive for more than 1 year; they have unprotected sexual intercourse 3\u20134 times per week. Recently, she has not been enjoying sexual intercourse with her husband because of painful penetration. She also reports episodic back and pelvic pain over the past 6 months that lasts for 2\u20133 days; she has missed several days of work each month because of the pain. Menarche was at the age of 13 years, and menses occur at 26\u201328 day intervals. Pelvic examination shows a normal-appearing vulva and vagina. There is rectovaginal tenderness. Ultrasonography of the pelvis shows a retroverted normal-sized uterus. Further evaluation is most likely to show which of the following findings?",
+    "input": "Endometrial tisssue within the myometrium on biopsy,Multiple bilateral ovarian cysts on ultrasonography,Reddish-black peritoneal lesions on laparoscopy,Concentric, solid myometrial tumors on MRI",
+    "output": "Reddish-black peritoneal lesions on laparoscopy"
+  },
+  {
+    "instruction": "A 42-year-old primigravida woman presents to her gynecologist for a routine prenatal visit at 11 weeks of gestation. Her pregnancy has been uneventful so far. She denies smoking, using alcohol, or any illicit drugs. Past medical history is significant for Hashimoto\u2019s thyroiditis which is well-controlled with levothyroxine. Her blood pressure is 110/70 mm Hg, a heart rate of 95/min, a respiratory rate of 20/min, and a temperature of 36.4\u00b0C (97.5\u00b0F). Physical examination is unremarkable. A transvaginal ultrasound reveals increased nuchal translucency. Laboratory studies show decreased levels of PAPP-A and increased levels of \u03b2-hCG. If the pregnancy is continued to term, the child is at an increased risk of developing which of the following conditions?",
+    "input": "Vaginal adenosis,Huntington disease,Alzheimer\u2019s disease,Ebstein anomaly",
+    "output": "Alzheimer\u2019s disease"
+  },
+  {
+    "instruction": "A 9-year-old boy presents to his orthopedic surgeon for ongoing evaluation of his lower extremity deformities. Specifically, his hips have been dislocating over the last year despite bracing in hip-knee-ankle-foot orthoses. He is paralyzed from below the L2 nerve root and has difficulty with both bladder and bowel incontinence. He has had these abnormalities since birth due to a lower back lesion that required surgical closure during infancy. Which of the following substances was most likely elevated in his mother's serum during her pregnancy?",
+    "input": "Alpha-fetoprotein,Beta-human chorionic growth hormone,Estriol,Sphingomyelin",
+    "output": "Alpha-fetoprotein"
+  },
+  {
+    "instruction": "A 34-year-old woman, gravida 2, para 1, at 34 weeks' gestation comes to the physician because of a 10-day history of generalized pruritus and a 2-day history of jaundice, dark urine, and pale stools. She had developed pruritus at the end of her previous pregnancy, which disappeared after delivery. She has had standard prenatal care. Medications include folic acid and a multivitamin. Her blood pressure is 108/60 mm Hg. Examination shows scleral icterus, jaundice, and scratch marks on her upper and lower limbs. Pelvic examination shows a uterus consistent in size with a 30-week gestation.\nHemoglobin 11.5 g/dl\nPlatelet 350,000/mm3\nProthrombin time 11 seconds (INR=1)\nSerum\nTotal bilirubin 5 mg/dl\nDirect bilirubin 4.2 mg/dl\nBile acid\n25 \u03bcmol/l (N= 0.3 to 10 \u03bcmol/l)\nAspartate aminotransferase 55 U/L\nAlanine aminotransferase 45 U/L\nThere are no abnormalities on abdominopelvic ultrasonography. Which of the following is the most appropriate next step in management?\"",
+    "input": "24-hour urine protein,Emergency endoscopic retrograde cholangiopancreatography and sphincterotomy,Immediate induction of labor,Ursodeoxycholic acid",
+    "output": "Ursodeoxycholic acid"
+  },
+  {
+    "instruction": "A mother brings her 17-year-old daughter to your office because of a recent onset dull unilateral pelvic pain that started last week. In addition, the daughter also complains of constipation for which she increased her fiber intake, but the dietary changes are not helping her. She began menstruating at the age of 13, and her menstrual cycles are regular (about 28 days). On physical examination, the patient has a large, non-tender, mobile adnexal mass in the left lower quadrant. The pelvic examination is normal except for the presence of the adnexal mass. The patient is advised to have an outpatient ultrasound, and then return to the clinic next week. After 2 weeks, you learned that the patient visited the emergency department for a sudden onset of abdominal pain that required observation after an abdominal ultrasound was performed. The ultrasound showed a large simple cystic mass with increased internal echoes, having a diameter of 10 cm and hyperechogenic vascular walls on the left ovary with a small intraperitoneal collection in the pouch of Douglas. What was the most likely diagnosis of this patient?",
+    "input": "Follicular cyst,Endometrioma,Corpus luteum cyst,Dermoid cyst",
+    "output": "Corpus luteum cyst"
+  },
+  {
+    "instruction": "A 43-year-old woman presents to the clinic complaining of \u201cspotting.\u201d She states that over the past 5 months she has had intermenstrual bleeding. Additionally, her menses last more than a week with the first 4 days consisting of heavy bleeding. She denies abdominal pain but reports feeling an increasing \u201cpressure-like\" discomfort. She denies dysuria, dyspareunia, or dyschezia. Prior to 5 months ago, her menstrual periods were only 4 days long and consisted of moderate bleeding. Her periods normally occur every 28 days. She is frustrated because she feels like she needs to wear a pad all the time. The patient delivered 3 healthy children vaginally without complications, followed by a tubal ligation. Her last menstrual period was 1 week ago. She is sexually active with her husband and denies a history of sexually transmitted diseases. She has never had an abnormal pap smear. Her last pap smear and test for human papillomavirus was 4 years ago. The patient has hypothyroidism treated with levothyroxine. On physical examination, the thyroid is normal in size without masses or tenderness. Pelvic examination reveals a firm, mobile, enlarged, irregularly-shaped uterus without adnexal tenderness. Speculum exam is unremarkable. Which of the following is the most likely diagnosis?",
+    "input": "Adenomyosis,Cervical cancer,Endometriosis,Leiomyoma",
+    "output": "Leiomyoma"
+  },
+  {
+    "instruction": "A 29-year-old pregnant woman is brought to the emergency department complaining of the sudden onset of severe, sharp pelvic pain. She is at 6 weeks\u2019 gestation. The patient is bleeding heavily from the vagina and feels very dizzy. Substantial pain is noted in the lower right quadrant, which intensified towards the end of the physical exam. On examination, there is evidence of abdominal and cervical motion tenderness. Her blood pressure is 71/37 mm Hg, respiratory rate is 21/min, pulse is 117/min, and temperature is 38.4\u00b0C (101.1\u00b0F). Which of the following is the most appropriate definitive step in the management of this patient?",
+    "input": "Surgery,Methotrexate,Transvaginal ultrasound,Serial hCG",
+    "output": "Surgery"
+  },
+  {
+    "instruction": "A 24-year-old woman who is 16 weeks pregnant comes to your office requesting a referral for an abortion. Upon questioning she states that she is scared that her baby will be \"deformed\" because on routine screening she was found to have an elevated level of alpha-fetoprotein. What is the most likely cause of this lab abnormality in this patient?",
+    "input": "Trisomy 13,Trisomy 18,Trisomy 21,Inaccurate gestational age",
+    "output": "Inaccurate gestational age"
+  },
+  {
+    "instruction": "A 21-year-old female college student comes to the physician because of a two-week history of vaginal itching and burning. She also noticed white vaginal discharge despite cleaning her genital area daily using a \"\"soap-free, natural\"\" vaginal douche. She is worried that she might have contracted a sexually transmitted disease after meeting her new boyfriend around one month ago. She has type 1 diabetes mellitus. The patient swims for the college swimming team. She had an intrauterine device implanted 3 months ago and does not use barrier protection. She smokes one pack of cigarettes per day and does not drink alcohol. Speculum examination shows an erythematous vagina covered in copious white discharge. Her vaginal pH is 4.4 and the microscopic image of a KOH preparation shows multiple pseudohyphae. Which of the following is the greatest predisposing factor for this patient's condition?\"",
+    "input": "Frequent vaginal douching,Unprotected sexual intercourse,Intrauterine device,Diabetes mellitus",
+    "output": "Diabetes mellitus"
+  },
+  {
+    "instruction": "A 23-year-old woman, gravida 2, para 1, at 13 weeks gestation, comes to the physician because of a 2-day history of burning pain during urination. She has been sexually active with different male partners during the pregnancy and did not use condoms. She has not had any fever, chills, or pelvic pain. Physical examination shows thick, purulent discharge from the urethra. Urine dipstick shows leukocyte esterase, urinalysis shows 10 WBCs/hpf, and Gram stain of the urethral swab shows polymorphonuclear leukocytes with intracellular gram-negative diplococci. Pelvic ultrasound shows a viable intrauterine pregnancy. Which of the following is the most appropriate treatment?",
+    "input": "Oral levofloxacin,Intramuscular ceftriaxone,Oral erythromycin,Intramuscular ceftriaxone and oral azithromycin\n\"",
+    "output": "Intramuscular ceftriaxone and oral azithromycin\n\""
+  },
+  {
+    "instruction": "A 54-year-old woman presents to her gynecologist complaining of incontinence. She reports leakage of a small amount of urine when she coughs or laughs as well as occasionally when she is exercising. She denies any pain with urination. She underwent menopause 2 years ago and noted that this problem has increased in frequency since that time. Her history is significant only for three uncomplicated pregnancies with vaginal births. Urinalysis, post-void residual, and cystometrogram are conducted and all show normal results. The patient's vital signs are as follows: T 37.5 C, HR 80, BP 128/67, RR 12, and SpO2 99%. Physical examination is significant for pelvic organ prolapse on pelvic exam. Which of the following is a reasonable first step in the management of this patient's condition?",
+    "input": "Kegel exercises,Bethanechol,Urethropexy,Tension-free vaginal tape",
+    "output": "Kegel exercises"
+  },
+  {
+    "instruction": "A 23-year-old woman presents to her gynecologist for a routine visit. She is nulliparous, does not report any gynecologic or systemic diseases, and has no complaints. She is sexually active with one partner and uses oral contraceptive pills. Her vital signs are as follows: blood pressure 125/70 mm Hg, heart rate 81/min, respiratory rate 12/min, and temperature 36.6\u2103 (97.9\u2109). The physical examination is within normal limits. The breast examination is normal. No pathology is noted in the external genitalia and a speculum examination reveals a normal cervix with a closed external os and no discharge. A specimen is obtained from the cervical portion for a Pap smear. On bimanual examination, the uterus is normal size, non-tender, and mobile adnexa is non-palpable.\nThe pap smear result is as follows:\nThe pap smear result is as follows:\nSpecimen adequacy: satisfactory for evaluation\nInterpretation: negative for intraepithelial lesion or malignancy\nNotes: absent transformation zone component\nHow should we proceed with the management of this patient?",
+    "input": "Repeat Pap test in 3 years as a usual screening schedule suggests,Repeat Pap test within 2 weeks and ensure proper sampling from the transformation zone,Perform a screening test for high-risk human papillomavirus (HPV),Perform a HPV testing and Pap smear in one year",
+    "output": "Repeat Pap test in 3 years as a usual screening schedule suggests"
+  },
+  {
+    "instruction": "A 24-year-old woman presents complaining of a new onset vaginal odor. She reports that she is sexually active in a monogamous relationship with the same partner for two years. You perform a KOH prep, and notice an abnormal smell. On microscopy in your office, you observe the findings in figure A.\n\nWhat is the most likely causative organism?",
+    "input": "Trichomonas vaginalis,Candida albicans,Escherichia coli,Gardnerella vaginalis",
+    "output": "Gardnerella vaginalis"
+  },
+  {
+    "instruction": "A 37-year-old woman, gravida 4, para 3, at 35 weeks' gestation is admitted to the hospital in active labor. She has had no prenatal care. Her three children were delivered by lower segment transverse cesarean section. The patient appears in acute distress. Her pulse is 98/min, respirations are 15/min, and blood pressure is 130/80 mm Hg. The abdomen is nontender and contractions are felt. The fetus is in a cephalic presentation. The fetal heart rate is reactive with no decelerations. One hour following vaginal delivery, the placenta is not delivered. Manual separation of the placenta leads to profuse vaginal bleeding. A firm, nontender uterine fundus is palpated at the level of the umbilicus. Which of the following is the most likely diagnosis?",
+    "input": "Uterine rupture,Placenta previa,Placenta accreta,Abruptio placentae\n\"",
+    "output": "Placenta accreta"
+  },
+  {
+    "instruction": "A 15-year-old girl is brought to the physician by her mother because of a 3-day history of lower abdominal pain. Over the past 9 months, she has had multiple similar episodes of abdominal pain, each lasting for 4\u20135 days. Menarche has not yet occurred. Examination shows suprapubic tenderness to palpation. Pubic hair and breast development are Tanner stage 4. Pelvic examination shows bulging, bluish tissue 1 cm inside the vaginal introitus. Which of the following is the most likely diagnosis?",
+    "input": "Labial adhesions,Androgen insensitivity,Endometriosis,Imperforate hymen",
+    "output": "Imperforate hymen"
+  },
+  {
+    "instruction": "A 32-year-old G2P2 at 33 weeks and 4 days of gestation presents to the emergency room with low-grade fever, mild low back pain, and dysuria for 1 day. She has a history of urinary tract infections, including one during this current pregnancy that was treated successfully with cephalexin. On examination, she is nontoxic but mildly uncomfortable; she has CVA tenderness on her right side. Her urinalysis is positive for leukocyte esterase and nitrites, and she is admitted to the hospital for IV antibiotics with ceftriaxone. Her present condition places her at increased risk for which of the following:",
+    "input": "Low birth weight,Pre-eclampsia,Postpartum hemorrhage,Preterm labor",
+    "output": "Preterm labor"
+  },
+  {
+    "instruction": "A 51-year-old asymptomatic woman undergoes colposcopy due to a high-grade intraepithelial lesion based on a Pap smear. Colposcopy shows a visible lesion 2 cm in diameter located on the posterior cervical lip and confined to the cervix with sharp borders, a coarse mosaic pattern after application of acetic acid, and contact bleeding. The histologic evaluation of the biopsy shows glandular epithelial cells with nuclear hyperchromasia and enlargement, increased mitoses, a fusion of glands, and stromal infiltration to 8 mm. The chest X-ray and abdominal ultrasound are negative for any additional findings. Which of the following interventions is a proper management strategy for the presented patient?",
+    "input": "Loop electrosurgical excision procedure (LEEP),Modified radical (Wertheim) hysterectomy,Platinum-based chemotherapy,Simple hysterectomy with bilateral salpingo-oophorectomy",
+    "output": "Modified radical (Wertheim) hysterectomy"
+  },
+  {
+    "instruction": "A 20-year-old woman presents to a physician following unprotected coitus with her boyfriend about 10 hours ago. She tells the physician that although they usually use a barrier method of contraception, but this time they did not. She does not want to become pregnant. She also mentions that she has been diagnosed with major depression and does not want to take an estrogen-containing oral contraceptive pill. After counseling, the physician prescribes an enteric-coated pill containing 1.5 mg of levonorgestrel. Which of the following is the primary mechanism of action of levonorgestrel?",
+    "input": "Delayed ovulation through inhibition of follicular development,Thickening of cervical mucus,Atrophy of endometrium,Reduction in motility of cilia in fallopian tubes",
+    "output": "Delayed ovulation through inhibition of follicular development"
+  },
+  {
+    "instruction": "A 49-year-old woman, gravida 1, para 1, comes to the physician because of shorter and less frequent menstrual periods over the past year. During this time, she has also had frequent mood swings and a 2.5-kg (5-lb) weight loss. She occasionally wakes up at night because she is too warm and sweating profusely. These episodes are followed by chills and anxiety that subside within minutes. She has no history of abnormal Pap smears. She is sexually active with her husband, who had a vasectomy 10 years prior. She is 163 cm (5 ft 3 in) tall and weighs 70 kg (154 lb); BMI is 26 kg/m2. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 103/min, respirations are 16/min, and blood pressure is 129/84 mm Hg. Abdominal and genitourinary examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "input": "Perform transvaginal ultrasound,Measure serum \u03b2-hCG concentration,Obtain endometrial biopsy,Measure serum TSH concentration",
+    "output": "Measure serum TSH concentration"
+  },
+  {
+    "instruction": "A 24-year-old female with a history of recurrent infections, bipolar disorder, and no prenatal care gives birth to a male infant. On physical exam in the delivery room, you observe a tuft of hair over the infant's lumbosacral region. Which of the following drugs was this mother most likely taking during pregnancy?",
+    "input": "Gentamicin,Lithium,Valproate,Folic acid",
+    "output": "Valproate"
+  },
+  {
+    "instruction": "A 31-year-old gravida 2 para 2 woman presents to her primary care physician for follow up. Two weeks ago, she gave birth via vaginal delivery to a 9.5 lb (4.3 kg) male infant. The delivery was complicated by a vaginal laceration that required extensive suturing once the infant was delivered. Immediately after delivery of the placenta she experienced intense shaking and chills that resolved within 1 hour. She has felt well since the delivery but admits to 6 days of malodorous smelling vaginal discharge that is tan in color. She has a history of vaginal candidiasis and is worried that it may be recurring. Her temperature is 98.8\u00b0F (37.1\u00b0C), blood pressure is 122/73 mmHg, pulse is 88/min, respirations are 16/min, and BMI is 33 kg/m^2. Speculum exam reveals a 1.5 cm dark red, velvety lesion on the posterior vaginal wall with a tan discharge. The pH of the discharge is 6.4. Which of the following is the most likely diagnosis?",
+    "input": "Bacterial vaginosis,Rectovaginal fistula,Vaginal melanoma,Vesicovaginal fistula",
+    "output": "Rectovaginal fistula"
+  },
+  {
+    "instruction": "A 27-year-old woman, gravida 1, at 26 weeks gestation presents to the physician during a prenatal visit. She feels well. Her pregnancy has been uncomplicated. Her initial laboratory tests at 8 weeks confirmed her blood type as B-. Her partner is blood type A+. At the clinic, her temperature is 37.2\u00b0C (99.0\u00b0F), and blood pressure is 108/60 mm Hg. Pelvic examination shows a uterus consistent in size with a 24-week gestation. Fetal heartbeats are normal. A sample of blood is collected for blood type screening and verification. Regarding Rh D immunoglobulin (RhoGam) administration, the most appropriate next step is which of the following?",
+    "input": "At 28 weeks gestation if anti-D screen is negative,At 28 weeks gestation if anti-D screen is positive,Within 72 hours after birth if anti-D screen is negative,Rh D immunoglobulin (RhoGam) is not required in this patient regardless of test results",
+    "output": "At 28 weeks gestation if anti-D screen is negative"
+  },
+  {
+    "instruction": "A 20-year-old African American woman comes to the clinic after missing her last two periods. Her cycles are usually regular, occurring at 28-32 day intervals with moderate bleeding and some abdominal discomfort. She also complains of occasional diffuse and generalized headaches. She is a college student and works part-time as a bartender. Past medical history is insignificant. Blood pressure is 110/70 mm Hg, pulse rate is 80 /min, respiratory rate is 14 /min, and temperature is 36.5\u00b0C (97.7\u00b0F). Physical examination is significant for mild breast tenderness and some secretions from the nipple area. Urine pregnancy test is negative. Which of the following is the best initial step in her management?",
+    "input": "Serum prolactin levels,LH/FSH ratio,Ultrasound of abdomen and pelvis,Dopamine agonists",
+    "output": "Serum prolactin levels"
+  },
+  {
+    "instruction": "A 35-year-old woman, gravida 6, para 5, at 35 weeks' gestation comes to the emergency department because of vaginal bleeding for 2 hours. This is her second episode in the past 2 days. She has had no prenatal care. Her children were delivered vaginally. Her pulse is 122/min, respirations are 20/min, and blood pressure is 88/59 mm Hg. The abdomen is nontender, and no contractions are felt. There is active bright red vaginal bleeding. The fetal heart rate is 110/min. Two large-bore peripheral intravenous cannulas are inserted and intravenous fluids are administered. Three units of blood are typed and cross-matched. Which of the following is the most appropriate step in management?",
+    "input": "Perform cesarean delivery,Hospitalization and observation,Administer magnesium sulfate,Perform cervical cerclage",
+    "output": "Perform cesarean delivery"
+  },
+  {
+    "instruction": "A 29-year-old woman presents to a physician at 16 weeks gestation with fevers and a cough for 2 days. The cough is productive and occurs more often in the morning. Her medical history is not significant. Physical and laboratory evaluations suggest a diagnosis of community-acquired pneumonia. The physician explains to her that she needs to be treated with antibiotic therapy. She asks the physician if she can take levofloxacin because she tolerates levofloxacin. The physician explains that levofloxacin should be avoided during pregnancy because fetal exposure may increase the risk of a specific medical condition. Which of the following medical conditions is the physician referring to?",
+    "input": "Arthropathy,Congenital heart defect,Deafness,Neural tube defect",
+    "output": "Arthropathy"
+  },
+  {
+    "instruction": "A 23-year-old woman presents to the emergency department with abdominal pain. The patient states that she has pain in her back that radiates to her abdomen. The pain started yesterday and is episodic. She describes the pain as a 10/10 when it occurs. The patient has a past medical history of asthma, anxiety, and chlamydia that was appropriately treated. Her current medications include fluoxetine. The patient's lab values are ordered as seen below.\n\nHemoglobin: 14 g/dL\nHematocrit: 40%\nLeukocyte count: 8,500 cells/mm^3 with normal differential\nPlatelet count: 225,000/mm^3\n\nSerum:\nNa+: 140 mEq/L\nCl-: 100 mEq/L\nK+: 4.9 mEq/L\nHCO3-: 24 mEq/L\nBUN: 22 mg/dL\nGlucose: 89 mg/dL\nCreatinine: 1.2 mg/dL\nCa2+: 10.0 mg/dL\nAST: 11 U/L\nALT: 11 U/L\n\nUrine:\nColor: amber\nNitrites: negative\nNa+: 12 mmol/24 hours\nBeta-hCG: positive\nRed blood cells: 11/hpf\n\nWhich of the following is the best test for this patient's most likely diagnosis?",
+    "input": "Abdominal CT,Transvaginal ultrasound,Abdominal ultrasound,Renal ultrasound",
+    "output": "Renal ultrasound"
+  },
+  {
+    "instruction": "A 45-year-old woman presents for evaluation of mild painless postcoital bleeding for the past 6 months. Recently, she started to note irregular intermenstrual bleeding. She has a regular menstrual cycle that lasts 30 days. She has no history of genital infections or any other major gynecologic diseases. She has 1 sexual partner and uses barrier contraception for birth control. The pelvic examination shows an erosive necrotizing lesion (6 cm in diameter) that involves the posterior lip of the cervix and extends to the cervical canal and posterior vaginal apex. Cervical mobility is decreased. The uterus is not enlarged and the ovaries are non-palpable. A colposcopy is performed and a biopsy is obtained. The histologic evaluation shows irregularly-shaped nests of squamous epithelium cells with large pleomorphic nuclei, inconspicuous nucleoli, a clear cytoplasm, and increased mitoses that infiltrate the stroma for greater than 10 mm. Which of the following investigations is the main method for staging the patient\u2019s condition?",
+    "input": "Pelvic MRI,Clinical examination,Pelvic CT,PET-CT",
+    "output": "Clinical examination"
+  },
+  {
+    "instruction": "A 31-year-old woman and her 32-year-old husband come to the physician because they have not been able to conceive since they married 1.5 years ago. They are sexually active and have not used any form of contraception during this period. She was diagnosed with cervicitis due to Chlamydia trachomatis infection 4 years ago, which was treated with oral azithromycin. The wife reports that she has regular menses and is otherwise healthy. Her last menstrual bleeding was 2 weeks ago. Neither partner shows abnormalities on physical examination. Which of the following is the most appropriate next step in management?",
+    "input": "Chromosomal karyotyping,Postcoital testing,Post-ejaculatory urinalysis,Semen analysis",
+    "output": "Semen analysis"
+  },
+  {
+    "instruction": "A 33-year-old woman comes to the physician because of a 1-year history of irregular menses and infertility. She has a history of an eating disorder and has received dietary and behavioral therapy over the past 6 months with minimal improvement in her symptoms. She is 170 cm (5 ft 7 in) tall and weighs 49 kg (104 lb); her BMI is 17 kg/m2. Physical examination is significant for pallor and thin, soft, depigmented hair on the arms and back. After an extensive workup, the physician recommends pulsatile GnRH therapy. One week after initiating therapy, a pelvic ultrasound shows a 24-mm hypoechogenic cavity in the right ovary. The patient subsequently receives a drug that results in the resumption of meiosis and the loss of gap junctions between the cumulus granulosa cells and the oocyte. This patient most likely received which of the following drugs?",
+    "input": "Follicle-stimulating hormone,Mifepristone,Human chorionic gonadotropin,Cyproterone citrate",
+    "output": "Human chorionic gonadotropin"
+  },
+  {
+    "instruction": "A 36-year-old woman, gravida 3, para 2, at 31 weeks' gestation comes to the emergency department because of painless, bright red vaginal bleeding for one day. She has not felt any contractions. Her other children were delivered by Cesarean section because of breech position. Fetal heart rate is reactive with no decelerations. Which of the following findings is most likely on ultrasound?",
+    "input": "Retroplacental hematoma,Adnexal bleeding,Placenta over the cervical os,Gestational sac in a dilated cervix",
+    "output": "Placenta over the cervical os"
+  },
+  {
+    "instruction": "A 33-year-old woman gravida 2, para 1, at 35 weeks gestation is admitted to the hospital with fever and active labor. She reports a 2-day history of fluid leakage from the vagina without pain or vaginal bleeding. Her pregnancy has otherwise been uncomplicated. She has attended many prenatal appointments and followed the physician's advice about screening for diseases, laboratory testing, diet, and exercise. Her previous pregnancy was complicated by a preterm delivery at 34 weeks gestation. The patient reports a 10-pack-year history of smoking before pregnancy and smoked 4 cigarettes daily during pregnancy. At the hospital, her temperature is 39.6\u00b0C (103.3\u00b0F), blood pressure is 108/60 mm Hg, and pulse is 125/min. Her BMI is 18.2 kg/m2. Uterine palpation reveals tenderness. Cervical examination indicates 100% effacement and 10 cm dilation. Her lungs are clear to auscultation. The baseline fetal heart rate is 180/min. Which of the following is the most appropriate next step in management?",
+    "input": "Amnioinfusion,Ampicillin and gentamicin,Intravenous betamethasone,Ritodrine hydrochloride",
+    "output": "Ampicillin and gentamicin"
+  },
+  {
+    "instruction": "A 36-year-old woman, gravida 3, para 2, at 34 weeks' gestation is brought to the emergency department for the evaluation of continuous, dark, vaginal bleeding that started one hour ago. She also reports severe lower abdominal pain. Her current pregnancy was complicated by preeclampsia. Her first two children were delivered vaginally. Current medications include methyldopa and a multivitamin. Her pulse is 100/min, respirations are 16/min, and blood pressure is 90/60 mm Hg. The abdomen is tender, and hypertonic contractions are felt. There is blood on the vulva and on the medial aspect of both thighs bilaterally. The fetus is in a cephalic presentation. The fetal heart rate is 170/min with several decelerations. Which of the following is the most appropriate next step in the management of this patient?",
+    "input": "Emergency cesarean delivery,Elective cesarean delivery,Administration of terbutaline,Administration of oxytocin and normal vaginal birth",
+    "output": "Emergency cesarean delivery"
+  },
+  {
+    "instruction": "A 28-year-old G2P1 woman at 29 weeks gestation presents to the obstetrician after noticing red spots on her undergarments over the past week. Her vaginal bleeding has not been painful; however, she is concerned that it has persisted. Her previous child was born by cesarean section and she is currently taking folate and a multivitamin. She endorses feeling fetal movements. Her temperature is 98.9\u00b0F (37.2\u00b0C), blood pressure is 120/84 mmHg, pulse is 88/min, respirations are 17/min, and oxygen saturation is 99% on room air. Physical exam is notable for a gravid uterus and non-tender abdomen. Speculum exam reveals a closed cervical os and a small amount of blood. Which of the following is the most likely diagnosis?",
+    "input": "Placenta percreta,Placenta previa,Placental abruption,Uterine rupture",
+    "output": "Placenta previa"
+  },
+  {
+    "instruction": "A 32-year-old GP2 presents to an outpatient clinic for a routine gynecologic examination. The patient appears well, although she mentions that during the past 6 months she has noticed small amounts of vaginal bleeding in the middle of her menstrual cycles. Her last pregnancy was 3 years ago. Her subsequent menstrual cycles have been regular, lasting about 2\u20133 days. She mentions that she is up to date with her Pap smear; all of her Pap smears have been normal. She denies any recent travel or history of trauma. The patient is sexually active with her husband and they use condoms consistently. She does not smoke, drinks alcohol occasionally, and has never used illicit drugs. The physical examination is essentially normal. An ultrasound reveals a fleshy mass with a pedunculated stalk deep in the cervical canal. The uterine lining measures 5 mm in thickness and is homogeneous. Multiple small leiomyomas are also observed. The patient is otherwise asymptomatic and has no other complaints. The rest of the physical examination is unremarkable. Which of the following is the next best step in management?",
+    "input": "No further intervention with follow-up in 6 months,Electrocautery and cryofreezing,Cervical brush biopsy,Removal of the lesion with a ring forceps",
+    "output": "Removal of the lesion with a ring forceps"
+  },
+  {
+    "instruction": "A 34-year-old woman comes to the gynecologist complaining of vaginal swelling and discomfort. She states that over the past 2 weeks she has noticed swelling of her right labia. The swelling continued to grow in size and now causes her discomfort when walking. She denies abnormal discharge or bleeding from the swelling or from the vulva. She normally shaves the area, but with the recent pain, she has been unable to. She denies any history of known trauma. The patient is relatively healthy and takes only a multivitamin. She never received the vaccine for human papillomavirus (HPV). On physical exam, there is a fluctuant, swelling of the right labia, most prominently at the posterior vestibule. Which of the following is the most likely diagnosis?",
+    "input": "Bartholin gland cyst,Folliculitis,Granuloma inguinale,Vulvar cancer",
+    "output": "Bartholin gland cyst"
+  },
+  {
+    "instruction": "A 29-year-old woman (gravida 2, para 1) presents at 32 weeks gestation for routine follow-up care. Her previous pregnancy was complicated with preeclampsia, and she delivered at 35 weeks via cesarean delivery. Four years ago, she was diagnosed with arterial hypertension. Prior to pregnancy, she took amlodipine and hydrochlorothiazide; after she found out she was pregnant, she switched to methyldopa. The course of her current pregnancy has been unremarkable with normal laboratory values at each checkup. According to her blood pressure diary, her systolic blood pressure varies between 120 and 130 mm Hg, and her diastolic blood pressure is usually normal. At presentation, the blood pressure is 140/80 mm Hg, heart rate is 76/min, respiratory rate is 15/min, and temperature is 36.9\u00b0C (98.4\u00b0F). The fetal heart rate is 143/min. Examination shows a 1+ pitting lower leg edema. Dipstick test shows 2+ protein. 24-hour urine assessment demonstrates urinary protein excretion of 1 g/L. Which of the following laboratory values should be assessed next in this patient?",
+    "input": "Coagulogram,Liver transaminases,Total bilirubin,Urinalysis",
+    "output": "Liver transaminases"
+  },
+  {
+    "instruction": "A 28-year-old G2P1001 presents for a routine obstetric visit in her 36th week of pregnancy. She has a history of type I diabetes controlled by insulin and delivered 1 child by normal spontaneous vaginal delivery 2 years ago. Earlier in this pregnancy, she had 2 episodes of burning with urination and frequent urination. Urinalysis each time confirmed a urinary tract infection, and both urine cultures isolated organisms sensitive to nitrofurantoin. Her symptoms resolved with 10-day courses of nitrofurantoin. She has no complaints today. Urinalysis is positive for leukocyte esterase and nitrites. Which of the following is the best next step in management?",
+    "input": "Admit to the hospital and treat with intravenous ceftriaxone,Treat with oral trimethroprim-sulfamethoxazole for 10 days then continue for prophylaxis until delivery,Treat with oral nitrofurantion for 10 days,Treat with oral nitrofurantion for 10 days then continue for prophylaxis until delivery",
+    "output": "Treat with oral nitrofurantion for 10 days then continue for prophylaxis until delivery"
+  },
+  {
+    "instruction": "An 18-year-old girl comes to the emergency room with abdominal pain. She states that the pain started 6 hours ago, is 8/10, and localizes to the right lower abdomen. She recalls a similar episode last month. Her older brother was hospitalized 2 years ago for perforated appendicitis. Her mother has diverticulitis. The patient got her first menstrual period at age 14. Her periods occur regularly every 28 days. Her last menstrual period was 2 weeks ago. She is sexually active with multiple partners and uses condoms inconsistently. The patient\u2019s temperature is 99\u00b0F (37.2\u00b0C), blood pressure is 110/74 mmHg, pulse is 89/min, and respirations are 14/min with an oxygen saturation of 98% on room air. On physical exam, the patient is in moderate distress. There is lower abdominal tenderness with guarding. A pelvic examination reveals clear mucous in the vaginal introitus, a mobile uterus, and tenderness of the right adnexa. Labs are obtained, as shown below:\n\nLeukocyte count: 10,000/mm^3 with normal differential\nHemoglobin: 13.5 g/dL\nPlatelet count: 200,000/mm^3\nBeta-human chorionic gonadotropin: Pending\n\nA pelvic ultrasound demonstrates a small fluid collection in the cul-de-sac posterior to the uterus. Which of the following is the most likely diagnosis?",
+    "input": "Appendicitis,Endometriosis,Midcycle pain,Ruptured ectopic pregnancy",
+    "output": "Midcycle pain"
+  },
+  {
+    "instruction": "A 27-year-old woman comes to the emergency department at 14 weeks gestation with abdominal pain. She states she has passed a large amount of blood from her vagina in the past 2 hours. Her vitals are within normal limits and she describes her abdominal pain as a 4/10. Physical exam is notable for a dilated cervix. The patient states she does not want any invasive procedures in her workup but is accepting to necessary medical interventions. Which of the following is the best next step in management?",
+    "input": "Admission and external fetal monitoring,Dilation and curettage,Expectant management,Transvaginal ultrasound",
+    "output": "Expectant management"
+  },
+  {
+    "instruction": "An otherwise healthy 23-year-old newly-married woman comes to the physician because of a 6-day history of discomfort in her vaginal area during and after sexual intercourse. Her last menstrual period was 3 weeks ago. Two years ago, she was diagnosed with genital herpes which was treated with acyclovir. She has been in a monogamous relationship for the past year and has been using an intrauterine device for contraception for the past month. Examination shows a 4-cm, mildly tender mass in the inferior aspect of the left labium minus with no signs of inflammation. Speculum examination causes her discomfort but shows no abnormalities. Which of the following is the most likely cause of these findings?",
+    "input": "Obstructed orifice of the Bartholin duct,Reactivation of the genital herpes,Squamous cell carcinoma of the vulva,Allergic reaction to the intrauterine device",
+    "output": "Obstructed orifice of the Bartholin duct"
+  },
+  {
+    "instruction": "A 25-year-old primigravida is admitted to the hospital at 35 weeks gestation with lower leg edema. She denies any other symptoms. Prior to admission, the antepartum course was unremarkable and she was compliant with recommended  prenatal care. The vital signs were as follows: blood pressure, 155/90 mm Hg; heart rate, 84/min; respiratory rate, 16/min; and temperature, 36.6\u2103 (97.9\u2109). The fetal heart rate was 142/min. The physical examination shows 2+ pitting edema. A 24-hour urine assessment showed proteinuria (1.2 g). An ultrasound examination showed a normally developing fetus without structural abnormalities. The placental margin was located 3 cm away from the internal os. Which of the following options describes the  proper management in this patient assuming that no deterioration occurs up to the time of delivery?",
+    "input": "Induction of vaginal delivery at 37 weeks\u2019 pregnancy if not begin spontaneously earlier,Cesarean delivery after a course of a corticosteroid treatment,Vaginal delivery induction after a course of corticosteroid treatment,Watch for a spontaneous vaginal delivery at any term from the moment of presentation",
+    "output": "Induction of vaginal delivery at 37 weeks\u2019 pregnancy if not begin spontaneously earlier"
+  },
+  {
+    "instruction": "A 32-year-old man and his 29-year-old wife come to the physician because they have been unable to conceive despite regular unprotected sexual intercourse for 13 months. The woman reports regular menstrual cycles since the age of 13. Menses occur at regular 28-day intervals and last 5\u20137 days. Ovulation predictor kits consistently turn positive around day 14. The man has a negative history of mumps. They each smoked one pack of cigarettes per day until one year ago. The man works in construction and his wife is a secretary for a law firm. Examination of the scrotum in a standing position shows soft bands palpated in the upper pole of the left scrotum with an intact left testicle. Following Valsalva maneuver, the patient reports a dull, aching pain in his left hemiscrotum. A light held behind the scrotum does not shine through. The right scrotum appears normal. Semen studies show normal sperm count with moderately decreased motility and abnormal morphology. Which of the following is most likely to improve the patient's ability to conceive?",
+    "input": "Ligation of dilated pampiniform venous plexus,Conservative management with scrotal support,Surgical excision of the hydrocele sac,Administration of ceftriaxone and doxycycline",
+    "output": "Ligation of dilated pampiniform venous plexus"
+  },
+  {
+    "instruction": "A 30-year-old woman seeks evaluation at a local walk-in clinic with a week-long history of lightheadedness and palpitations. She also complains of fatigability and shortness of breath of the same duration. The past medical history is significant for menarche at 9 years of age, heavy menstrual bleeding for the past several years and abdominal pain that worsens during menses. She stopped trying to conceive a child after 2 spontaneous abortions in the past 4 years and has been on iron oral supplementation for the last 2 years. She adds that she feels a dull pressure-like discomfort in her pelvis and constipation. The physical examination is significant for pale mucous membranes and a grade 2/6 ejection systolic murmur in the area of the pulmonic valve. Pelvic examination reveals an enlarged, mobile uterus with an irregular contour. The hemoglobin level is 10 g/dL and the hematocrit is 27%. Based on these findings, which of the following is the most likely diagnosis?",
+    "input": "Uterine leiomyoma,Endometrial hyperplasia,Endometrial carcinoma,Endometrial polyp",
+    "output": "Uterine leiomyoma"
+  },
+  {
+    "instruction": "A 27-year-old gravida 2, para 2 woman presents to her OB/GYN\u2019s office concerned that she may be pregnant. She and her husband use condoms for contraception. The night before, the condom broke during intercourse. She has 2 children under the age of 3 and does not want another child at this time. She says she cannot take \u201cthe pill\u201d because she had a blood clot in her leg after her last cesarean section successfully treated with 6 months of anticoagulation. She smokes cigarettes and drinks alcohol regularly. Which of the following would be the most appropriate recommendation for this patient?",
+    "input": "Reassure her that she is likely not pregnant,Refer her to an abortion clinic,Recommend etonogestrel implant,Recommend copper IUD",
+    "output": "Recommend copper IUD"
+  },
+  {
+    "instruction": "A 27-year-old nullipara makes an appointment with her gynecologist to discuss the results of her cervical cancer screening. She is not vaccinated against HPV and has a single sexual partner. She and her partner are planning pregnancy, so she recently discontinued oral contraception and began to take folate and iron supplements. She has no history of gynecologic diseases. Her first Pap smear showed atypical squamous cells of undetermined significance, but 2 subsequent Pap smears had normal results. The most recent Pap smear was reported as a high-grade squamous intraepithelial lesion. Colposcopy was performed at the next visit and a biopsy was obtained from a small patch of the acetowhite epithelium at the cervical transformation zone. The pathologic assessment shows CIN 3. Which of the following statements regarding the management of this patient is correct?",
+    "input": "The annual rate of progression of CIN 3 to cancer is > 10%, so the patient should be treated as soon as possible.,Close follow-up with cytology and colposcopy may be considered in this patient.,Additional HPV testing would be useful to guide the therapy.,Pregnancy is not recommended in women with high-grade cervical lesions, so treatment is reasonable.",
+    "output": "Close follow-up with cytology and colposcopy may be considered in this patient."
+  },
+  {
+    "instruction": "A 24-year-old primigravida is admitted to the hospital at 36 weeks gestation with a headache and blurred vision. The vital signs are as follows: blood pressure, 170/95 mm Hg; heart rate, 88/min; respiratory rate, 15/min; and temperature, 36.6\u2103 (97.9\u2109). The physical examination is significant for pitting edema of the lower extremity. Meningeal signs are negative. The ophthalmoscopic exam shows vascular narrowing and a cotton-like fundal exudate. The dipstick test shows 1+ proteinuria. While the blood is being drawn, the patient has a generalized tonic-clonic seizure. Which of the following options describe the most likely mechanism underlying the patient\u2019s seizure?",
+    "input": "Increase in the extracellular sodium concentration,Failure of cerebral vasoregulation,Inhibition of brain GABA-signaling,Increased activation of NMDA receptors",
+    "output": "Failure of cerebral vasoregulation"
+  },
+  {
+    "instruction": "A 29-year-old G1P0 woman at 32 weeks of gestation comes to the emergency department complaining of vaginal bleeding for the past hour. She noticed some blood on the toilet paper when she went to the bathroom an hour ago, but now she is bleeding through her underwear. She denies any trauma, pain, abnormal discharge or odor, fever, or recent infections. The patient mentioned that that during her last ultrasound, the doctor told her that, \u201cthere\u2019s an abnormality but not to worry,\u201d but she can\u2019t remember the name of the condition. Her temperature is 100.1\u00b0F (37.8\u00b0C), blood pressure is 120/70 mmHg, pulse is 86/min, and respirations are 15/min . A fetal heart tracing is obtained and shows a fetal heart rate of 130-140, long-term variability, and appropriate accelerations. What is the most likely explanation for this patient\u2019s presentation?",
+    "input": "Abnormal placental spiral artery development,Attachment of the placenta to the lower placental segment over the internal os,Cystic swelling of chorionic villi and trophoblast proliferation,Fetal vessels in close proximity to the cervical os",
+    "output": "Attachment of the placenta to the lower placental segment over the internal os"
+  },
+  {
+    "instruction": "A 61-year-old woman presents with painless vaginal bleeding. Patient says the bleeding has been occurring occasionally for the past 3 years. Past medical history is significant for diabetes mellitus type 2 and hypertension, both managed medically. Current medications are atorvastatin, lisinopril, hydrochlorothiazide, and metformin. Patient has not been sexually active since the death of her husband 9 years ago. Menopause occurred 8 years ago, and she denies taking hormone replacement therapy or estrogen-containing oral contraceptives. Her last Pap smear 1 year ago was normal. Vital signs are temperature 37.0\u2103 (98.6\u2109), blood pressure 130/85 mm Hg, pulse 82/min, respiratory rate 13/min, and oxygen saturation 99% on room air. BMI is 33.8 kg/m2. On physical examination, patient is alert and cooperative. Cardiac exam is normal. Lungs are clear to auscultation. Abdomen is soft and non-tender with no masses or hepatosplenomegaly. Examination of the perineum shows pale, atrophic vaginal mucosa. Speculum examination shows no vaginal or cervical lesions. The cervix is movable and non-tender. There is trace blood in the vaginal vault and mild bleeding from the cervical os. The uterus is not enlarged but softened on palpation. Adnexa is non-palpable. Which of the following is the next best diagnostic step in this patient?",
+    "input": "Hysteroscopy,Pap test,Endometrial biopsy,Pelvic MRI",
+    "output": "Endometrial biopsy"
+  },
+  {
+    "instruction": "A 20-year-old African American woman presents to the clinic after missing her last 2 periods. Her cycles are usually regular, occurring at 28\u201332 day intervals with moderate bleeding and some abdominal discomfort. She also complains of occasional diffuse and generalized headaches. She is a college student and works part-time as a bartender. The past medical history is benign. The blood pressure is 110/70 mm Hg, the pulse is 80/min, the respiratory rate is 14/min, and the temperature is 36.5\u00b0C (97.7\u00b0F). The physical examination is significant for mild breast tenderness and secretions from the nipple area. A urine pregnancy test is negative. Which of the following is the best initial step in her management?",
+    "input": "MRI of the brain,Serum prolactin levels,LH:FSH ratio,Dopamine agonists",
+    "output": "Serum prolactin levels"
+  },
+  {
+    "instruction": "A 28-year-old woman, gravida 3, para 2, at 34 weeks' gestation comes to the physician because of a 1-day history of dyspnea, dry cough, and chest pain. Her pulse is 112/min, respirations are 24/min, and blood pressure is 108/78 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 90%. Examination shows jugular venous distention and bilateral pitting edema below the knees that is worse on the right side. There is dullness to percussion over the right lung base. Which of the following is the most likely diagnosis?",
+    "input": "Pulmonary embolism,Panic attack,Bacterial pneumonia,Acute pericarditis",
+    "output": "Pulmonary embolism"
+  },
+  {
+    "instruction": "A 28-year-old G1P0 primigravida woman at 28 weeks estimated gestational age presents for routine prenatal care. She has no complaints and says she can feel her baby move and respond to outside sounds. The patient has no significant past medical or family history. Currently, she is taking a prenatal multivitamin which contains iron and folic acid. Her blood type is A (-) negative, and her husband is A (+) positive. The patient says she stopped drinking alcohol 2 years ago and denies any history of smoking or recreational drug use. Her pulse is 90/min, blood pressure is 114/68 mm Hg, and respiratory rate is 18/min. She has gained 9.0 kg (19.8 lb) over the course of the pregnancy. Physical examination shows a gravid uterus, extending 28 cm above the pubic symphysis. Occasional movements are observed in the abdomen. There is no guarding or tenderness to palpation. Fetal heart sounds can be auscultated. The remainder of the examination is unremarkable. The patient is administered an injection of RhO(D) immunoglobulin (RhoGAM). Which of the following statements best describes the rationale for administering RhO(D) immunoglobulins (RhoGAM) in this patient?",
+    "input": "RhO(D) immunoglobulin will prevent hemolytic disease in this pregnancy.,The father requires RhO(D) immunoglobulin administration rather than the patient.,RhO(D) immunoglobulins will prevent anti-D antibody formation in the mother.,RhO(D) immunoglobulins will prevent anti-D antibody formation in the fetus.",
+    "output": "RhO(D) immunoglobulins will prevent anti-D antibody formation in the mother."
+  },
+  {
+    "instruction": "A 49-year-old G4P4 woman comes to the clinic complaining of repeated leakage of fluid from her vagina for the past 5 months. She noticed an increase in episodes following her cold last week when she was coughing and sneezing a lot. Her past medical history is significant for Crohn disease, which is well controlled with sulfasalazine. Her last menstrual period was 1 year ago. She is currently sexually active with multiple partners with inconsistent condom use. She denies any vaginal itching, abnormal discharge, pain, subpubic pressure, urinary urges, or odors. Physical examination is significant for a bulge at the anterior vaginal wall. What is the most likely explanation for this patient\u2019s symptoms?",
+    "input": "Prolapse of the bladder,Detrusor muscle overactivity,Genitourinary syndrome of menopause,Rectovaginal fistula",
+    "output": "Prolapse of the bladder"
+  }
+]

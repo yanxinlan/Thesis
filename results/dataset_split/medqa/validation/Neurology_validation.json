@@ -1,0 +1,417 @@
+[
+  {
+    "instruction": "A 30-year-old man is brought to the doctor's office by his wife. She complains that over the past week there have been 3 episodes where he has fallen asleep while speaking with her. She mentioned that these events began a few months ago and have been increasing in frequency. She also says that his snoring has gotten to the point where she has a hard time sleeping next to him. When asked, the patient says that he frequently falls asleep while reading or watching television in the afternoons and feels refreshed after a short nap. The patient is worried because he sometimes hears people who aren\u2019t in the room as he falls asleep. He is worried he might be \u201cgoing crazy.\u201d He has noticed that when his friends tell him a joke or he laughs at something on the TV, he drops whatever he\u2019s holding and feels like his legs become weak. These episodes self-resolve in a few seconds. Examination shows a morbidly obese man in no acute distress. Which of the following is the best treatment for the most likely cause for this patient\u2019s illness?",
+    "input": "Modafinil,Taking longer naps,Continuous positive airway pressure,Changing bedtime to earlier in the evening",
+    "output": "Modafinil"
+  },
+  {
+    "instruction": "A 38-year-old woman comes to the emergency department because of progressive headache, blurry vision, and nausea for 1 day. Four days ago, she was diagnosed with a right middle ear infection. She appears lethargic. Her temperature is 39.1\u00b0C (102.3\u00b0F), and blood pressure is 148/95 mm Hg. Ophthalmologic examination shows bilateral swelling of the optic disc. The corneal reflex in the right eye is absent. Sensation to touch is reduced on the upper right side of the face. Serum studies show increased concentrations of fibrin degradation products. Which of the following is the most likely diagnosis?",
+    "input": "Cerebral venous thrombosis,Hypertensive emergency,Subarachnoid hemorrhage,Viral meningitis",
+    "output": "Cerebral venous thrombosis"
+  },
+  {
+    "instruction": "A 29-year-old woman comes to the emergency department because of progressive numbness and weakness in her right arm and right leg for 1 day. Two months ago, she had blurry vision and headache for a week, which resolved without treatment. She does not smoke or drink alcohol. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 78/min, respirations are 14/min, and blood pressure is 115/71 mm Hg. Muscle strength is 3/5 in the right arm and leg and 5/5 on the left side. MRI of the brain shows gadolinium-enhancing lesions in the left central sulcus, cervical spinal cord, and optic nerve. Intravenous methylprednisolone therapy is started. This drug is most likely to result in which of the following laboratory changes?",
+    "input": "Monocytosis,Lymphocytosis,Eosinopenia,Granulocytopenia",
+    "output": "Eosinopenia"
+  },
+  {
+    "instruction": "A 36-year-old woman comes to the physician because of a 2-month history of progressively worsening lower back pain and weakness in the lower extremities. The pain is worse with movement and improves with lying down on a flat surface. She was diagnosed with pulmonary tuberculosis 6 months ago and is currently taking isoniazid and rifampin. Physical examination shows sensory loss over the lateral aspect of the mid-thigh, patella, and medial aspect of the right lower leg. Strength is 2/5 with right-sided dorsiflexion and the patellar reflex is absent. An x-ray of the spine shows a paravertebral opacity with anterior wedging of the vertebral body. Which of the following nerve roots is most likely to be affected in this patient?",
+    "input": "S2,S1,L3,L4",
+    "output": "L4"
+  },
+  {
+    "instruction": "A 38-year-old woman comes to the physician for the evaluation of progressive weakness and numbness for 3 months. The symptoms started in her lower legs and gradually moved to her upper legs and arms. During the last 5 days, she has also had bilateral facial weakness with headaches. She has hepatitis B and Graves' disease. She is sexually active with one male partner and they use condoms inconsistently. Her current medications include methimazole and a multivitamin. Vital signs are within normal limits. She is alert and fully oriented. She has bilateral upper and lower facial paralysis. There is generalized weakness of the muscles. Sensation to light touch is decreased throughout and is absent in her fingertips and toes. Deep tendon reflexes are 1+ bilaterally. Further evaluation of this patient is most likely to show which of the following findings?",
+    "input": "Positive GM1 ganglioside autoantibodies,Positive Lyme ELISA test,Low vitamin B12 level,Elevated TSH and decreased FT4 levels",
+    "output": "Positive GM1 ganglioside autoantibodies"
+  },
+  {
+    "instruction": "A 64-year-old woman comes to the physician because of several episodes of dizziness during the last month. The episodes last between 30\u201340 seconds and during the episodes she feels as though she is spinning. Episodes usually occur immediately after lying down or suddenly sitting up from a reclined position. They also sometimes happen when she suddenly turns her head to look at something. She has no nausea. Last month, she had an upper respiratory tract infection that resolved spontaneously. She has hypertension treated with hydrochlorothiazide. Otoscopic examination shows no abnormalities. There is no lateralization when a vibrating 512 Hz tuning fork is placed in the middle of the forehead. Which of the following is the most likely diagnosis?",
+    "input": "Benign paroxysmal positional vertigo,Persistent postural-perceptual dizziness,Meniere disease,Acoustic neuroma",
+    "output": "Benign paroxysmal positional vertigo"
+  },
+  {
+    "instruction": "A 26-year-old woman is admitted to the hospital because of a 3-day history of tingling and weakness in the lower extremities. Neurologic examination shows areflexia of the ankle and knee joints bilaterally. Motor strength is 1/5 in both lower legs. Over the next 3 weeks, the patient's condition progresses to involve both upper extremities, and she requires ventilatory support. Six weeks after admission, deep tendon reflexes are 1+ in the ankles, and she is able to wiggle her toes. Which of the following is most likely responsible for the improvement in this patient's neurological status?",
+    "input": "Synthesis of monoamine neurotransmitters,Remyelination of peripheral nerves,Replication of oligodendrocyte precursor cells,Lymphocytic infiltration in the endoneurium\n\"",
+    "output": "Remyelination of peripheral nerves"
+  },
+  {
+    "instruction": "An 18-year-old woman presents with recurrent headaches. The pain is usually unilateral, pulsatile in character, exacerbated by light and noise, and usually lasts for a few hours to a full day. The pain is sometimes triggered by eating chocolates. These headaches disturb her daily routine activities. The physical examination was within normal limits. She also has essential tremors. Which drug is suitable in her case for the prevention of headaches?",
+    "input": "Ergotamine,Verapamil,Valproic,Propranolol",
+    "output": "Propranolol"
+  },
+  {
+    "instruction": "A 64-year-old man is brought to his primary care physician by his daughter for forgetfulness. The patient\u2019s daughter reports that over the past 2 weeks the patient has become more confused. He did not remember to pick up his car from the body shop last week, and yesterday, he did not show up to his grandson\u2019s birthday party. When she went over to the patient\u2019s house to check on him, she noticed the mailbox was stuffed with unopened letters. The patient says \u201cI\u2019m fine. I just have a headache.\u201d The patient\u2019s daughter adds, \u201cI just hope you\u2019re not drinking again dad. Your neighbor saw you fall outside the house a few weeks ago, and the other day you said you were nauseous and vomited.\u201d The patient\u2019s medical history is significant for a history of alcohol abuse, hypertension, hyperlipidemia, and atrial fibrillation. He takes aspirin, amlodipine, metoprolol, atorvastatin, and warfarin. He smokes cigars, but denies alcohol use since he started psychotherapy 7 months ago. The patient\u2019s temperature is 97\u00b0F (36.1\u00b0C), blood pressure is 144/92 mmHg, and pulse is 82/min. On physical examination, there is a 3 cm ecchymosis on the right scalp. No focal neurological deficits are appreciated. Gait is normal. An initial complete blood count shows normocytic anemia. The patient\u2019s INR is 2.5. Imaging is pending. Which of the following is a treatment option for the patient\u2019s most likely diagnosis?",
+    "input": "Alteplase,Burr hole,Donepezil,Thiamine supplementation",
+    "output": "Burr hole"
+  },
+  {
+    "instruction": "A 72-year-old man is being transported by emergency medical services to the emergency department for a stroke code. He was found on the ground by his daughter earlier today, and he was last known to be without neurological deficits two hours prior to presentation. His temperature is 99\u00b0F (37.2\u00b0C), blood pressure is 185/105 mmHg, pulse is 102/min, and respirations are 18/min. A non-contrast head CT is performed, which demonstrates a hypodense lesion affecting the left medial frontal and parietal lobe. Which of the following will most likely be found on physical exam?",
+    "input": "Contralateral hemiparesis,Contralateral lower extremity weakness,Hemineglect,Wernicke aphasia",
+    "output": "Contralateral lower extremity weakness"
+  },
+  {
+    "instruction": "A 53-year-old man is brought to the emergency department by his wife after the sudden onset of dizziness, nausea, and left-sided weakness. His blood pressure is 165/95 mm Hg. Neurological examination shows decreased muscle tone and hyperreflexia in the right upper and lower extremities. His gait is unsteady, and he falls to the left when attempting to walk. Finger-to-nose testing shows dysmetria on the left side. A CT scan of the head shows a small lesion in the left lateral pons that involves the nucleus of a cranial nerve that exits the brain at the middle cerebellar peduncle. Which of the following additional findings is most likely in this patient?",
+    "input": "Ptosis and inability to look up with the right eye,Winging of the left scapula and weakness turning the head to the right,Difficulty chewing and deviation of the jaw to the left,Inability to smell vanilla or coffee",
+    "output": "Difficulty chewing and deviation of the jaw to the left"
+  },
+  {
+    "instruction": "A 65-year-old woman presents to the emergency department with a new-onset seizure. The patient was at home watching television when she suddenly began jerking her limbs and not responding according to her partner. The patient works as a gardener is often dehydrated but drinks large volumes of water to compensate for her work. She does not wear protective gear or sunscreen while working. She has smoked 1.5 packs of cigarettes per day for the past 40 years. She drinks liquor before bed every night. The patient has a past medical history of hypertension and diabetes and recently lost 9 pounds. Physical exam is within normal limits. Which of the following is the most likely underlying diagnosis in this patient?",
+    "input": "Glioblastoma multiforme,Infiltrating ductal carcinoma of the breast,Primary seizure disorder,Small cell carcinoma of the lung",
+    "output": "Small cell carcinoma of the lung"
+  },
+  {
+    "instruction": "A 63-year-old woman with a history of adult polycystic kidney disease and COPD presents to her optometrist after having difficulty watching a movie. She has no other complaints. She is accompanied by her daughter, who notes that her mother hasn\u2019t been able to look at her since the previous day. On exam, her right eye has full range of motion, but her left eye is fixed in a down and outward position. What is the most likely cause of her symptoms?",
+    "input": "Vascular abnormality,Seizure,Demyelinating disease,Impaired dopaminergic neurons",
+    "output": "Vascular abnormality"
+  },
+  {
+    "instruction": "A 43-year-old woman comes to the physician because of a 2-month history of progressive muscle pain and stiffness that worsens with exercise. She also has difficulty climbing stairs, getting out of chairs, and putting things on shelves or in cupboards. She has had constipation, occasional headaches, and a 9-kg (20-lb) weight gain during the past year. She has hypertension controlled with atenolol and amlodipine. She has used calamine lotion for the past 6 months for dry skin. Her pulse is 80/min and her blood pressure is 138/76 mm Hg. Physical examination shows weakness of the proximal muscle groups. She has delayed tendon reflex relaxation, with a mounding of the muscle surface occurring just before relaxation. Creatine kinase level is 3,120 U/L. Which of the following is the most appropriate next step in diagnosis?",
+    "input": "Serum TSH levels,Acetylcholine receptor antibody testing,Serum potassium levels,Temporal artery biopsy",
+    "output": "Serum TSH levels"
+  },
+  {
+    "instruction": "A 44-year-old male is brought to the physician by his father. Over the past year, the patient has become progressively forgetful and withdrawn. He frequently has trouble remembering names of acquaintances, and has been requiring increasing amounts of assistance with getting dressed, cooking, and personal hygiene. He was diagnosed with a genetic disorder during infancy. Physical examination shows prominent epicanthal folds, low-set small ears, and a protruding tongue. Mental examination shows significant deficits in short- and long-term memory. This patient's cognitive symptoms are most likely the result of which of the following neuropathologic changes?",
+    "input": "Intracellular aggregations of alpha-synuclein,Multifocal deposition of excess copper,Synaptic build-up of abnormal prion protein,Extracellular accumulation of amyloid plaques",
+    "output": "Extracellular accumulation of amyloid plaques"
+  },
+  {
+    "instruction": "A 61-year-old female presents to the emergency room for a headache and vision loss. She reports a 3-hour history of acute-onset dull headache. She also says she cannot see out of part of her eye. Her past medical history is notable for hypertension, hyperlipidemia, and a prior myocardial infarction. She takes enalapril, atorvastatin, aspirin, and metoprolol. On exam, she is alert and oriented to person, place, and time. She has 5/5 strength and full sensation to light touch in her bilateral upper and lower extremities. Her brachioradialis, triceps, patellar, and Achilles reflexes are symmetric and 2+ bilaterally. Fundoscopic examination reveals a normal retina. Visual field examination demonstrates an inability to see in the superior right visual field. This patient\u2019s condition is likely due to a lesion in which of the following locations?",
+    "input": "Optic nerve,Pituitary gland,Parietal lobe,Temporal lobe",
+    "output": "Temporal lobe"
+  },
+  {
+    "instruction": "A 47-year-old woman presents with intermittent throbbing headaches. She says that she has had at least 1\u20132 every week for the last 3 months. She describes the pain as severe, pulsatile, and localized to the right frontotemporal and periorbital areas. She says the headaches usually last for several hours and are made worse by the presence of light. She endorses nausea with occasional vomiting during the most severe episodes. She denies any seizures, loss of consciousness, or focal neurologic deficits. Her past medical history is significant for myocardial infarction (MI) 1 year ago, status post percutaneous transluminal coronary angioplasty complicated by residual angina, and severe asthma, managed medically. The patient is afebrile, and the vital signs are within normal limits. A physical examination is unremarkable. A noncontrast computed tomography (CT) scan of the head appears normal. Which of the following is the best prophylactic treatment for this patient\u2019s most likely diagnosis?",
+    "input": "Amitriptyline,Valproic acid,Propranolol,Ibuprofen",
+    "output": "Valproic acid"
+  },
+  {
+    "instruction": "A 59-year-old man is brought to the emergency department for changes in mental status. His wife noticed that since lunch time today, he has been \u201czoning out\u201d and forgetting simple things such as where the bathroom is. She decided to call the ambulance as he got uncharacteristically violent during dinner when he threw his plate to the floor. The patient denies fevers, weight loss, chills, chest pain, or shortness of breath, but reports mild abdominal discomfort and some dark stools that he attributes to iron supplements. A physical examination demonstrates a moderate fluid wave of the abdomen and shaking of the hands while the wrists are extended. What is the mechanism of action of the medication that can treat this patient\u2019s condition?",
+    "input": "Antagonist against 5-HT3,Long-acting somatostatin analog,Mu-opioid receptor agonist,Trapping of ammonia in the colon",
+    "output": "Trapping of ammonia in the colon"
+  },
+  {
+    "instruction": "A 22-year-old female software analyst presents to a medical clinic for evaluation of tingling and numbness in both hands for the past 2 months. Her symptoms are usually aggravated by the end of the work day and absent on most off days. She has been a type I diabetic for 2 years and is currently on insulin. She admits to being sexually active but has had irregular periods for the past 3 months. A urine pregnancy test is negative. What is the most likely cause of this patient\u2019s symptoms?",
+    "input": "Hypothyroidism,Acute intermittent porphyria,Amyotrophic lateral sclerosis,Multiple sclerosis",
+    "output": "Hypothyroidism"
+  },
+  {
+    "instruction": "A 20-year-old woman is brought to the emergency department by her boyfriend for right arm and leg weakness, numbness, and tingling that has been resolving gradually. The symptoms started 4 hours ago after she had an argument with her boyfriend during which she slapped and kicked him. She says she has been limping and cannot use her right arm anymore. She has never had similar symptoms in the past. She has a history of genital herpes and trichotillomania. She is alert and oriented. Physical examination shows upper and lower face symmetry and normal speech. She has 5/5 strength in all extremities and 5/5 right ankle plantar flexion when lying down. She has 4/5 strength in the right arm and leg when ambulating. She cannot stand on her toes when asked. Her deep tendon reflexes are 2+ bilaterally. She has normal proprioception, light touch sensation, and two-point discrimination in all extremities. She has a negative Spurling test. CT of the head without contrast shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "input": "Administer alteplase,Provide patient education,Prescribe aspirin,Start biofeedback therapy\n\"",
+    "output": "Provide patient education"
+  },
+  {
+    "instruction": "A 55-year-old man presents with worsening weakness of the left hand and progressive difficulty in walking for the last 2 months. He says he was previously healthy and active, hiking every weekend, but because of his increasing weakness and incoordination while walking, he stopped his weekly hiking excursion. His past medical history is unremarkable. Current medications are a daily multivitamin and occasional acetaminophen for headaches. He has no significant family history. The patient denies smoking, recreational drug use, or drinking. His vitals include: pulse 70/min, respirations 14/min, temperature 37.0\u00b0C (98.6\u00b0F), and blood pressure 130/80 mm Hg. Physical examination reveals fasciculations in the tongue and distal extremities. The left forearm shows significant atrophy, and mild lower limb muscle atrophy is also seen bilaterally. Hyporeflexia (1+) is present in the left arm, while hyperreflexia (3+) is seen in the legs bilaterally. Babinski\u2019s sign is positive bilaterally. The patient's speech is notably slow but no evidence of productive or expressive aphasia is present. The cranial nerves are intact. Which of the following pathologies most likely underlies this patient\u2019s condition?",
+    "input": "Demyelination of neurons in various parts of the brain,Degeneration of the dorsal columns of the spinal cord,Infarction of the posterior limb of the internal capsule,Loss of the pyramidal tract neurons and anterior horn cells of the spinal cord",
+    "output": "Loss of the pyramidal tract neurons and anterior horn cells of the spinal cord"
+  },
+  {
+    "instruction": "A 21-year-old man visits his primary care provider complaining of visual disturbance in both eyes for a month and an episode of abnormal uncontrollable shaking that occurred twice last week. He was previously healthy and did not take any medication. His mother has intermittent muscle weakness and his maternal uncle developed hemiplegia at the age of 35. Neuroimaging shows bilateral occipital lobe infarcts and a skeletal muscle biopsy reveals atypical muscle fibers that stain positive for subsarcomelar structures. The physician suspects a maternally inherited genetic disorder. The difference in the level of severity of this disorder among family members in best explained by which of the following?",
+    "input": "Heteroplasmy,Mosaicism,Anticipation,Uniparental disomy",
+    "output": "Heteroplasmy"
+  },
+  {
+    "instruction": "A 72-year-old man with a history of diabetes, dyslipidemia, and hypertension presents to the emergency department with sudden-onset right-sided facial paresthesia, word-finding difficulty, and lightheadedness. He was at a restaurant, in general good health, enjoying a dinner with friends when the 1st symptoms started. He takes atorvastatin, lisinopril, hydrochlorothiazide, and a multivitamin every day. A review of symptoms was negative. His symptoms spontaneously resolved after 5 minutes. In the emergency department, the vital signs included: blood pressure of 132/80 mm Hg, heart rate of 86/min, respiratory rate of 20/min, and oxygen saturation of 99% on room air. The laboratory results included:\nHemoglobin 11.3 g/dL\nHematocrit 33%\nWBC count 9,800/mm3\nPlatelet count 247,000/mm3\nInternational normalized ratio (INR) 1.1\nProthrombin time (PT) 11.5 seconds\nPartial thromboplastin time (PTT) 32 seconds\nHis electrocardiogram (ECG) and his head computed tomography (CT) scan were normal. A duplex ultrasound scan shows 70\u201389% stenosis in the left carotid artery and 50% in the right. In the course of evaluation, his aphasia recurred for 3 minutes. A brain magnetic resonance imaging (MRI) scan was negative for areas of ischemia or intracranial hemorrhage. His symptom recurrence prompted his hospital admission for inpatient care. What is the next step in management?",
+    "input": "Enoxaparin,Thrombolysis,Carotid endarterectomy,Carotid artery stenting",
+    "output": "Carotid endarterectomy"
+  },
+  {
+    "instruction": "A 52-years-old man presents with a history of recurrent episodes of unilateral headaches. He says the episodes are short-lived (usually lasting for a few seconds to 3-4 minutes), and he describes them as a severe throbbing orbital headache, accompanied by ipsilateral conjunctival injection and lacrimation. He says that often the episodes seem to be triggered by a cutaneous stimulus touching the face or while chewing food. Sometimes, he says he experiences countless attacks during a single day. The headaches do not respond to indomethacin and any other non-steroidal anti-inflammatory drug (NSAID). Which of the following drugs is most likely to be effective as a preventive therapy in this patient?",
+    "input": "Ibuprofen,Acetaminophen,Lamotrigine,Amitriptyline",
+    "output": "Lamotrigine"
+  },
+  {
+    "instruction": "A 21-year-old woman presents to her physician for a regular follow-up visit. She was diagnosed with relapsing-remitting multiple sclerosis 2 months ago when she suffered a second episode of optic neuritis. She was successfully treated with methylprednisolone pulse therapy and discharged. Today, she only complains of slight fatigue with upper and lower extremity weakness. Her blood pressure is 120/80 mm Hg, her heart rate is 63/min, her respiratory rate is 14/min, and her temperature is 36.7\u00b0C (98.0\u00b0F). Neurological examination reveals brisk deep reflexes (3+ equal) and decreased strength (4/4) in the upper limbs. The rest of the examination is unremarkable. The patient is prescribed a drug that is an inhibitor of \u02514-integrin (CD49d) for the prevention of relapses. She is concerned about the side effects of this drug, among which is increased susceptibility to the upper respiratory tract and urinary tract infections. Inhibition of which of the following processes is the best explanation for such adverse effects?",
+    "input": "Tight adhesion of leukocytes to the endothelial cells,Expression of selectins on the surface of endothelial cells,Formation of tight bounds between leukocytes and endothelial selectins,Inhibition of interaction between platelet endothelial cell adhesion molecules (PECAMs) on the surfaces of leukocytes and endothelial cells",
+    "output": "Tight adhesion of leukocytes to the endothelial cells"
+  },
+  {
+    "instruction": "A 23-year-old man comes to the physician because of severe daytime sleepiness and random episodes of falling asleep during the day for short periods of time. When he wakes up from these episodes, he feels refreshed. He sleeps 6\u20137 hours at night. He reports that sometimes he is unable to move for a few minutes when he first wakes up in the morning. Last week, he suddenly \u201clost control\u201d of his legs and neck for about 30 seconds after his classmate had told him a joke. An analysis of this patient's cerebral spinal fluid is most likely to show which of the following findings?",
+    "input": "Decreased orexin-A,Increased neuron-specific enolase,Increased 14-3-3 protein,Anti-ganglioside antibodies",
+    "output": "Decreased orexin-A"
+  },
+  {
+    "instruction": "A 50-year-old woman presents to her primary care physician for muscle weakness. Her symptoms have progressively worsened over the course of several months, where she has experienced difficulty getting up from a chair, climbing the stairs, and placing her groceries on the top shelves of her kitchen. She also reports feeling tired lately and is unsure when this began. Physical examination is notable for muscle weakness in the deltoids and hip flexors with 2+ biceps, triceps, patellar, and ankle tendon reflexes. Laboratory testing demonstrates a creatine kinase level of 4,200 U/L (normal is 10-70 U/L), lactate dehydrogenase level of 150 U/L (normal is 45-90 U/L), and thyroid-stimulating hormone level of 1.5 \u00b5U/mL (normal is 0.5-5.0 \u00b5U/mL). Which of the following is the best initial treatment for this patient?",
+    "input": "Azathioprine,Intravenous immunoglobulin,Prednisone,Thyroxine",
+    "output": "Prednisone"
+  },
+  {
+    "instruction": "A 12-year-old boy is brought to the physician for multiple bruises. He has fallen multiple times over the past 4 months and has difficulty walking without assistance. His speech is slow and difficult to understand. Neurological examination shows bilateral nystagmus, decreased muscle strength, 1+ reflexes bilaterally, and a wide-based gait with irregular and uneven steps. His proprioception and vibration senses are absent. The remainder of the examination shows kyphoscoliosis and foot inversion with hammer toes. This patient is most likely to die from which of the following complications?",
+    "input": "Renal cell carcinoma,Heart failure,Posterior fossa tumors,Aspiration pneumonia\n\"",
+    "output": "Heart failure"
+  },
+  {
+    "instruction": "A 20-month-old boy is brought to the physician for the evaluation of intellectual and behavioral abnormalities and abnormal movements of his extremities. His mother reports that he often hits his head and limbs against furniture. He is unable to walk without support and speaks in unclear 2-word phrases. Examination shows multiple bruises on the forehead and several healing wounds over the fingers. There is increased muscle tone in all extremities. Laboratory studies show an increased serum uric acid concentration. The serum concentration of which of the following substances is most likely to also be increased in this patient?",
+    "input": "Phenylalanine,Deoxyadenosine trisphosphate,Phosphoribosyl pyrophosphate,Cytosine monophosphate",
+    "output": "Phosphoribosyl pyrophosphate"
+  },
+  {
+    "instruction": "A 20-year-old woman presents following a seizure 2 hours ago. The patient's roommate describes seeing the patient suddenly 'freeze', collapse, and start having jerky movements involving her entire body. The patient says she can not recall the episode but does remember 'seeing stars' before losing consciousness. She remembers being confused about where she was soon after the seizure and had urinated in her clothes when she regained consciousness. A persistent headache has troubled her since the seizure for which she took acetaminophen before coming to the hospital. Her past medical history is unremarkable. She denies alcohol and drug use. The physician starts her on an antiepileptic drug that acts in the motor cortex by blocking repeated activation of voltage-gated sodium channels and is also used in status epilepticus. When this drug is used long-term, which of the following complications can develop?",
+    "input": "Drug dependence,Drug-induced SLE,Renal failure,Liver failure",
+    "output": "Drug-induced SLE"
+  },
+  {
+    "instruction": "A 28-year-old woman presents with a 3-year history of recurrent headaches. She says the episodes are typically triggered by hunger, mental stress, physical exertion, and lack of sleep, although many times the trigger is not known. She describes her headaches as unilateral, severe, throbbing, and aggravated by movement. The patient says that each episode usually lasts for 6\u201324 hours and is often accompanied by nausea, vomiting, and intolerance to light. Which of the following brain regions, if lesioned, would most likely result in no change in this patient\u2019s symptoms?",
+    "input": "Red nucleus,Locus coeruleus,Nucleus raphe magnus,Periaqueductal gray",
+    "output": "Red nucleus"
+  },
+  {
+    "instruction": "A 24-year-old woman comes to the physician because of intermittent episodes of stabbing facial pain for 4 months. The pain occurs over her left cheek, is 9 out of 10 in intensity, radiates towards her mouth, and lasts around half a minute before subsiding. These episodes commonly occur when she washes her face, brushes her teeth, or eats a meal. She does not have visual disturbances, weakness of her facial muscles, or hearing loss. She had a tooth extracted about 2 months ago, but the facial pain has persisted. She has hypothyroidism and vitiligo. Her mother has major depressive disorder. Current medications include levothyroxine and a herbal cream. She appears anxious. Vital signs are within normal limits. Cardiopulmonary examination shows no abnormalities. Neurologic examination shows no focal findings. Which of the following is the most appropriate next step in management?",
+    "input": "Microvascular decompression,Botulinum toxin injection,Radiofrequency rhizotomy,Carbamazepine",
+    "output": "Carbamazepine"
+  },
+  {
+    "instruction": "A 67-year-old man is brought to the emergency department after the sudden onset of dizziness, blurry vision, and a raspy voice. He has type 2 diabetes mellitus, hypercholesterolemia, coronary artery disease, and hypertension. He has smoked two packs of cigarettes daily for 30 years. He drinks three to four beers daily. His current medications include metformin, atenolol, lisinopril, furosemide, and aspirin. His temperature is 36.6\u00b0C (98\u00b0F), pulse is 85/min, respirations are 18/min, and blood pressure is 142/90 mm Hg. He is alert and oriented to person, place, and time. The pupil on the left is pinpoint. There is ptosis of the left eye. Horizontal nystagmus is present. The gag reflex is diminished. When he stands without support, he falls towards his left side. There is loss of pain and temperature sensation over the left face and right trunk and limbs. Occlusion of which of the following arteries is the most likely cause of this patient's symptoms?",
+    "input": "Right middle cerebral artery,Left posterior inferior cerebellar artery,Right internal carotid artery,Left posterior cerebral artery",
+    "output": "Left posterior inferior cerebellar artery"
+  },
+  {
+    "instruction": "A 72-year-old man presents with a recent episode of slurred speech and numbness in his left arm and left leg 2 hours ago that resolved completely within 45 minutes. He says he was having breakfast when he noticed that he had difficulty talking and the left side of his body was numb. The patient denies any past similar symptoms. Past medical history is significant for type 2 diabetes mellitus, hypertension, and ischemic heart disease. He had a coronary artery bypass graft 12 years ago and a percutaneous intervention 3 years ago. Current medications are aspirin, metformin, nitrates, and rosuvastatin. His vital signs include: blood pressure 143/97 mm Hg, pulse 80/min, oxygen saturation 98% on room air. On physical examination, the patient is alert and oriented. Higher mental functions are intact. Muscle strength is 5 out of 5l in both upper and lower limbs bilaterally. The sensation is intact. Cerebellar signs are absent and his gait is normal. Which of the following is the next best step in the management of this patient?",
+    "input": "Add clopidogrel and discharge the patient,Admit the patient for observation and workup,Discharge now and ask him to visit again when symptoms reoccur,Start antiepileptic drugs",
+    "output": "Admit the patient for observation and workup"
+  },
+  {
+    "instruction": "A 69-year-old woman presents to her primary care physician complaining of a new-onset, left-sided, throbbing headache that has lasted for several days. She reports that the pain is worsened by eating. Which of the following is a complication of this condition if not treated promptly?",
+    "input": "Skin nodules,Intestinal ischemia,Monocular blindness,Ischemic stroke",
+    "output": "Monocular blindness"
+  },
+  {
+    "instruction": "A 63-year-old man comes to the physician for the evaluation of difficulty walking for the last 6 months. He reports weakness in his lower legs that improves with exercise and throughout the day. Three months ago, he started adding flax seeds to his breakfast because he is frequently constipated. He has hypertension and type 2 diabetes mellitus. He has smoked 2 packs of cigarettes daily for the last 45 years. His current medications include enalapril and metformin. Vital signs are within normal limits. Examination shows dry mucous membranes. Muscle strength in the lower extremities is decreased. Sensation to pinprick and light touch is normal. Deep tendon reflexes are 1+ bilaterally. Active muscle contraction or repeated muscle tapping increases reflex activity. Which of the following is most likely to confirm the diagnosis?",
+    "input": "Demyelinating plaques on a brain MRI,Autoantibodies against voltage-gated calcium channels,Decremental response following repetitive nerve stimulation,Fasciculations and positive sharp waves on EMG",
+    "output": "Autoantibodies against voltage-gated calcium channels"
+  },
+  {
+    "instruction": "A 75-year-old male is brought to the emergency room by his daughter due to slurred speech and a drooping eyelid on the right side. This morning, he had difficulty eating his breakfast and immediately called his daughter for help. She says that his voice also seems different. His temperature is 99\u00b0F (37.2\u00b0C), blood pressure is 120/78 mmHg, pulse is 90/min, respirations are 21/min, and pulse oximetry is 98% on room air. On physical exam, he is oriented to time and place. There is right-sided nystagmus and he has difficulty with point-to-point movement. Where is the lesion responsible for his symptoms most likely located?",
+    "input": "Posterior inferior cerebellar artery,Anterior cerebral artery,Anterior inferior cerebellar artery,Basilar artery",
+    "output": "Posterior inferior cerebellar artery"
+  },
+  {
+    "instruction": "A 51-year-old woman presents with bilateral hand tremors. She has had these tremors for several years, and her symptoms have gradually worsened over time. The tremors are restricted to her hands and are most prominent when she is holding a cup of tea or a pen. The tremors get worse when she is under stress or exhausted, and they are starting to disrupt her work routine. She denies walking difficulties, speech problems, and weakness. Her past medical history is significant for a recent hospitalization for an asthma exacerbation. Current medications include salmeterol, medium-dose fluticasone, and a daily multivitamin. The patient denies smoking but drinks alcohol socially. The patient is afebrile and her vital signs are within normal limits. On physical examination, her hands have a noticeable tremor when in use and remain still while resting in her lap. Which of the following is the best course of treatment for this patient?",
+    "input": "Baclofen,Primidone,Propranolol,Sodium valproate",
+    "output": "Primidone"
+  },
+  {
+    "instruction": "A 35-year-old woman comes to the emergency department because of a 3-day history of pain in the left cheek. The pain occurs every few hours, lasts 30\u201360 seconds, and is aggravated by chewing and brushing. She has a history of pain with a vesicular rash in the right axillary area one year ago. She had an upper respiratory infection 2 weeks ago. Physical examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "input": "Cluster headache,Trigeminal neuralgia,Postherpetic neuralgia,Temporal arteritis",
+    "output": "Trigeminal neuralgia"
+  },
+  {
+    "instruction": "Six days after admission to the hospital for treatment of infective endocarditis, a 64-year-old woman develops persistent ringing in both ears, lightheadedness, and nausea. When she turns her head, she sees the light on the ceiling swinging from side to side. She has congestive heart disease, hypertension, and coronary artery disease. She was treated for a cerebrovascular accident 7 years ago and has no residual deficits. Current medications include intravenous vancomycin and gentamicin, as well as oral aspirin, atenolol, furosemide, and lisinopril. Her vital signs are within normal limits. Cardiac examination shows a grade 3/6 holosystolic murmur along the left lower sternal border. While the patient fixates on a target, administration of brisk, horizontal head rotations to both sides results in corrective saccades to refixate back to the target. She has an unsteady gait. Muscle strength and sensation are normal. Which of the following is the most likely cause of this patient's current symptoms?",
+    "input": "Decreased endolymph resorption,Suppurative labyrinthitis,Medication toxicity,Delirium",
+    "output": "Medication toxicity"
+  },
+  {
+    "instruction": "A 55-year-old right-handed woman is being evaluated for a long history of numbness and tingling in both of her hands, particularly in the third digits, that is worse at night. She works as a medical office assistant in a local travel medicine clinic. Her past medical history is significant for hypothyroidism, managed medically with thyroxine. Physical examination showed thenar eminence atrophy, decreased sensation in the 3 first digits of both hands that extends proximally, and weakness on thumb abduction and thumb opposition; deep tendon reflexes are normal. Phalen and Tinel tests are positive. Which of the following is the most inclusive list of spinal roots that contribute to the affected nerve in this patient?",
+    "input": "C4, C5,C6, C7, C8,C3, C4, C5,C5, C6, C7, C8, T1",
+    "output": "C5, C6, C7, C8, T1"
+  },
+  {
+    "instruction": "A 21-year-old man is brought to the emergency department by the police because of altered mental status. The police found him covering his ears and shouting near a highway rest area. Upon questioning, he was unable to look directly at the police and answer coherently. On the way to the hospital, he reported feeling nauseous and vomited twice. His temperature is 38.2\u00b0C (100.8\u00b0F), pulse is 100/min, respirations are 28/min, and blood pressure is 110/77 mm Hg. He is admitted to the hospital for evaluation. Three hours after admission, he has a tonic-clonic seizure. Laboratory studies show:\nSerum\nNa+ 140 mEq/L\nCl- 102 mEq/L\nArterial blood gas analysis on room air:\nOn admission Three hours later\npH 7.47 7.39\nPaCO2 24 mm Hg 31 mm Hg\nPO2 84 mm Hg 82 mm Hg\nHCO3- 20 mEq/L 18 mEq/L\nWhich of the following is the most likely explanation of the patient's laboratory findings?\"",
+    "input": "Salicylate toxicity,Diabetic ketoacidosis,Recurrent vomiting,Adrenal insufficiency",
+    "output": "Salicylate toxicity"
+  },
+  {
+    "instruction": "An investigator is studying central nervous system neurotransmitters in mice. He injects the spinal cord with a protease that cleaves SNARE proteins, thereby blocking the release of neurotransmitters from the Renshaw cells in the spinal cord. Which of the following consequences would be expected?",
+    "input": "Disinhibited behavior,Hydrophobia,Positive Kernig sign,Spastic paralysis",
+    "output": "Spastic paralysis"
+  },
+  {
+    "instruction": "A 25-year-old female presents to her geneticist due to the fear that she may have inherited her father's disease. He was diagnosed at the age of 41 when his symptoms of chorea, coordination problems, and cognitive decline begin to occur. He was diagnosed with a disease resulting from the expansion of CAG repeats on chromosome 4 and later developed severe dementia and died at the age of 56. The daughter was found to have double the amount of CAG repeats and was told by the geneticist that she may have an earlier onset with increased severity of disease. What phenomenon describes this?",
+    "input": "Variable expression,Incomplete penetrance,Anticipation,Heteroplasmy",
+    "output": "Anticipation"
+  },
+  {
+    "instruction": "A 26-year-old man presents with a 6-month history of headaches. Over the past 6 months, he has developed headaches that are 4/10 in intensity and occur every other day for 1\u20132 hours. The headaches are bilateral and feel like a \u2018band is squeezing his head\u2019. He denies photophobia, phonophobia, nausea, and vomiting. He has had no visual loss or photopsia. No significant past medical history. He is an avid weightlifter and works at a moving company, where he is constantly lifting heavy items. Additionally, he recently got his 21-year-old girlfriend and his other 23-year-old girlfriend pregnant, which he says is causing a lot of stress. Physical examination is unremarkable. Which of the following is the next best step in the management of this patient? ",
+    "input": "Amitriptyline,Magnetic resonance image (MRI) of the head,Ophthalmologic evaluation,Ibuprofen",
+    "output": "Ibuprofen"
+  },
+  {
+    "instruction": "A histologic section is obtained from the central canal of the spinal cord. A special stain is used to identify a specific glial cell that makes up the lining of the central canal and ventricles in the central nervous system. Which of the following best describes the primary function that the cells highlighted in blue serve?",
+    "input": "Production and circulation of CSF,Protective membrane surrounding spinal cord,Conduct voluntary muscle action potentials,Increasing action potential conduction velocity",
+    "output": "Production and circulation of CSF"
+  },
+  {
+    "instruction": "A 25-year-old woman presents to the physician with the complaint of several episodes of headache in the past 4 weeks that are affecting her school performance. The episodes are getting progressively worse, and over-the-counter headache and migraine medication do not seem to help. She also mentions having to raise her head each time to look at the board when taking notes; she cannot simply glance up with just her eyes while facing her notes. She has no significant past medical or family history and was otherwise well prior to this visit. Ophthalmic examination shows an upward gaze palsy, convergence-retraction nystagmus, and papilledema. What structure is most likely to be affected by this patient's condition?",
+    "input": "Third ventricle,Aqueduct of Sylvius,Tegmentum,Inferior colliculi",
+    "output": "Aqueduct of Sylvius"
+  },
+  {
+    "instruction": "A 27-year-old man comes to the emergency department for progressive weakness and numbness in his legs for 5 days. Symptoms originally started with tingling in both feet and have progressed to involve the knees and hips; he is currently unable to walk without assistance. Two weeks ago, the patient had diarrhea that subsided without antibiotics. Neurologic examination shows weakness, decreased sensation, and absent patellar reflexes in both lower extremities. Lumbar puncture shows elevated CSF protein and no white blood cells. Which of the following structures is most likely affected in this patient?",
+    "input": "Postsynaptic acetylcholine receptors,Muscle endomysium,Schwann cells,Cerebral white matter",
+    "output": "Schwann cells"
+  },
+  {
+    "instruction": "A 41-year-old woman presents to the emergency room with a 2-day history of flank pain, nausea, and vomiting. She denies any urinary frequency or urgency and denies any recent changes in her diet. Her temperature is 100.4\u00b0F (38\u00b0C), blood pressure is 152/96 mmHg, and pulse is 104/min. On physical exam, there is bilateral flank tenderness to palpation. In addition, neurologic testing reveals decreased strength in her left upper extremity and an inability to sustain lateral gaze with her right eye. An electrocardiogram reveals an irregularly irregular heart rhythm. Which of the following is associated with the most likely cause of this patient's symptoms?",
+    "input": "Drug allergy,Hereditary thrombophilia,Hypertension,Streptococcus infection",
+    "output": "Hereditary thrombophilia"
+  },
+  {
+    "instruction": "A 40-year-old woman presents to her primary care physician with complaints of worsening muscle aches and diffuse weakness over the past several months. She states that she now has difficulty climbing stairs and extending her neck. Ultimately, she became more concerned when she began having trouble swallowing and experienced shortness of breath last night which has resolved. Her temperature is 98.5\u00b0F (36.9\u00b0C), blood pressure is 120/84 mmHg, pulse is 70/min, respirations are 12/min, and oxygen saturation is 98% on room air. Physical exam is notable for 2/5 strength of the proximal muscles of the upper and lower extremities. Dermatologic, cardiac, and pulmonary exam are unremarkable. The patient is tolerating oral secretions and has no difficulty swallowing or protecting her airway currently. Laboratory studies are notable for an elevated CRP and aldolase. Which of the following is the most appropriate treatment for this patient?",
+    "input": "Intravenous immunoglobulin,Methotrexate,Naproxen,Prednisone",
+    "output": "Prednisone"
+  },
+  {
+    "instruction": "A 32-year-old man presents to his primary care provider with right leg weakness and numbness. He reports a 2-day history of \u201cclumsiness\u201d in his right lower extremity after playing in his company\u2019s annual weekend-long charity baseball tournament. He says a similar episode happened 1 year ago during the same tournament. He has a history of major depressive disorder and right distal radius fracture status post-closed reduction and casting after falling 2 years ago. He takes fluoxetine. He also reports that he several years ago he had an isolated episode of decreased vision and inability to move his right eye that resolved on its own. He has a 15-pack-year smoking history and drinks 3-4 beers per week. His temperature is 98.4\u00b0F (36.9\u00b0C), blood pressure is 115/65 mmHg, pulse is 85/min, and respirations are 18/min. On exam, hip flexion, knee extension, and ankle dorsiflexion are all 3/5 on his right and 5/5 on his left. Right Achilles and patellar reflexes are 1+ on the right and 2+ on the left. He has decreased sensation to light touch throughout the right leg especially below the knee. Additional questioning would most likely reveal which of the following additional features about this patient\u2019s current symptoms?",
+    "input": "Concomitant hyperreflexia,Symptom improvement in the heat,Symptom exacerbation in the heat,Symptom exacerbation with repetitive muscle contractions",
+    "output": "Symptom exacerbation in the heat"
+  },
+  {
+    "instruction": "A 28-year-old man comes to the emergency department because of an excruciating headache that started 30 minutes ago. The pain is located around the right eye and it awoke him from sleep. Over the past two weeks, he has had similar headaches around the same time of the day, and he reports pacing around restlessly during these episodes. Physical examination shows conjunctival injection and tearing of the right eye. In addition to supplemental oxygen therapy, administration of which of the following drugs is most likely to provide acute relief in this patient?",
+    "input": "Sumatriptan,Amitriptyline,Prednisone,Oxycodone",
+    "output": "Sumatriptan"
+  },
+  {
+    "instruction": "A 55-year-old woman visits her primary care provider for concerns of frequent headaches. She complains of recurrent headaches and involuntary weight loss, which she attributes to a constant pain along the right side of her jaw that occasionally radiates to her right eye. Her past medical history includes diabetes mellitus type 2 and chronic glomerulonephritis resulting in stage II chronic kidney disease. Her mother passed away in her 70s and had been diagnosed with multiple sclerosis at the age of 50. Today, her blood pressure is 135/90 mm Hg, heart rate is 88/min, respiratory rate is 15/min, and temperature is 36.6\u00b0C (97.9\u00b0F). The right side of her face is painful to palpation from her jaw to the right side of her scalp. Which of the symptoms below is most commonly associated with the patient\u2019s condition?",
+    "input": "Limb muscle weakness,Neck stiffness,Diplopia,Shock-like pain in face",
+    "output": "Neck stiffness"
+  },
+  {
+    "instruction": "A 25-year-old man presents to the ER after a street fight. His girlfriend reports that he was struck with a bat in the head. After the initial hit, she reported that he briefly lost consciousness but then was normal for several hours. Since then, he has been rapidly decompensating. He is grabbing his head in pain and his mental status is altered. Vital signs are stable. Neurological exam reveals that his right pupil is dilated and his right lid is drooping. If this patient's symptoms are allowed to progress without intervention, which of the following would be expected to occur?",
+    "input": "Right sided hemiparesis,Down and in gaze of the right pupil,Right sided homonymous hemianopsia.,Right eye with an inability to abduct",
+    "output": "Right sided hemiparesis"
+  },
+  {
+    "instruction": "A 32-year-old woman comes to the physician because of a throbbing left-sided headache that started 3 hours ago. Two hours ago, she took ibuprofen with no relief. She has been vomiting every 20 minutes since the start of the headache. She reports that she could not see very well for a few minutes this morning. A similar episode occurred last week. She is otherwise healthy and has recently started taking an oral contraceptive. Her vital signs are within normal limits. Physical examination shows no abnormalities except mild sensitivity to light. Visual acuity is 20/20. Which of the following is the most appropriate initial pharmacotherapy in this patient?",
+    "input": "Intranasal dihydroergotamine and subcutaneous sumatriptan,Oral tramadol,Intravenous prochlorperazine,Oral ketorolac and oral ergotamine\n\"",
+    "output": "Intravenous prochlorperazine"
+  },
+  {
+    "instruction": "A 28-year-old woman presents with a recent history of severe headaches. The patient states that the headaches came on gradually about 1 week ago and have steadily worsened. She describes the headaches as severe, diffuse, and frequently causing nausea and vomiting, especially in the mornings. Past medical history is significant for bacterial meningitis, approx. one month ago, that was successfully treated. Current medications are combined oral contraceptives and fluoxetine. A review of systems is significant for fatigue and daytime sleepiness. Family history is significant for her mother and aunt who suffer from migraines with aura. Her temperature is 37.0\u00b0C (98.6\u00b0F), the blood pressure is 110/70 mm Hg, the pulse is 70/min, the respiratory rate is 16/min, and the oxygen saturation is 99% on room air. The cardiac exam is normal. Lungs are clear to auscultation. The neurological exam is normal. The ophthalmic exam reveals the indistinct margins of the optic disc, bilaterally. Which of the following is the most likely cause of the headaches in this patient?",
+    "input": "Genetics,Hydrocephalus,Intracranial mass,Infection",
+    "output": "Hydrocephalus"
+  },
+  {
+    "instruction": "A 65-year-old man is brought to the emergency department with a complaint of right-sided numbness for 5 hours. The numbness started in the right-side of the face and has progressed to the same side arm and leg within 30 minutes. He denies limb weakness, walking difficulty, vision problem, or vertigo. He had similar symptoms 5 months ago that were resolved within 10 minutes. The past medical history includes type 2 diabetes mellitus, hypertension, dyslipidemia, and hyperuricemia. The medication list includes allopurinol, amlodipine, aspirin, glimepiride, lisinopril, and rosuvastatin. The blood pressure is 165/102 mm Hg, and the rest of the vital signs are within normal limits. On examination, there are no facial droop and slurring of the speech noted. The muscle strength is normal in all 4 limbs with a normal tone and deep tendon reflexes. There is a decreased pinprick sensation and proprioception on the right arm and leg. The gait is normal. The blood sugar is 221 mg/dL. The CT scan of the head is normal. The MRI of the head with diffusion-weighted imaging reveals a 15 mm diffusion restriction in the left thalamus. Which of the following is the most crucial in the development of this patient\u2019s condition?",
+    "input": "Emboli from deep leg veins with a patent foramen ovale,Leakage of blood from intracranial vessel due to uncontrolled hypertension,Lipohyalinosis of small penetrating arteries due to chronic hypertension,Significant stenosis of the left carotid artery",
+    "output": "Lipohyalinosis of small penetrating arteries due to chronic hypertension"
+  },
+  {
+    "instruction": "A 57-year-old woman comes to the emergency department 1 hour after experiencing a distressing 10-minute episode of stuttering during a business meeting. She has hypertension. She has smoked 2 packs of cigarettes daily for 30 years. Current medications include fosinopril and hydrochlorothiazide. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 90/min, respirations are 16/min, and blood pressure is 134/88 mm Hg. She is oriented to person, place, and time. Her speech is clear. When she is asked to hold both arms fully extended at shoulder level with palms upwards and eyes closed, her right palm turns inwards and downwards. Which of the following is the most likely cause of this patient's physical findings?",
+    "input": "Cerebellar lesion,Inferior frontal gyrus lesion,Upper motor neuron lesion,Thalamus lesion",
+    "output": "Upper motor neuron lesion"
+  },
+  {
+    "instruction": "A 56-year-old woman is brought to the emergency department by her husband 30 minutes after a generalized tonic-clonic seizure. Over the past 3 months, she has had recurrent headaches and worsening early-morning vomiting. She has no personal or family history of a seizure disorder. An MRI of the brain shows a central mass; surgical resection is planned. One day before the surgery, the patient has another generalized seizure and, despite resuscitative efforts, she dies. Gross examination of the brain at autopsy is shown. Which of the following was the most likely cause of this patient's symptoms?",
+    "input": "Oligodendroglioma,Glioblastoma,Schwannoma,Meningioma",
+    "output": "Glioblastoma"
+  },
+  {
+    "instruction": "A 53-year-old woman is brought to the emergency department for a 2-hour history of balance problems. She was gardening when she suddenly felt very dizzy and she quickly called for her husband. When he arrived, she was sitting on the ground, swaying back and forth but overall leaning to the right. When she tried to stand up they found she was very unsteady and unbalanced, so her husband carried her to the car. In the emergency department, while lying in bed, she complains of a room-spinning sensation; when she sits up, she sways to the right. She is unable to walk more than 3 steps without falling. Finger-nose-finger and heel-knee-shin testing are abnormal. She has a past medical history of hypertension, polycystic ovarian syndrome, and type 2 diabetes mellitus. All of her vital signs are all within normal limits. Angiography would most likely show a dissection in which of the following vessels?",
+    "input": "Anterior cerebral artery,Middle cerebral artery,Vertebral artery,Anterior spinal artery",
+    "output": "Vertebral artery"
+  },
+  {
+    "instruction": "A 55-year-old man with a history of diabetes and hypertension presents to the emergency department when he found half of his face paralyzed this morning. The patient was last seen normal the night before by his wife and woke up with these symptoms. He has a past medical history of diabetes and hypertension and is not currently taking any medications for these conditions. His temperature is 98.5\u00b0F (36.9\u00b0C), blood pressure is 177/118 mmHg, pulse is 90/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam is notable for an inability for the patient to move any part of his face on the right side. The rest of his neurological exam is within normal limits. Which of the following is the next best step in management for the most likely diagnosis?",
+    "input": "Elevation of the head of the bed and intubation,MRI of the head,Tissue plasminogen activator,Topical lubricants and discharge",
+    "output": "Topical lubricants and discharge"
+  },
+  {
+    "instruction": "A 7-year-old boy is brought to the physician because of decreased vision, hearing, and speaking over the past 3 months. During this time, he has also had difficulty walking, concentrating, drawing, and feeding himself. His maternal male cousin had similar complaints and died at the age of 5 years. Examination shows hyperpigmented skin and nails. His speech is dysarthric. Neurologic examination shows an ataxic gait, spasticity, and decreased muscle strength in all extremities. Fundoscopy shows optic atrophy. Which of the following is the most likely cause of this patient's symptoms?",
+    "input": "Deficiency of \u03b2-glucocerebrosidase,Dysfunction of ATP-binding cassette transporter,Deficiency of arylsulfatase A,Deficiency of lysosomal galactocerebrosidase",
+    "output": "Dysfunction of ATP-binding cassette transporter"
+  },
+  {
+    "instruction": "A 75-year-old man was brought in by his daughter since he was having increased incidences of forgetting things. His daughter said that he becomes increasingly frustrated searching for his glasses and keys most of the time. He was helped out a couple of times in the supermarket for forgetting the way out. He recently lost his driving license when he was spotted by the cops driving in the wrong direction on the interstate. Which of the following is the most likely pathology for this presentation?",
+    "input": "Prion infection,\u03b1-synuclein defect,Depigmented substantia nigra and locus cerulus,Abnormal cleavage of amyloid precursor protein",
+    "output": "Abnormal cleavage of amyloid precursor protein"
+  },
+  {
+    "instruction": "A 25-year-old male rugby player presents to the emergency room complaining of a severe headache. He is accompanied by his teammate who reports that he had a head-to-head collision with another player and briefly passed out before regaining consciousness. His past medical history is significant for a pilocytic astrocytoma as a child treated successfully with surgery. His family history is notable for stroke in his father. His temperature is 98.9\u00b0F (37.2\u00b0C), blood pressure is 160/90 mmHg, pulse is 60/min, and respirations are 20/min. On examination, he is lethargic but oriented to person, place, and time. The affected vessel in this patient directly branches from which of the following vessels?",
+    "input": "Maxillary artery,Internal carotid artery,Superficial temporal artery,Anterior cerebral artery",
+    "output": "Maxillary artery"
+  },
+  {
+    "instruction": "A 23-year-old man develops a seizure on the medical floor. He was admitted 2 days ago with high-grade fever and severe headache. At the time of admission, he had photophobia, neck rigidity, and the following vital signs: temperature 39.5\u00b0C (103.1\u00b0F), blood pressure 130/70 mm Hg, and heart rate 120/min. A cerebral spinal fluid analysis was ordered, and he was started on intravenous antibiotics. The patient\u2019s seizure terminates without any medication or intervention. An MRI is performed which reveals dilation of all the ventricles of the brain. Which of the following is the most likely cause of his abnormal radiologic findings?",
+    "input": "Blood clot in the foramen of 3rd ventricle,Aqueductal stenosis,Arachnoid granulation adhesions,Mega cisterna magna",
+    "output": "Arachnoid granulation adhesions"
+  },
+  {
+    "instruction": "A 67-year-old man comes to the physician because of a worsening tremor that began one year ago. The tremor affects his left hand and improves when he uses his hand to complete a task. He also reports feeling stiffer throughout the day, and he has fallen twice in the past year. He has not noticed any changes in his cognition or mood. He has not had difficulty sleeping, but his wife says that he would kick and punch while dreaming for almost a decade. He drinks two cans of beer daily. He takes no medications. He appears healthy and well nourished. His vital signs are within normal limits. He maintains a blank stare throughout the visit. Further evaluation is most likely to show which of the following?",
+    "input": "Reduced amplitude on foot tapping,Extensor plantar response,Choreiform movements,No abnormalities\n\"",
+    "output": "Reduced amplitude on foot tapping"
+  },
+  {
+    "instruction": "A 25-year-old male presents with progressively worsening headaches over the past two months. He also feels that he has been losing his balance more often over the past week, but he denies any motor weakness or sensory impairment. His neurological exam reveals impaired upward gaze, pupils that constrict poorly to light but react to accommodation, and bilateral upper eyelid retraction. On tandem walking, he tends to fall on both sides. The remainder of the physical examination is unremarkable. What is the most likely diagnosis in this patient?",
+    "input": "Multiple sclerosis,Pituitary mass,Pineal tumor,Craniopharyngioma",
+    "output": "Pineal tumor"
+  },
+  {
+    "instruction": "Four hours after undergoing an open emergency surgery under general anesthesia for a bleeding abdominal aortic aneurysm, a 55-year-old man is unable to move both his legs. During the surgery, he had prolonged hypotension, which was corrected with IV fluids and vasopressors. He has a history of hypertension and hyperlipidemia. He has smoked one pack of cigarettes daily for 35 years. Prior to admission, his medications were hydrochlorothiazide and atorvastatin. The patient is conscious and oriented to place and person. His temperature is 37.7\u00b0C (99\u00b0F), pulse is 74/min, and blood pressure is 100/70 mm Hg. Examination shows muscle strength of 1/5 in the lower extremities. Further evaluation of this patient is most likely to show which of the following?",
+    "input": "Babinski's sign present bilaterally,Normal bulbocavernosus reflex,Bilaterally increased knee and ankle jerk,Normal proprioception in the extremities\n\"",
+    "output": "Normal proprioception in the extremities\n\""
+  },
+  {
+    "instruction": "A 28-year-old man who was involved in a motorcycle accident presents to the nearest trauma center to get his wounds treated. After the initial evaluation and resuscitation by the emergency trauma team, a CT scan shows a skull base fracture. Which of the following clinical features can be seen as a long-term complication of posterior pituitary dysfunction?",
+    "input": "Erectile dysfunction,Decreased lean body mass,Polydipsia,Cold intolerance",
+    "output": "Polydipsia"
+  },
+  {
+    "instruction": "A 47-year-old woman comes to the physician because of a 3-month history of recurrent episodes of nausea and feeling like the room is spinning. Each episode lasts less than a minute and usually occurs when she gets out of bed in the morning or suddenly turns her head. She has not vomited and does not have headaches. She is asymptomatic between episodes. Which of the following findings most closely correlates with this patient's symptoms?",
+    "input": "Intention tremor,Nystagmus,Abnormal Rinne test,Orthostatic hypotension",
+    "output": "Nystagmus"
+  },
+  {
+    "instruction": "A 67-year-old man is brought to his primary care practitioner by his daughter who has noticed a \u2018pill-rolling\u2019 tremor in his right hand, along with a progressively slow, shuffling gait. The patient\u2019s daughter says that these symptoms gradually started 2 weeks ago and have progressively worsened. His past medical history is significant for hypertension, which is well-controlled with losartan. He does not take any other medications. Physical examination reveals a slow shuffling gait, difficulty initiating movements, a resting tremor in his right hand that decreases in intensity with voluntary movement, and cogwheel-like rigidity in the right arm. The primary care practitioner decides to prescribe levodopa and carbidopa. Which of the following statements would best explain the mechanism of action of these drugs?",
+    "input": "Inhibition of the enzyme monoamine oxidase (MAO) B,Blockade of muscarinic receptors,Inhibition of dopamine reuptake,Increased dopamine synthesis",
+    "output": "Increased dopamine synthesis"
+  },
+  {
+    "instruction": "A 79-year-old man with a long-standing history of hypertension and diabetes presents to the emergency department with sudden-onset of loss of motor function on the left side of his body. Neurologic exam shows normal sensation throughout the body. MRI of the brain is obtained and shows a small sub-cortical infarct involving a perforating vessel. Which of the following is the most likely underlying pathogenesis?",
+    "input": "Embolism originating from the left atrium,Berry aneurysm,Lipohyalinosis of small vessels,Fibromuscular dysplasia",
+    "output": "Lipohyalinosis of small vessels"
+  },
+  {
+    "instruction": "A 17-year-old girl is brought in a wheelchair because of gradually progressive difficulty in walking, incoordination, and frequent falls. Her symptoms started at 9 years old with clumsiness while walking. She later experienced difficulties with coordination, which later involved her arms and trunk. She was born at term with normal developmental milestones. The physical examination reveals severely ataxic gait, nystagmus, absent deep tendon reflexes, and loss of vibration and proprioception. Presuming it is an inherited condition, what is the most likely genetic pathophysiology of this disorder?",
+    "input": "GAA trinucleotide repeats,Mitochondrial DNA mutation,NOTCH3 mutation,PMP22 gene duplication",
+    "output": "GAA trinucleotide repeats"
+  },
+  {
+    "instruction": "An adopted 7-year-old boy is brought to a pediatrician with a history of progressive muscular weakness, intellectual impairment, and speech problems. The adoptive parents say that the patient was normal at birth, but as he grew older, his muscular weakness increased. Physical examination reveals the wasting of muscles of the dorsal forearm and the anterior compartment of the lower legs. Thenar and hypothenar eminences are also flattened. However, deep tendon reflexes are 2+ bilaterally. His face has an atypical appearance with thin cheeks and temporal wasting. When he was asked to make a tight fist and open his hands quickly, he could not open them immediately, and relaxation of the contracted muscles was very slow. The pediatrician suspects genetic muscular dystrophy. Which of the following is the trinucleotide repeat linked to this patient\u2019s most likely condition?",
+    "input": "CTG,CGG,GAA,CGT",
+    "output": "CTG"
+  },
+  {
+    "instruction": "A 73-year-old man is brought to the emergency department 30 minutes after the sudden onset of right-sided body weakness. His wife reports that he does not seem to understand simple questions. He has type 2 diabetes mellitus and has smoked 1 pack of cigarettes daily for 45 years. The patient speaks fluently, but he answers questions with nonsensical phrases and cannot repeat single words. Which of the following is the most likely diagnosis?",
+    "input": "Conduction aphasia,Global aphasia,Wernicke aphasia,Transcortical sensory aphasia",
+    "output": "Wernicke aphasia"
+  },
+  {
+    "instruction": "A previously healthy 16-year-old girl is brought to the physician by her parents because of behavior changes and involuntary limb movements over the past 2 days. She also has a 2-week history of fever, headache, and fatigue. Her temperature is 38\u00b0C (100.4\u00b0F), pulse is 110/min, respirations are 20/min, and blood pressure is 102/72 mm Hg. Mental status examination shows impaired speech and a disorganized thought process. Muscle strength is 5/5 in all extremities. Urine toxicology screening is negative. Cerebrospinal fluid analysis shows a leukocyte count of 70 cells/mm3 (90% lymphocytes) and a protein concentration of 51 mg/dL. Abdominal ultrasound shows a large right adnexal mass. The patient's symptoms are most likely caused by antibodies against which of the following?",
+    "input": "Purkinje cell Yo antigens,GM1 ganglioside,Neuronal Hu antigens,Glutamate receptors",
+    "output": "Glutamate receptors"
+  },
+  {
+    "instruction": "A 65-year-old man with chronic obstructive pulmonary disease is admitted to the hospital for the treatment of worsening shortness of breath and productive cough. Three days later, he complains of weakness in the lower limbs. His muscle strength is 4/5 at both hips but normal elsewhere. The drug that is most likely responsible for this patient's muscle weakness inhibits which of the following?",
+    "input": "Adenosine receptor,5-lipoxygenase,Myosin light-chain kinase,Nuclear factor-\u03baB",
+    "output": "Nuclear factor-\u03baB"
+  },
+  {
+    "instruction": "A 30-year-old woman comes to the physician because of numbness, fatigue, and blurry vision for 1 week. The symptoms are worse after a hot shower or bath. She had an episode of right arm weakness 2 years ago that resolved without intervention. She recently returned from a hiking trip in upstate New York. Her temperature is 37.1\u00b0C (100\u00b0F) and blood pressure is 100/66 mm Hg. Physical examination shows decreased sensation to light touch in the left hand, right thigh, and right flank. Strength is normal. There is left-sided photophobia and pupillary constriction in the left eye is decreased compared to the right eye. Which of the following best describes the pathogenesis of the disease process in this patient?",
+    "input": "Spirochete protein cross-reactivity in the meninges,Osmotically-mediated Schwann cell damage,Th1 cell-mediated nerve sheath damage,Lymphocytic infiltrate of the endoneurium",
+    "output": "Th1 cell-mediated nerve sheath damage"
+  },
+  {
+    "instruction": "A 73-year-old male is brought to his family practitioner by his daughter with the complaints of a spinning sensation for the past 4 weeks. He says that the room appears to be continuously spinning. This has progressively worsened over the last 4 weeks to the point that he has become bed bound and cannot walk without support. These spinning sensations are present throughout the day and do not change with position. They are associated with nausea and vomiting. He denies ear pain, ear discharge, ringing in the ear, hearing disturbances, ear fullness, head trauma, fever, or recent flu-like illness. He has a blood pressure of 133/80 mm Hg, heart rate of 80/min, respiratory rate of 12/min, and temperature of 36.7\u00b0C (98.2\u00b0F). His extraocular eye movements are normal in all directions, but a vertical nystagmus is present that does not disappear despite repetitive testing. Hearing tests are within normal limits. What is the most likely diagnosis?",
+    "input": "Acute labyrinthitis,Benign paroxysmal positional vertigo,Cerebellar tumor,Meniere's disease",
+    "output": "Cerebellar tumor"
+  },
+  {
+    "instruction": "A 27-year-old woman presents to a neurologist complaining of facial pain. She reports that over the past 6 months, she has developed intermittent burning unilateral facial pain that happens over 10 seconds to 3 minutes. The pain is severe enough to completely stop her from her activities. She is worried whenever she goes out that another attack will happen and she is sad that this has limited her ability to work as a lawyer. Her past medical history is notable for irritable bowel syndrome and polycystic ovarian syndrome. She takes an oral contraceptive pill. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 130/75 mmHg, pulse is 75/min, and respirations are 18/min. On exam, she is a well-appearing woman who is alert, oriented, and appropriately interactive. Her pupils are 2 mm and reactive to light bilaterally. Fundoscopic examination is unremarkable. Her strength and range of motion are full and symmetric in her upper and lower extremities. This patient\u2019s symptoms are likely due to irritation of a nerve that passes through which of the following foramina?",
+    "input": "Foramen rotundum,Inferior orbital fissure,Jugular foramen,Superior orbital fissure",
+    "output": "Foramen rotundum"
+  },
+  {
+    "instruction": "A 30-year-old woman comes to the physician because of headaches and nausea for the past 3 weeks. The headaches are holocranial and last up to several hours. During this period, she has also had a swishing sound in both ears, which decreases when she turns her head to either side. She has had multiple episodes of blurring of vision and double vision for the past 2 weeks. She has vomited twice in the past week. She has nodular cystic acne and polycystic ovarian disease. Current medications include an oral contraceptive, metformin, and isotretinoin. She is 163 cm (5 ft 4 in) tall and weighs 89 kg (196 lb); BMI is 33.5 kg/m2. Her temperature is 37.3\u00b0C (99.1\u00b0F), pulse is 70/min, and blood pressure is 128/82 mm Hg. She is oriented to time, place, and person. Examination shows acne over her cheeks and back. Hirsutism is present. Visual acuity is 20/20 in both eyes. There is esotropia of the left eye. Further evaluation of this patient is most likely to show which of the following findings?",
+    "input": "Hyperpigmentation of palmar creases,Bilateral optic disc swelling,Raised intra-ocular pressure,Weakness of left upper and lower extremities",
+    "output": "Bilateral optic disc swelling"
+  },
+  {
+    "instruction": "A 37-year-old man comes to the emergency department because of unsteady gait that started after waking up that morning. He has no fever, chills, headache, or myalgia. He works as a logger in Washington. His younger sister has multiple sclerosis. The patient appears pale. He is alert and responsive. His temperature is 37\u00b0C (98.9\u00b0F), pulse is 100/min, respirations are 11/min, and blood pressure is 136/86 mm Hg. Examinations shows intact cranial nerves. There is bilateral flaccid paralysis of his lower extremities. Lower extremity deep tendon reflexes are absent. The patient develops tachypnea and is admitted to the intensive care unit. Assisted breathing is started because of respiratory weakness. Which of the following is the most appropriate next step in management?",
+    "input": "Perform enzyme\u2011linked immunosorbent assay,Administer doxycycline,Administer botulism antitoxin,Locate and remove tick",
+    "output": "Locate and remove tick"
+  },
+  {
+    "instruction": "A 22-year-old man presents to the emergency room after an altercation with the police. The police were called because the man was acting erratically in public. On physical examination, the patient is disoriented, does not respond to questioning, and appears to be reacting to internal stimuli. Laboratory tests are performed, which are all within normal limits, including a toxicology screen. The patient becomes aggressive and is given a medication to address his acute psychotic episode. An hour later, he is found in a sustained rigid posture in his bed, with his eyes in a fixed upward gaze. Which of the following medications was most likely given to this patient?",
+    "input": "Citalopram,Haloperidol,Phenelzine,Alprazolam",
+    "output": "Haloperidol"
+  }
+]

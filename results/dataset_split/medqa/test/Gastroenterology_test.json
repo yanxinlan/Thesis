@@ -1,0 +1,417 @@
+[
+  {
+    "instruction": "A 59-year-old overweight woman presents to the urgent care clinic with the complaint of severe abdominal pain for the past 2 hours. She also complains of a dull pain in her back with nausea and vomiting several times. Her pain has no relation with food. Her past medical history is significant for recurrent abdominal pain due to cholelithiasis. Her father died at the age of 60 with some form of abdominal cancer. Her temperature is 37\u00b0C (98.6\u00b0F), respirations are 15/min, pulse is 67/min, and blood pressure is 122/98 mm Hg. Physical exam is unremarkable. However, a CT scan of the abdomen shows a calcified mass near her gallbladder. Which of the following diagnoses should be excluded first in this patient?",
+    "input": "Acute cholecystitis,Gallbladder cancer,Choledocholithiasis,Pancreatitis",
+    "output": "Gallbladder cancer"
+  },
+  {
+    "instruction": "A 42-year-old woman comes to the emergency department because of a 2-day history of right upper abdominal pain and nausea. She is 163 cm (5 ft 4 in) tall and weighs 91 kg (200 lb); her BMI is 34 kg/m2. Her temperature is 38.5\u00b0C (101.3\u00b0F). Physical examination shows a distended abdomen and right upper quadrant tenderness with normal bowel sounds. Laboratory studies show:\nLeukocyte count 14,000/mm3\nSerum\nTotal bilirubin 1.1 mg/dL\nAST 32 U/L\nALT 40 U/L\nAlkaline phosphatase 68 U/L\nAbdominal ultrasonography is performed, but the results are inconclusive. Cholescintigraphy shows the intrahepatic bile ducts, hepatic ducts, common bile duct, and proximal small bowel. Which of the following is the most likely cause of this patient's symptoms?\"",
+    "input": "Autodigestion of pancreatic parenchyma,Fistula between the gallbladder and small intestine,Infection with a hepatotropic virus,Obstruction of the cystic duct",
+    "output": "Obstruction of the cystic duct"
+  },
+  {
+    "instruction": "An otherwise healthy 50-year-old man comes to the physician because of a 6-month history of increasingly frequent episodes of upper abdominal pain, nausea, vomiting, and diarrhea. He has had a 3.2-kg (7-lb) weight loss during this time. Physical examination shows bilateral pitting pedal edema. An endoscopy shows prominent rugae in the gastric fundus. Biopsy shows parietal cell atrophy. Which of the following is the most likely underlying cause?",
+    "input": "Serotonin-secreting gastric tumor,Proliferation of gastric mucus-producing cells,Excessive somatostatin secretion,Ectopic secretion of gastrin",
+    "output": "Proliferation of gastric mucus-producing cells"
+  },
+  {
+    "instruction": "A 65-year-old man comes to the physician because of a 1-week history of yellowish discoloration of his skin and generalized pruritus. Examination shows jaundice of the skin and scleral icterus. Urinalysis shows an elevated concentration of bilirubin and a low concentration of urobilinogen. Which of the following is the most likely underlying cause of these findings?",
+    "input": "Absent UDP-glucuronosyltransferase activity,Increased hemoglobin breakdown,Increased intestinal bilirubin reabsorption,Defective hepatic bile excretion",
+    "output": "Defective hepatic bile excretion"
+  },
+  {
+    "instruction": "A 72-year-old woman is brought to the physician by her daughter because of a 6-month history of worsening short-term memory deficits and social withdrawal. Treatment with galantamine is initiated. Two weeks later, the patient develops vomiting, mild crampy abdominal pain, and watery, nonbloody diarrhea. Which of the following is the most appropriate pharmacotherapy?",
+    "input": "Bethanechol,Metoclopramide,Atropine,Oxybutynin",
+    "output": "Atropine"
+  },
+  {
+    "instruction": "A 57-year-old female with a past medical history of alcoholism presents to the emergency room vomiting bright red blood. She is accompanied by her partner, who reports that she had been complaining of black and tarry stools for the past several days. Vital signs are temperature 37 degrees celsius, heart rate 141 beats per minute, blood pressure 90/60, respiratory rate 20, and oxygen saturation 99% on room air. On physical examination, she has splenomegaly and a positive fluid wave. The remainder of her examination is within normal limits. The patient is stabilized with intravenous fluids, and her blood pressure improves. Subsequent emergent upper endoscopy reveals bleeding from the submucosal veins in the lower 1/3 of the esophagus, but no gastric bleed. In the endoscopy suite she also receives IV octreotide. After intervention and resolution of her acute bleed, which of the following pharmacologic agents is indicated?",
+    "input": "Phentolamine,Prazosin,Nifedipine,Nadalol",
+    "output": "Nadalol"
+  },
+  {
+    "instruction": "A 66-year-old man is brought to the emergency room by his wife due to abdominal distension and persistent somnolence for the past 2 weeks. The patient\u2019s wife says that he has been sleeping much more than usual for the past 5 days. His bowel and bladder habit have not changed. His past medical history is significant for alcoholic liver cirrhosis. His vital signs include: pulse 76/min, respiratory rate 15/min, temperature 38.0\u00b0C (100.4\u00b0F) and blood pressure 122/75 mm Hg. On physical examination, the patient is altered and not responsive to commands. Oriented x 0. The abdomen is significantly distended. Shifting dullness is present and a positive fluid wave can be elicited. Hyperreflexia and asterixis are noted. Laboratory findings are significant for the following:\nLaboratory test\nSodium 140 mEq/L\nPotassium 3.5 mEq/L\nChloride 97 mEq/L\nGlucose 90 mg/dL\nAmmonia 100 \u00b5g/dL (ref: 19-60 \u00b5g/dL)\nArterial blood gas\npH 7.4\npCO2 40 mm Hg\npO2 90 mm Hg\nHCO3 26 mEq/L\nAn abdominal ultrasound shows surface nodularity compatible with cirrhosis but no other changes aside from ascites. An upper GI endoscopy is performed which shows gastric varices with no signs of active bleeding. An MRI of the brain is insignificant. What is the most likely precipitating factor that led to this patient\u2019s condition?",
+    "input": "Spontaneous bacterial peritonitis,Metabolic alkalosis,Portal vein thrombosis,Hypoglycemia",
+    "output": "Spontaneous bacterial peritonitis"
+  },
+  {
+    "instruction": "A 28-year-old man comes to the physician because of diarrhea and crampy abdominal pain for 5 weeks. He has had up to 4 bowel movements per day. Several times he noticed mucoid strings with the stool. He has abdominal bloating. Over the past month, has had a 3.2-kg (7-lb) weight loss. He has not had fever, cough, or bloody stools. He had a painful rash on his lower extremity 3 weeks ago that resolved spontaneously. He works as a pharmacy technician. His temperature is 37.3\u00b0C (98.8\u00b0F), pulse is 85/min, and blood pressure is 115/77 mm Hg. The abdomen is soft and nontender. His hemoglobin concentration is 11.9 g/dL, MCV is 79 fL, ferritin is 106 ng/dL, and platelet count is 410,000/mm3; serum concentrations of glucose, creatinine, and electrolytes are within the reference range. This patient's condition is most likely associated with which of the following findings?",
+    "input": "Increased serum VIP,Stool leukocytes,Melanosis coli,Normal intestinal mucosa",
+    "output": "Stool leukocytes"
+  },
+  {
+    "instruction": "A 51-year-old man is brought to the emergency department because of a 2-day history of fever, abdominal pain, and confusion. His wife states that he has been unable to recall his birthday or her name. He was diagnosed with hepatitis C 3 years ago but refused treatment. He has been treated twice in the past year for acute pancreatitis. There is no family history of serious illness. His only medication is a calcium supplement. He emigrated from India 15 years ago. He appears ill. His temperature is 38.3\u00b0C (100.9\u00b0F), pulse is 101/min, and blood pressure is 104/68 mm Hg. He is confused and oriented only to person. Examination shows scleral icterus and spider angiomas. There are fine tremors of the hands bilaterally. The abdomen is distended and shifting dullness is present. There is diffuse tenderness to palpation with no guarding. Bowel sounds are absent. Laboratory studies show:\nHemoglobin 12.6 g/dL\nLeukocyte count 13,900/mm3\nPlatelet count 342,000/mm3\nSerum\nAlbumin 2.6 g/dL\nTotal bilirubin 2.56 mg/dL\nAlkaline phosphatase 54 U/L\nAST 17 U/L\nALT 44 U/L\nParacentesis is performed. Ascitic fluid analysis shows an albumin concentration of 0.8 g/dL, glucose concentration of 62 mg/dL, and a leukocyte count of 1900/mm3 with 60% neutrophils. Which of the following is the most likely explanation for these findings?\"",
+    "input": "Aseptic peritoneal inflammation,Neoplastic growth,Bacterial translocation,Perforated viscus",
+    "output": "Bacterial translocation"
+  },
+  {
+    "instruction": "A 43-year-old woman presents with complaints of retrosternal burning associated with eating. It has persisted for the past several years but has been getting worse. Her past medical history is unknown and this is her first time seeing a doctor. She states she is otherwise healthy and review of systems is notable for episodic hand pain that is worse in the winter as well as a chronic and severe cough with dyspnea which she attributes to her smoking. Her temperature is 97.7\u00b0F (36.5\u00b0C), blood pressure is 174/104 mmHg, pulse is 80/min, respirations are 22/min, and oxygen saturation is 92% on room air. Physical exam is notable for a young appearing woman with coarse breath sounds. Laboratory studies and urinalysis are ordered and currently pending. Which of the following is the pathophysiology of this patient's chief complaint?",
+    "input": "Decreased lower esophageal tone,Esophageal fibrosis,Increased lower esophageal tone,Spastic cricopharyngeal muscle",
+    "output": "Esophageal fibrosis"
+  },
+  {
+    "instruction": "A 66-year-old man presents to the emergency department with abdominal pain, nausea, and vomiting. He endorses diffuse abdominal tenderness. His past medical history is notable for diabetic nephropathy, hypertension, dyslipidemia, depression, and morbid obesity. He also is currently being treated for an outbreak of genital herpes. His temperature is 99.0\u00b0F (37.2\u00b0C), blood pressure is 184/102 mmHg, pulse is 89/min, respirations are 18/min, and oxygen saturation is 98% on room air. Physical exam is notable for an obese man in no acute distress. A CT scan of the abdomen with contrast is performed and is unremarkable. The patient is admitted to the observation unit for monitoring of his pain. Notably, the patient's abdominal pain improves after an enema and multiple bowel movements. The patient's evening laboratory values are ordered and return as seen below.\n\nSerum:\nNa+: 141 mEq/L\nCl-: 99 mEq/L\nK+: 4.8 mEq/L\nHCO3-: 11 mEq/L\nBUN: 20 mg/dL\nGlucose: 177 mg/dL\nCreatinine: 3.1 mg/dL\n\nWhich of the following is the most likely etiology of this patient's laboratory derangements?",
+    "input": "Acyclovir,Atorvastatin,Metformin,Metoprolol",
+    "output": "Metformin"
+  },
+  {
+    "instruction": "A 68-year-old woman presents with left lower quadrant pain that worsens with defecation. She describes the pain as 'crampy'. She also says she has suffered from mild constipation for the past few years. The patient denies any recent weight change or urinary symptoms. Her last menstrual period was 16 years ago. Her body temperature is 37.8\u00b0C (100.0\u00b0F), pulse is 102/min, respiratory rate is 16/min, and blood pressure is 133/87 mm Hg. On physical examination, tenderness to palpation in the left lower quadrant is present. The laboratory studies are presented as follows:\nHemoglobin 13.2 mg/dL\nHematocrit 48%\nLeukocyte count 16,000/mm\u00b3\nNeutrophils 89%\nBands 5%\nEosinophils 0%\nBasophils 0%\nLymphocytes 11%\nMonocytes 0%\nPlatelet count 380,000/mm\u00b3\nWhich of the following is the most likely diagnosis in this patient?",
+    "input": "Diverticulitis,Hypothyroidism,Adenocarcinoma of the colon,Irritable bowel syndrome",
+    "output": "Diverticulitis"
+  },
+  {
+    "instruction": "A 41-year-old man comes to the emergency department with nausea, abdominal discomfort, and diarrhea for the past 2 days. His abdominal discomfort is worse shortly after meals. He has also had progressive perioral numbness and upper-extremity muscle cramping for the past 24 hours. Six months ago, he underwent a Roux-en-Y gastric bypass to treat obesity. He underwent a total thyroidectomy to treat a Hurthle cell lesion 4 days ago. His mother died of lung cancer at age 68. He has smoked 1 pack of cigarettes daily for 22 years. His only current medication is a multivitamin supplement. He appears fatigued. His temperature is 36\u00b0C (96.8\u00b0F), pulse is 72/min, respirations are 20/min, and blood pressure is 130/70 mm Hg. While measuring the patient's blood pressure, the nurse observes spasm of the patient's hand. Physical examination shows a well-healing surgical wound on the neck. The abdomen is mildly tender to palpation with well-healed laparoscopic incisional sites. The remainder of the examination shows no abnormalities. Serum studies show:\nNa+ 138 mEq/L\nK+ 4.2 mEq/L\nCl- 102 mEq/L\nHCO3- 25 mEq/L\nMg2+ 1.7 mEq/L\nPhosphorus 4.3 mg/dL\n25-hydroxyvitamin D 20 ng/mL (N: 20-100 ng/mL)\nParathyroid hormone 115 pg/mL\nTotal bilirubin, serum 0.7 mg/dL\nAlanine aminotransferase, serum 14 U/L\nAspartate aminotransferase, serum 15 U/L\nAlkaline phosphatase, serum 42 U/L\nWhich of the following is the most appropriate initial step in the management of this patient?\"",
+    "input": "Obtain abdominal CT,Begin rehydration therapy,Administer calcium gluconate,Supplementation with vitamin D",
+    "output": "Administer calcium gluconate"
+  },
+  {
+    "instruction": "A 41-year-old man presents to his primary care provider with abdominal pain. He says that the pain \u201ccomes and goes\u201d throughout the day and usually lasts 20-30 minutes per episode. He can point to the spot 1-2 inches above the umbilicus where he feels the pain. He denies any feeling of regurgitation or nighttime cough but endorses nausea. He reports that he used to eat three large meals per day but has found that eating more frequently improves his pain. He tried a couple pills of ibuprofen with food over the past couple days and thinks it helped. He has gained four pounds since his past appointment three months ago. The patient denies any diarrhea or change in his stools. He has no past medical history. He drinks 5-6 beers on the weekend and has a 20 pack-year smoking history. He denies any family history of cancer. On physical exam, he is tender to palpation above the umbilicus. Bowel sounds are present. A stool guaiac test is positive. The patient undergoes endoscopy with biopsy to diagnose his condition.\n\nWhich of the following is most likely to be found on histology?",
+    "input": "Mucosal defect in the stomach,Urease-producing organism in the small intestine,PAS-positive material in the small intestine,Crypt abscesses in the large intestine",
+    "output": "Urease-producing organism in the small intestine"
+  },
+  {
+    "instruction": "A 30-year-old male presents to the emergency department with a complaint of abdominal pain. The patient states he was at a barbecue around noon. Lunch was arranged as a buffet without refrigeration. Within 2 to 3 hours, he had abdominal pain with 3 episodes of watery diarrhea. On exam, vital signs are T 99.1, HR 103, BP 110/55, RR 14. Abdominal exam is significant for pain to deep palpation without any rebounding or guarding. There is no blood on fecal occult testing (FOBT). What is the most likely cause of this patient's presentation?",
+    "input": "Salmonella enteritidis,Listeria monocytogenes,Staphylococcus aureus,Vibrio cholerae",
+    "output": "Staphylococcus aureus"
+  },
+  {
+    "instruction": "A 57-year-old man comes to the physician because of a 3-week history of abdominal bloating and increased frequency of stools. He describes the stools as bulky, foul-smelling, and difficult to flush. He also has a 4-month history of recurrent dull upper abdominal pain that usually lasts for a few days, worsens after meals, and is not relieved with antacids. He has had a 10-kg (22-lb) weight loss in the past 4 months. He has no personal or family history of serious illness. He has smoked 1 pack of cigarettes daily for 37 years. He has a 12-year history of drinking 6 to 8 beers daily. He is 160 cm (5 ft 3 in) tall and weighs 52 kg (115 lb); BMI is 20 kg/m2. His vital signs are within normal limits. Abdominal examination shows mild epigastric tenderness without rebound or guarding. Bowel sounds are normal. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "input": "Abdominal CT scan,Endoscopic ultrasonography,Abdominal ultrasound,Upper gastrointestinal endoscopy",
+    "output": "Abdominal CT scan"
+  },
+  {
+    "instruction": "A 30-year-old man presents to his primary care physician with complaints of excessive fatigue and weakness for the last several weeks. He also complains of abdominal pain and constipation for the same duration. On further questioning, he reports that he has lost 8 pounds in the last 2 weeks. Past medical history and family history are insignificant. His temperature is 37.3\u00b0 C (99.2\u00b0 F), respirations are 21/min, pulse is 63/min, and blood pressure is 99/70 mm Hg. On physical examination, he is a tired-appearing, thin male. He has a bronze discoloration to his skin, but he denies being outside in the sun or any history of laying in tanning beds. What is the next best step in the management of this patient?",
+    "input": "Administer intravenous fludrocortisone,Start him on androgen replacement treatment,Start him on both hydrocortisone and fludrocortisone therapy,Order an ACTH stimulation test",
+    "output": "Start him on both hydrocortisone and fludrocortisone therapy"
+  },
+  {
+    "instruction": "A 48-year-old homeless male is brought to the emergency department, by the police, for altered mental status. Past medical records are unavailable. A physical exam on admission reveals scleral icterus and a flapping tremor of the wrists during extension. The patient is admitted to the hospital and his treatment is started after appropriate investigation. The next morning on rounds, he complains of eleven episodes of diarrhea and near-constant flatulence overnight. His mental status has improved and his hand tremor has resolved. Which of the following medications did this patient most likely receive after admission?",
+    "input": "Thiamine,Lactulose,Naloxone,Rifaximin",
+    "output": "Lactulose"
+  },
+  {
+    "instruction": "A 61-year-old man presents to his primary care provider complaining of abdominal pain and constipation. He reports a 4-day history of steady right lower quadrant pain. He has had one small bowel movement in 4 days. Normally he has a bowel movement once a day. His medical history is notable for poorly controlled hypertension and hyperlipidemia. He takes enalapril, hydrochlorothiazide, aspirin, and atorvastatin. He has a 40 pack-year smoking history and drinks 3-4 beers per day. His diet consists primarily of fast food. His temperature is 101.8\u00b0F (38.8\u00b0C), blood pressure is 160/95 mmHg, pulse is 90/min, and respirations are 16/min. A review of the patient\u2019s medical record reveals colonoscopy results from 1 year ago. Relevant findings included multiple small, pedunculated polyps which were removed, multiple colonic mucosal outpouchings, and no other masses. This patient\u2019s condition is most strongly associated with which of the following disorders?",
+    "input": "Alpha-1-antitrypsin deficiency,Autosomal recessive polycystic kidney disorder,Ehlers-Danlos syndrome,Goodpasture syndrome",
+    "output": "Ehlers-Danlos syndrome"
+  },
+  {
+    "instruction": "A 53-year-old man comes to the physician because of a 2-month history of multiple episodes of small amounts of blood in his stools. Examination shows pale conjunctivae. His hemoglobin concentration is 8.3 g/dL and mean corpuscular volume is 72\u03bcm3. Colonoscopy shows a 2.3-cm polypoid mass in the ascending colon. A photomicrograph of a biopsy specimen of the lesion is shown. Which of the following processes is most likely to be involved in the pathogenesis of this patient's condition?",
+    "input": "Underexpression of COX-2,Increased phosphorylation of serine and threonine,Impaired degradation of \u03b2-catenin,Abnormal transfer of phosphate to cellular proteins",
+    "output": "Impaired degradation of \u03b2-catenin"
+  },
+  {
+    "instruction": "A 21-year-old woman presents to the emergency room with right arm pain and limited range of motion. She does not recall trauma to the arm. She also complains of diarrhea and nausea. She is sexually active with one male partner and admits to having pain during intercourse. There is vague and diffuse tenderness to palpation in all four abdominal quadrants. No erythema or edema is noted on the right arm. The fecal occult test is negative. Past records show that this patient has been in the ER 7 times in the past year with similar symptoms. Which of the following is the most likely diagnosis?",
+    "input": "Ulcerative colitis,Illness anxiety disorder,Somatization disorder,Somatoform pain disorder",
+    "output": "Somatization disorder"
+  },
+  {
+    "instruction": "A 32-year-old woman comes to the emergency department because a 5-week history of abdominal pain and bloody diarrhea that has worsened in the past 24 hours. She was diagnosed with ulcerative colitis 1 year ago but has had difficulty complying with her drug regimen. Her temperature is 38.2\u00b0C (100.8\u00b0F), pulse is 120/min, and blood pressure is 92/56 mm Hg. Examination shows a distended, rigid abdomen and hypoactive bowel sounds. Fluid resuscitation is initiated. In addition to complete bowel rest, which of the following is the most appropriate next step in management of this patient?",
+    "input": "Abdominal CT scan with contrast,CT angiography,Abdominal x-ray,Colonoscopy",
+    "output": "Abdominal x-ray"
+  },
+  {
+    "instruction": "A 55-year-old man is brought to the emergency department with altered mental status. The patient is in acute distress and cannot provide history due to disorientation. Temperature is 38.7\u00b0C (101.6\u00b0F), blood pressure is 80/50 mm Hg, pulse is 103/min, respiratory rate is 22/min, and BMI is 20 kg/m2. On examination, his sclera and skin are icteric. On abdominal examination, the patient moans with deep palpation to his right upper quadrant.\nLaboratory test\nComplete blood count\nHemoglobin 14.5 g/dL\nMCV 88 fl\nLeukocytes 16,500/mm3\nPlatelets 170,000/mm3\nBasic metabolic panel\nSerum Na+ 147 mEq/L\nSerum K+ 3.8 mEq/L\nSerum Cl- 106 mEq/L\nSerum HCO3- 25 mEq/L\nBUN 30 mg/dL\nSerum creatinine 1.2 mg/dL\nLiver function test\nTotal bilirubin 2.8 mg/dL\nAST 50 U/L\nALT 65 U/L\nALP 180 U/L\nThe patient is treated urgently with intravenous fluid, dopamine, and broad spectrum antibiotics. The patient\u2019s blood pressure improves to 101/70 mm Hg. On ultrasound of the abdomen, the common bile duct is dilated. What is the best next step in the management of this patient?",
+    "input": "ERCP,MRCP,Percutaneous transhepatic cholangiogram,CT abdomen",
+    "output": "ERCP"
+  },
+  {
+    "instruction": "A 35-year-old man returns to the clinic to follow up for his chronic stomach pain. At the last visit a few months ago, he explained that he had been experiencing discomfort in his upper abdomen for awhile. He had never vomited up any blood and had not had any substantial weight loss. He did not take any medications, did not smoke, and had no family history of gastric cancer. At that time, the doctor empirically started him on a proton pump inhibitor (PPI). Today, despite the PPI, the patient says he is still experiencing discomfort. Hearing this, the doctor decides to order a urease breath test. What is the most likely cause of this patient's chronic stomach pain?",
+    "input": "Gastroesophgeal sphincter dysfunction,Nonsteroidal anti-inflammatory drugs,Heliobacter pylori infection,Excessive gastrin",
+    "output": "Heliobacter pylori infection"
+  },
+  {
+    "instruction": "A 26-year-old man presents to his physician with a history of diarrhea and vomiting for the past 24 hours. On physical examination, his temperature is 36.9\u00baC (98.4\u00baF), pulse rate is 110/min, blood pressure is 102/74 mm Hg, and respiratory rate is 16/min. A resident working under the physician plots a Darrow-Yannet diagram for the patient. The diagram is shown in the picture where the green dotted line represents the new fluid status. Which of the following is most likely to show increased secretion in this patient?",
+    "input": "B-type natriuretic peptide,Bradykinin,Renin,Vasoactive intestinal peptide",
+    "output": "Renin"
+  },
+  {
+    "instruction": "A 36-year-old man is brought to the emergency department because of multiple episodes of nonbilious emesis for 3 days. The vomitus consists of undigested food and he has also had dark brown emesis twice today. He has been having early satiety during this period. He has had progressive severe episodic epigastric pain and dyspepsia for the past week. The pain is partially relieved with food or over-the-counter antacids, but worsens at night and several hours after eating. He has also had a weight gain of 2 kg (4.4 lbs) during this period. His father underwent surgery for colon cancer 3 years ago. He has smoked one pack of cigarettes daily for the last 15 years. He drinks two to three beers daily. His temperature is 37.1\u00b0C (98.8\u00b0F), pulse is 106/min and blood pressure is 108/68 mm Hg. Examination shows dry mucous membranes. The abdomen is mildly tender to palpation in the left upper quadrant; there is a tympanitic mass in the epigastrium. A succussion splash is heard with a stethoscope when the patient is rocked back and forth at the hips. Bowel sounds are reduced. Rectal examination is unremarkable. Test of the stool for occult blood is positive. The remainder of the examination shows no abnormalities. Serum studies show:\nNa+ 135 mEq/L\nK+ 3.3 mEq/L\nCl- 97 mEq/L\nUrea nitrogen 46 mg/dL\nGlucose 77 mg/dL\nCreatinine 1.4 mg/dL\nWhich of the following is the underlying cause of this patient's vomiting?\"",
+    "input": "Inflammation and edema,Abnormal gastric rotation,Neoplastic growth,Walled-off pancreatic fluid collection",
+    "output": "Inflammation and edema"
+  },
+  {
+    "instruction": "A 42-year-old man comes to the physician after elevated liver function tests were found after a routine screening. He has had occasional headaches over the past year, but otherwise feels well. The patient reports that he was involved in a severe car accident 30 years ago. He does not smoke or drink alcohol. He has never used illicit intravenous drugs. He takes no medications and has no known allergies. His father had a history of alcoholism and died of liver cancer. The patient appears thin. His temperature is 37.8\u00b0C (100\u00b0F), pulse is 100/min, and blood pressure is 110/70 mm Hg. Physical examination shows no abnormalities. Laboratory studies show:\nHemoglobin 14 g/dL\nLeukocyte count 10,000/mm3\nPlatelet count 146,000/mm3\nSerum\nGlucose 150 mg/dL\nAlbumin 3.2 g/dL\nTotal bilirubin 1.5 mg/dL\nAlkaline phosphatase 75 U/L\nAST 95 U/L\nALT 73 U/L\nHIV negative\nHepatitis B surface antigen negative\nHepatitis C antibody positive\nHCV RNA positive\nHCV genotype 1\nA liver biopsy is performed and shows mononuclear infiltrates that are limited to portal tracts and periportal hepatocyte necrosis. Which of the following is the most appropriate next step in management?\"",
+    "input": "Sofosbuvir and ledipasvir therapy,Tenofovir and velpatasvir therapy,Interferon and ribavirin therapy,Tenofovir and entecavir therapy",
+    "output": "Sofosbuvir and ledipasvir therapy"
+  },
+  {
+    "instruction": "A 27-year-old woman presents to the emergency department with acute onset bloody diarrhea. The patient has had severe abdominal pain throughout her entire life with occasional episodes of bloody diarrhea. She has recently lost 7 pounds and has felt generally ill for the past 2 days. She has a past medical history of generalized seizures with her most recent one having occurred 5 days ago. One month ago, the patient was treated for impetigo. The patient admits to occasional cocaine use and binge drinking. Her temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 107/58 mmHg, pulse is 127/min, respirations are 16/min, and oxygen saturation is 99% on room air. Physical exam is notable for diffuse abdominal tenderness and guaiac positive stools. Laboratory values are ordered as seen below.\n\nHemoglobin: 9 g/dL\nHematocrit: 30%\nLeukocyte count: 9,400/mm^3 with normal differential\nPlatelet count: 199,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 101 mEq/L\nK+: 4.9 mEq/L\nHCO3-: 25 mEq/L\nBUN: 37 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.8 mg/dL\nAST: 62 U/L\nALT: 80 U/L\nBlood alcohol: .15 g/dL\n\nUrine:\nColor: Yellow\nProtein: Positive\nCocaine: Positive\nMarijuana: Positive\n\nWhich of the following is the best explanation for this patient's laboratory findings?",
+    "input": "Alcohol-induced liver injury,Immune response to streptococcal infection,Intestinal IgA deficiency,Protein deposition",
+    "output": "Protein deposition"
+  },
+  {
+    "instruction": "A 45-year-old Caucasian male presents to a gastroenterologist complaining of heartburn and difficulty swallowing. He recalls that he has been told by his primary care physician that he suffers from gastroesophageal reflux disease (GERD). The gastroenterologist decides to perform an upper endoscopy with biopsy. Which of the following findings would be consistent with Barrett's esophagus?",
+    "input": "Presence of Paneth cells in the lower esophagus,Metaplasia in the upper esophagus,A small region of red, velvet-like mucosa in the lower esophagus,Esophageal varices",
+    "output": "A small region of red, velvet-like mucosa in the lower esophagus"
+  },
+  {
+    "instruction": "A 63-year-old man presents to the ambulatory medical clinic with symptoms of dysphagia and \u2018heartburn\u2019, which he states have become more troublesome over the past year. His past medical history is significant for hypertension and GERD. He takes lisinopril for hypertension and has failed multiple different therapies for his GERD. On physical exam, he is somewhat tender to palpation over his upper abdomen. Barium swallow demonstrates a subdiaphragmatic gastroesophageal junction, with herniation of the gastric fundus into the left hemithorax. Given the following options, what is the most appropriate next step in the management of this patient\u2019s underlying condition?",
+    "input": "Lifestyle modification,Combined antacid therapy,Continue on Omeprazole,Surgical gastropexy",
+    "output": "Surgical gastropexy"
+  },
+  {
+    "instruction": "A 45-year-old man comes to his primary-care doctor with his wife for a 4-week history of constipation. The patient reports that his bowel habits have changed from every day to every 3 or 4 days. He also now has to strain to pass stool. On further questioning, his wife has also noticed that he has seemed fatigued, with little interest in going on their usual afternoon walks. Medical history is notable for hypertension and hyperlipidemia, both managed medically. He was last seen for follow-up of these conditions 1 month ago. Physical examination is unremarkable. Which of the following is the cellular target of the medicine that is most likely responsible for this patient's symptoms?",
+    "input": "Angiotensin-II receptors in the membranes of vascular smooth muscle cells,Angiotensin-converting enzyme,Na+/Cl- cotransporter in the membranes of epithelial cells in the distal convoluted tubule,Na+/K+/2Cl- transporters in the membranes of epithelial cells in the ascending loop of Henle",
+    "output": "Na+/Cl- cotransporter in the membranes of epithelial cells in the distal convoluted tubule"
+  },
+  {
+    "instruction": "A 52-year-old man is brought to the emergency department for recurrent vomiting that began 5 hours ago. He describes the vomitus as bloody and containing black specks. He drinks 10\u201312 beers daily and has not seen a physician in 15 years. He appears pale. His temperature is 36.7\u00b0C (98.1\u00b0F), pulse is 122/min, and blood pressure is 85/59 mm Hg. Physical examination shows decreased radial pulses, delayed capillary refill, multiple spider angiomata, and a distended abdomen. He is oriented to person but not to place or time. Which of the following is most likely decreased in this patient in response to his current condition compared to a healthy adult?",
+    "input": "Systemic vascular resistance,Fractional tissue oxygen extraction,Carotid baroreceptor firing activity,Cardiac inotropy",
+    "output": "Carotid baroreceptor firing activity"
+  },
+  {
+    "instruction": "A 59-year-old man is brought to the emergency department with a history of black, tarry stools but denies vomiting of blood or abdominal pain. His family has noticed progressive confusion. History is significant for liver cirrhosis and alcoholism. His heart rate is 112/min, temperature is 37.1\u00b0C (98.7\u00b0F), and blood pressure is 110/70 mm Hg. On examination, he is jaundiced, lethargic, is oriented to person and place but not date, and has moderate ascites. Neurological examination reveals asterixis, and his stool is guaiac-positive. Liver function test are shown below:\nTotal albumin 2 g/dL\nProthrombin time 9 seconds\nTotal bilirubin 5 mg/dL\nAlanine aminotransferase (ALT) 100 U/L\nAspartate aminotransferase (AST) 220 U/L\nWhich of the following is a feature of this patient condition?",
+    "input": "Ammonia level is the best initial test to confirm the diagnosis,It is a diagnosis of exclusion,It only occurs in patients with cirrhosis,Electroencephalography (EEG) usually shows focal localising abnormality",
+    "output": "It is a diagnosis of exclusion"
+  },
+  {
+    "instruction": "A 75-year-old man presents to his physician with a 1-year history of dysphagia for solids. His more recent complaints include dysphagia for liquids as well. The patient states that he has no difficulty initiating swallowing but occasionally food is stuck in his throat. He does not complain of pain while swallowing but has noticed minor unintentional weight loss. The patient has no history of speech-related pain or nasal regurgitation. His family history is unremarkable. During the examination, the patient appears ill, malnourished, and slightly pale. He is not jaundiced nor cyanotic. Physical examination is unremarkable. A swallowing study reveals a small outpouching in the posterior neck (see image). Which nerve is most likely involved in this patient\u2019s symptoms?",
+    "input": "CN X,CN VII,CN IX,CN V",
+    "output": "CN X"
+  },
+  {
+    "instruction": "A 40-year-old man presents to the emergency department with altered mental status. He has a history of cirrhosis of the liver secondary to alcoholism. He started becoming more confused a few days ago and it has been getting gradually worse. His temperature is 98.8\u00b0F (37.1\u00b0C), blood pressure is 134/90 mmHg, pulse is 83/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals a distended abdomen that is non-tender. Neurological exam is notable for a confused patient and asterixis. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 3.3 mEq/L\nHCO3-: 22 mEq/L\nBUN: 20 mg/dL\nGlucose: 59 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 10.2 mg/dL\n\nWhich of the following is the best next treatment for this patient?",
+    "input": "Dextrose,Lactulose,Potassium,Rifaximin",
+    "output": "Potassium"
+  },
+  {
+    "instruction": "A 35-year-old woman presents to the physician because of episodes of difficulty swallowing for the past 3 months. She feels solid food getting stuck in her chest behind the sternum. She does not have any issues with liquids. She has no coughing or nasal regurgitation. She has no hoarseness or weight loss. She reports occasional heartburn that has lasted for about a year. Her past medical history is significant for asthma and eczema. She has no history of any serious illness and takes no medications. Her vital signs are within normal limits. Physical examination shows no abnormal findings. An endoscopic image of the esophagus is shown. Mucosal biopsy shows eosinophilic infiltration. Which of the following is the most appropriate pharmacotherapy at this time?",
+    "input": "Budesonide,Fluconazole,Nitroglycerin,Omeprazole",
+    "output": "Omeprazole"
+  },
+  {
+    "instruction": "A 28-year-old Caucasian woman presents to your office with recurrent abdominal cramping on her left side for 6 months. She additionally reports bloody diarrhea and tenesmus. You suspect ulcerative colitis. Which of the following findings would most strongly confirm your diagnosis?",
+    "input": "Involvement of terminal ileum,Noncaseating granulomas,Transmural inflammation,Continuous mucosal damage",
+    "output": "Continuous mucosal damage"
+  },
+  {
+    "instruction": "A 58-year-old woman presents to the emergency department because of worsening abdominal pain for the past 2 days. She reports nausea and vomiting and is unable to tolerate oral intake. She appears uncomfortable. Her temperature is 38.1\u00b0C (100.6\u00b0F), the pulse is 92/min, the respirations are 18/min, and the blood pressure is 132/85 mm Hg. Physical examination shows yellowish discoloration of her sclera. Her abdomen is tender in the right upper quadrant. There is no abdominal distention or organomegaly. The laboratory tests show the following results:\nHemoglobin 13 g/dL\nLeukocyte count 16,000/mm3\nUrea nitrogen 25 mg/dL\nCreatinine 2 mg/dL\nAlkaline phosphatase 432 U/L\nAlanine aminotransferase 196 U/L\nAspartate transaminase 207 U/L\nBilirubin  \nTotal 3.8 mg/dL\nDirect 2.7 mg/dL\nLipase 82 U/L\nUltrasound of the right upper quadrant shows dilated intrahepatic and extrahepatic bile ducts and multiple hyperechoic spheres within the gallbladder. The pancreas is not well visualized. Intravenous fluid resuscitation and antibiotic therapy with ceftriaxone and metronidazole are initiated. After 12 hours, the patient appears acutely ill and is not oriented to time. Her temperature is 39.1\u00b0C (102.4\u00b0F), the pulse is 105/min, the respirations are 22/min, and the blood pressure is 112/82 mm Hg. Which of the following is the most appropriate next step in management?",
+    "input": "Endoscopic retrograde cholangiopancreatography (ERCP),Laparoscopic cholecystectomy,Magnetic resonance cholangiopancreatography (MRCP),Percutaneous cholecystostomy",
+    "output": "Endoscopic retrograde cholangiopancreatography (ERCP)"
+  },
+  {
+    "instruction": "A 38-year-old woman presents to an urgent care clinic with the complaint of epigastric discomfort and cramping pain for the past 2 hours. She states that she has experienced similar pain in the past. These episodes occur mostly after meals and often subside several hours after she finishes eating. Due to this reason she mostly avoids eating. She says she has lost a few pounds in the last couple of months. She is a smoker and drinks alcohol occasionally. Past medical history is insignificant except for chronic knee pain, for which she takes over the counter painkillers. Her temperature is 37\u00b0C (98.6\u00b0F), respiratory rate is 16/min, pulse is 77/min, and blood pressure is 120/89 mm Hg. A physical abdominal exam is unremarkable, including examination of the abdomen. Which of the following is the most likely diagnosis?",
+    "input": "Choledocholithiasis,Pancreatitis,Gastric peptic ulcer,Gallbladder cancer",
+    "output": "Gastric peptic ulcer"
+  },
+  {
+    "instruction": "Eight weeks after starting a new weight-loss medication, a 43-year-old woman with obesity comes to the physician because of greasy diarrhea, excessive belching, and flatulence. She also complains of progressively worsening night-time vision. She has had no fever, chills, or vomiting. Physical examination shows dry, scaly skin on her extremities and face. Which of the following is the most likely mechanism of action of the drug she is taking?",
+    "input": "Stimulation of monoamine neurotransmitter release,Inhibition of serotonin reuptake,Stimulation of norepinephrine release,Inhibition of lipase",
+    "output": "Inhibition of lipase"
+  },
+  {
+    "instruction": "A 42-year-old man comes to the physician to establish care. He recently moved to the area and has not been to a primary care physician for over 5 years. He has no history of serious illness, but has intermittent bilateral knee pain for which he takes 650 mg acetaminophen every other day. He is married with three children and is sexually active with his wife. During the past 10 years, he has unsuccessfully tried to lose weight. He has smoked one half pack of cigarettes daily for 15 years. About 2\u20133 times per week he has 1\u20132 glasses of wine with dinner. He is 160 cm (5 ft 3 in) tall and weighs 93 kg (205 lb); BMI is 36.3 kg/m2. Vital signs are within normal limits. On abdominal examination, the liver is palpated 2 to 3 cm below the right costal margin. Laboratory studies show:\nHemoglobin 12.6 g/dL\nPlatelet count 360,000/mm3\nHemoglobin A1c 6.3%\nSerum\nFerritin 194 ng/mL\nTotal bilirubin 0.7 mg/dL\nAlkaline phosphatase 52 U/L\nAspartate aminotransferase 92 U/L\nAlanine aminotransferase 144 U/L\nHepatitis B surface antigen Negative\nHepatitis B core IgM antibody Negative\nHepatitis B surface antibody Positive\nHepatitis C antibody Negative\nAntinuclear antibody titers 1:20 (N = < 1:60)\nSmooth muscle antibody titers Negative\nAnti-LKM1 antibody titers Negative\nTransabdominal ultrasonography shows a mildly enlarged, diffusely hyperechoic liver. Which of the following is the most likely underlying cause of these liver abnormalities?\"",
+    "input": "Autoimmune liver damage,Congestive hepatopathy,Insulin resistance,Acetaminophen use",
+    "output": "Insulin resistance"
+  },
+  {
+    "instruction": "An investigator is studying the effects of different gastrointestinal regulatory substances. A healthy subject is asked to eat a meal at hour 0, and the pH of stomach contents and rate of stomach acid secretions are measured over the next 4 hours. Results of the study are shown. Which of the following mechanisms most likely contributes to the changes seen at point D in the graph?",
+    "input": "Increased vagal stimulation,Increased activity of D cells,Increased activity of enterochromaffin-like cells,Increased activity of I cells",
+    "output": "Increased activity of D cells"
+  },
+  {
+    "instruction": "A 45-year-old woman is brought to the emergency department by her husband due to upper abdominal pain, nausea, and vomiting for the past couple of hours. She had similar episodes in the past, which were often precipitated by food but resolved spontaneously. Her temperature is 38.3\u00b0C (101.0\u00b0F), heart rate is 96/min, blood pressure is 118/76 mm Hg, and respiratory rate is 16/min. Physical examination reveals tenderness over the right upper quadrant that is severe enough to make her stop breathing when deeply palpated in the area. Lab results show:\nLeukocyte count 18,000/mm3 with 79% neutrophils\nAspartate aminotransferase 67 IU/L\nAlanine aminotransferase 71 IU/L\nSerum amylase 46 U/L\nSerum Lipase 55 U/L\nSerum calcium 8.9 mg/dL\nUltrasonography of the abdomen is shown below. During the ultrasound exam, the patient complains of tenderness when the probe presses down on her right upper quadrant. Which of the following is the most likely cause of her pain?",
+    "input": "Acute calculous cholecystitis,Acute acalculous cholecystitis,Acute pancreatitis,Ascending cholangitis",
+    "output": "Acute calculous cholecystitis"
+  },
+  {
+    "instruction": "A 55-year-old man is brought to the emergency room by his wife for severe abdominal pain for the past 1 hour. He is unable to give more information about the nature of his pain. His wife says that he has peptic ulcer disease and is being treated with antacids without a good response. She adds that he vomited repeatedly  in the last couple of hours, his vomitus being brown/red in color. His temperature is 98.6\u00b0F (37\u00b0C), respiratory rate is 16/min, pulse is 97/min, and blood pressure is 100/68 mm Hg. A physical exam reveals a tense abdomen with a board like rigidity and positive rebound tenderness. An erect abdominal x-ray is ordered. Which of the following is the most likely diagnosis?",
+    "input": "Duodenal peptic ulcer,Gastric peptic ulcer,Pancreatitis,Perforated gastric peptic ulcer",
+    "output": "Perforated gastric peptic ulcer"
+  },
+  {
+    "instruction": "A 43-year-old male is brought to the emergency department after his son found him vomiting bright red blood. He is visibly intoxicated, and hospital records indicate a long history of alcohol substance abuse treated with antabuse (disulfiram). Vital signs include T 98.4, HR 89, BP 154/92, and RR 20. EGD is notable for mild esophagitis, and a longitudinal esophageal tear at the gastroesophageal junction, with no active bleeding. What is the next best course of action?",
+    "input": "Cyanoacrylate injection and ligation with banding, IV fluid hydration, and NPO,Conservative management with IV fluid hydration and observation,Esophageal manometry and impedance studies,Calcium channel blockage and Botox injection of the lower esophageal sphincter",
+    "output": "Conservative management with IV fluid hydration and observation"
+  },
+  {
+    "instruction": "A 12-year-old girl is brought to the emergency department 3 hours after the sudden onset of colicky abdominal pain and vomiting. The patient also manifests symptoms of redness and swelling of the face and lips without pruritus. Her symptoms began following a tooth extraction earlier in the morning. She had a similar episode of facial swelling after a bicycle accident 1 year ago, which resolved within 48 hours without treatment. Vital signs are within normal limits. Examination shows a nontender facial edema, erythema of the oral mucosa, and an enlarged tongue. The abdomen is soft, and there is tenderness to palpation over the lower quadrants. An abdominal ultrasound shows segmental thickening of the intestinal wall. Which of the following is the most likely cause of this patient's condition?",
+    "input": "Autoantibody-mediated tissue damage,Complement inhibitor deficiency,Drug-induced bradykinin excess,Mast-cell activation",
+    "output": "Complement inhibitor deficiency"
+  },
+  {
+    "instruction": "A 55-year-old caucasian male is transferred to a tertiary care hospital from a small county hospital where he presented with jaundice and severe abdominal pain that radiates to the back. While in the county hospital, he did not develop fever, and his vital signs were stable for the 48 hours he spent at there. Initial laboratory tests are given below:\nTotal bilirubin 7 mg/dL\nDirect bilirubin 6.4 mg/dL\nAST 100\nALT 40\nAlkaline phosphatase 480 IU/L\nGlucose 160 mg/dL\nThe patient\u2019s medical history is relevant for hypertension and diabetes mellitus. He admits to smoking cigarettes since his early teenage years. Moderate icterus is evident during physical examination, the abdomen is distended and dull to percussion, and there is periumbilical tenderness. Which of the following markers would you expect to be elevated in this patient?",
+    "input": "CA 125,Desmin,CA 27-29,CA 19-9",
+    "output": "CA 19-9"
+  },
+  {
+    "instruction": "A 38-year-old woman is brought to the emergency department because of three 1-hour episodes of severe, sharp, penetrating abdominal pain in the right upper quadrant. During these episodes, she has had nausea and vomiting. She has no diarrhea, dysuria, or hematuria and is asymptomatic between episodes. She has hypertension and hyperlipidemia. Seven years ago, she underwent resection of the terminal ileum because of severe Crohn's disease. She is 155 cm (5 ft 2 in) tall and weighs 79 kg (175 lb); BMI is 32 kg/m2. Her temperature is 36.9\u00b0C (98.5\u00b0F), pulse is 80/min, and blood pressure is 130/95 mm Hg. There is mild scleral icterus. Cardiopulmonary examination shows no abnormalities. The abdomen is soft, and there is tenderness to palpation of the right upper quadrant without guarding or rebound. Bowel sounds are normal. The stool is brown, and test for occult blood is negative. Laboratory studies show:\nHemoglobin 12.5 g/dL\nLeukocyte count 9,500 mm3\nPlatelet count 170,000 mm3\nSerum\nTotal bilirubin 4.1 mg/dL\nAlkaline phosphatase 348 U/L\nAST 187 U/L\nALT 260 U/L\nAbdominal ultrasonography shows a normal liver, a common bile duct caliber of 10 mm (normal < 6 mm) and a gallbladder with multiple gallstones and no wall thickening or pericholecystic fluid. Which of the following is the most likely cause of these findings?\"",
+    "input": "Acute hepatitis A,Choledocholithiasis,Cholecystitis,Pancreatitis\n\"",
+    "output": "Choledocholithiasis"
+  },
+  {
+    "instruction": "A 39-year-old woman comes to the physician because of fever, generalized fatigue, and chills for 1 week. She has been having dull right-side abdominal pain during this period. She has nausea. She has no history of travel outside the United States. She has type 1 diabetes mellitus. Current medications include insulin and an oral contraceptive. She appears ill. Her temperature is 40\u00b0C (104\u00b0F), pulse is 118/min, and blood pressure is 106/70 mm Hg. On examination, the liver is palpated 2\u20133 cm below the right costal margin and is tender. There are decreased breath sounds over the right lung base. The remainder of the examination shows no abnormalities. Laboratory studies show:\nHemoglobin 14.1 g/dL\nLeukocyte count 17,100/mm3\nSegmented neutrophils 74%\nEosinophils 1%\nLymphocytes 20%\nMonocytes 5%\nSerum\nGlucose 79 mg/dL\nCreatinine 1.1 mg/dL\nTotal bilirubin 0.9 mg/dL\nAlkaline phosphatase 180 U/L\nAST 69 U/L\nALT 100 U/L\nA right upper quadrant ultrasound is shown. Which of the following is the most appropriate next step in management?\"",
+    "input": "Discontinue the oral contraceptive,Obtain hepatoiminodiacetic acid scan,Perform endoscopic retrograde cholangiopancreatography,Perform percutaneous drainage\n\"",
+    "output": "Perform percutaneous drainage\n\""
+  },
+  {
+    "instruction": "A 30-year-old woman presents to the physician because of ongoing diarrhea for the past 1 month. She reports that diarrhea has been intermittently present for the past month. The stool is often loose and associated with blood and lower abdominal pain. She denies any recent travel history, and she works at a nursing home as a caretaker. She is not currently on any medications. Clinical examination shows mild tenderness in the suprapubic region, and there is no organomegaly. Findings on colonoscopy include patchy erythema and ulceration in the cecum, ascending, descending, and sigmoid colon. Mucosal biopsy shows colonic crypts with lymphocytic and neutrophilic infiltrates. What is the most likely diagnosis?",
+    "input": "Crohn\u2019s disease,Acute infective colitis,Pseudomembranous colitis,Irritable bowel syndrome",
+    "output": "Crohn\u2019s disease"
+  },
+  {
+    "instruction": "A 57-year-old homeless man is brought to the emergency department because of several episodes of hematemesis in the past 24 hours. His vital signs include a temperature of 37.1\u00b0C (98.8\u00b0F), pulse of 95/min, and blood pressure of 85/60 mm Hg. On physical examination, he appears confused and unable to give a complete history. He is noted to have jaundice, palpable firm liver, mild splenomegaly, and shifting dullness consistent with the presence of ascites. Liver function tests are as follows:\nSerum aspartate aminotransferase (AST)  97 U/L\nSerum alanine aminotransferase (ALT) 40 U/L\nSerum albumin 2.5 g/dL\nTotal bilirubin 3 mg/dL\nProthrombin time 20 seconds\nWhich of the following is the most likely cause of this patient's illness?",
+    "input": "Metabolic disorder,Substance abuse,Obesity, Hepatic venous outflow obstruction",
+    "output": "Substance abuse"
+  },
+  {
+    "instruction": "A 45-year-old woman with hypothyroidism comes to the physician because of progressive fatigue, lethargy, and epigastric pain after eating. Physical examination shows pale conjunctivae. Laboratory studies show decreased serum hemoglobin levels and increased serum gastrin levels. Esophagogastroduodenoscopy shows inflammation of the gastric body and fundus. A photomicrograph of a biopsy specimen taken from the gastric antrum is shown. Which of the following is the most likely cause of this patient's symptoms?",
+    "input": "Mucosal cell hyperplasia,Enterochromaffin-like cell hyperplasia,Parietal cell destruction,Chief cell destruction",
+    "output": "Parietal cell destruction"
+  },
+  {
+    "instruction": "On routine screening, a 62-year-old man is found to have positive fecal occult blood tests. He is asymptomatic, but his father died of large intestinal cancer. Abdominal and rectal exams are normal. A colonoscopy subsequently reveals a polyp in the descending colon but no other abnormalities. Excisional biopsy of the polyp shows 75% tubular architecture. Which of the following is the most likely diagnosis?",
+    "input": "Inflammatory polyp,Adenomatous polyp,Hamartomatous polyp,Colorectal cancer",
+    "output": "Adenomatous polyp"
+  },
+  {
+    "instruction": "A 20-year-old male college student presents to the emergency room at 4 AM in the morning with complaints of abdominal cramps, nausea, vomiting, and diarrhea for the past 2 hours. He was studying for his exams last night when he became hungry and ate some food from the afternoon after heating it for a while. He says that his symptoms began an hour after he ate the food. His temperature is 37\u00b0C (98.6\u00b0F), respiratory rate is 15/min, pulse is 106/min, and blood pressure is 90/78 mm Hg. A physical examination is within normal limits except for signs of dehydration. What is the most likely diagnosis?",
+    "input": "Cryptosporidiosis,C. difficile colitis,Bacillus cereus infection,Norovirus infection",
+    "output": "Bacillus cereus infection"
+  },
+  {
+    "instruction": "A 37-year-old woman presents to your office with heartburn. Following an extensive workup, you diagnose her with a duodenal ulcer secondary to H. pylori infection. You prescribe triple therapy of omeprazole, clarithromycin, and amoxicillin. Which of the following best describes the mechanism of action of omeprazole?",
+    "input": "Parasympathetic inhibition,Reversible block of H2 receptors,Inhibition of primary active transport,Inhibition of 50S ribosomal subunit",
+    "output": "Inhibition of primary active transport"
+  },
+  {
+    "instruction": "A 48-year-old man presents to the clinic with nausea, vomiting, fever, and pain in the right upper quadrant of his abdomen for the past 18 hours. He mentions that he has been experiencing intermittent episodes of pain at the same location over the last 3 months and that these episodes usually occur after a heavy meal and subside within 1 or 2 hours. On physical examination, his temperature is 38.5\u00b0C (101.3\u00b0F), pulse is 130/min, respirations are 24/min, and blood pressure is 130/84 mm Hg. On examination of the abdomen, tenderness is present over the right upper quadrant; palpation over the area produces an inspiratory pause. An urgent bedside ultrasonogram shows a dilated common bile duct stone, but no stone in the common bile duct or in the gallbladder. Laboratory results show the following:\nHemoglobin 15.4 g/dL (9.56 mmol/L)\nTotal leukocyte count 14,000/mm3 (17.4 x 10*9/L)\nSegmented neutrophils 70%\nLymphocytes 25%\nMonocytes 4%\nEosinophils 1%\nBasophils 0%\nPlatelet count 32,0000/mm3 (320 x 10*9/L)\nSerum bilirubin (total) 1.8 mg/dL (30.78 \u03bcmol/L)\nSerum bilirubin (direct) 1.1 mg/dL (18.81 \u03bcmol/L)\nSerum alanine aminotransferase 96 U/L\nSerum aspartate aminotransferase 88 U/L\nSerum alkaline phosphatase\n350 U/L (5.83 \u03bckat/L)\nWhich of the following is the most appropriate next step in management?",
+    "input": "Urgent laparoscopic cholecystectomy,Medical management followed by elective laparoscopic cholecystectomy,Urgent endoscopic retrograde cholangiopancreatography (ECRP),Cholecystotomy",
+    "output": "Urgent endoscopic retrograde cholangiopancreatography (ECRP)"
+  },
+  {
+    "instruction": "A 25-year-old woman presents generalized abdominal pain and vomiting for the past hour. She has also had watery diarrhea for several days with no blood or pus in the stools. She is taking an over-the-counter anti-diarrheal medication, which she cannot remember the name of, and drinking oral rehydration solution, which has helped a little. Her past medical history shows she was hospitalized 10 years ago for an appendectomy and 4 years ago for a fractured ulna following a motor vehicle accident. Vital signs are pulse is 104/min, blood pressure is 120/80 mm Hg, respiratory rate of 14/min with shallow breathing, and temperature is 36.7\u00b0C (98.0\u00b0F). On physical examination, pupils are constricted. Extremities are pale and cold. The abdomen is soft but mildly, diffusely tender to palpation with a palpable bladder. No rebound or guarding. Fingerstick blood glucose is 124 mg/dL. Laboratory tests are pending. A urinary catheter is placed, and intravenous fluids are started. Abdominal imaging shows no abnormalities. Which of the following is the next best step in the management of this patient?",
+    "input": "Administer naloxone,Scopolamine patch,Start dextrose infusion,Perform a gastric lavage",
+    "output": "Administer naloxone"
+  },
+  {
+    "instruction": "A 41-year-old man presents to the clinic with the complaints of abdominal discomfort and cramping for the past 4 months. He also mentions that he has grossly bloody stool and most of the time an urge to defecate. He has a history of bulimia with laxative abuse several years ago. He admits having lost about 5 lb in the past month. His temperature is 37\u00b0 C (98.6\u00b0 F), respiratory rate is 15/min, pulse is 77/min, and blood pressure is 105/86 mm Hg. On physical examination, a mild conjunctival pallor is evident, and the rectum is erythematous, indurated, and tender. Colonoscopy demonstrates continuous mucosal lesions throughout the rectum to the hepatic flexure of the colon. What is the most likely diagnosis?",
+    "input": "Ulcerative colitis,Celiac disease,Irritable bowel syndrome,Crohn\u2019s disease",
+    "output": "Ulcerative colitis"
+  },
+  {
+    "instruction": "A 54-year-old man comes to the clinic for management of his gastroesophageal reflux disease (GERD). He is currently on cimetidine for his condition and reports that his GERD initially improved. However, following his recent move to Michigan, he is experiencing more frequent episodes of chest pain (4-5 times a week). The pain is described as burning in quality and is concentrated around his epigastric region following food ingestion. It does not radiate anywhere and is alleviated when he takes antacids. A physical examination demonstrates a healthy male with unremarkable findings. He is subsequently prescribed a new medication for control of his symptoms. What is the most likely mechanism of action of this new medication?",
+    "input": "Irreversible inactivation of cyclooxygenase enzyme,Irreversible inhibition of H+/K+-ATPase at parietal cells,Reversible inhibition of H+/K+-ATPase at parietal cells,Reversible inhibition of histamine H2 receptors",
+    "output": "Irreversible inhibition of H+/K+-ATPase at parietal cells"
+  },
+  {
+    "instruction": "A 61-year-old woman presents to an outpatient clinic with fatigue and mild neck pain for a month. She adds that she is having difficulty swallowing. She denies trouble with her breathing but endorses 5\u201310 lb of unintentional weight loss over the past few months. On physical exam, the patient\u2019s fingernails appear flat and mild conjunctival pallor is noted. An upper barium esophagram shows an upper esophageal web. A complete blood count reveals:\nHb% 10 gm/dL\nTotal count (WBC) 11,000 /mm3\nDifferential count:\nNeutrophile 70%\nLymphocytes 25%\nMonocytes 5%\nESR 10 mm/hr\nWhat is the most likely diagnosis?",
+    "input": "Plummer-Vinson syndrome,Esophageal squamous cell carcinoma,Zenker\u2019s diverticulum,Achalasia",
+    "output": "Plummer-Vinson syndrome"
+  },
+  {
+    "instruction": "A 44-year-old obese African-American male presents to clinic with complaints of 3 days of fatigue and dark urine. He has had several similar episodes since birth, all of which resolved spontaneously. He has a 5-year history of poorly controlled type II diabetes mellitus and was started on glipizide one week ago. Prior to the episode, he felt well without any upper respiratory or gastrointestinal symptoms. He predominantly eats fast food, although he tried a new Lebanese restaurant about one month ago. Which of the following is the most likely cause of this patient's symptoms?",
+    "input": "Bacterial Infection,Food,Medication,Idiopathic",
+    "output": "Medication"
+  },
+  {
+    "instruction": "A hospitalized 34-year-old man with severe diarrhea and bloating for 1 month is diagnosed with celiac disease based on serology and duodenal biopsy. He has no history of any serious illnesses and takes no medications. He has no history of recent travel. His vital signs are within normal limits. Physical examination is unremarkable. At discharge from the hospital, he is given complete instructions for a strict gluten-free diet. Which of the following is the most appropriate recommendation for the temporary control of the severe diarrhea and bloating?",
+    "input": "Avoiding all dairy products,Diphenoxylate,Prednisone,Restriction of soy products",
+    "output": "Avoiding all dairy products"
+  },
+  {
+    "instruction": "A 46-year-old man comes to the physician with a 1-week history of yellowish discoloration of his eyes, generalized fatigue, and pruritus. He was diagnosed with ulcerative colitis 7 years ago. At the time of diagnosis, a pANCA test was also positive. Physical examination shows scleral icterus and multiple scratch marks on the trunk and extremities. Abdominal examination is unremarkable. Serum studies show a total bilirubin concentration of 3.2 mg/dL, direct bilirubin concentration of 2.5 mg/dL, and alkaline phosphatase level of 450 U/L. Magnetic resonance cholangiopancreatography shows focal areas of intrahepatic bile duct strictures alternating with areas of dilation. Histologic examination of a liver biopsy specimen is most likely to show which of the following findings?",
+    "input": "Periductal concentric scarring and fibrosis,Periportal lymphocytic infiltration and piecemeal necrosis,Irregular ductal glands lined by atypical and pleomorphic cells,Ductopenia and fibrotic degeneration of periportal hepatocytes",
+    "output": "Periductal concentric scarring and fibrosis"
+  },
+  {
+    "instruction": "A 56-year-old man recently diagnosed with cirrhosis secondary to alcohol use presents to the clinic for a follow up evaluation. He states that he has abstained from alcohol and attends a support group regularly. He has not taken any new medications or encountered any sick contacts. The patient's blood pressure is 110/70 mmHg, pulse is 65/min, and respirations are 15/min. His physical exam is grossly unremarkable. He has brought an gastroduodenoscopy report for review, which reveals that the patient has small esophageal varices with red spots. What is the next best step to prevent bleeding?",
+    "input": "Endoscopic sclerotherapy,Metoprolol,Nadolol,Repeat endoscopy",
+    "output": "Nadolol"
+  },
+  {
+    "instruction": "A 45-year-old woman comes to the physician because of fatigue, abdominal cramps, watery diarrhea, and a weight loss of 4 kg (8.8 lb) over the last 4 months. She has recently avoided drinking alcohol and eating spicy food because it worsens her diarrhea and causes episodes of heart palpitations and reddening of the face and neck. She takes lisinopril for hypertension. Her temperature is 36.5\u00b0C (97.7\u00b0F), pulse is 98/min, and blood pressure is 149/90 mm Hg. The abdomen is soft, and there is mild tenderness to palpation with no guarding or rebound. Laboratory studies show an increased urine 5-hydroxyindoleacetic acid concentration. Further evaluation of this patient will most likely show which of the following?",
+    "input": "Achlorhydria,Adrenal medullary mass,Multiple peptic ulcers,Pulmonic valve stenosis",
+    "output": "Pulmonic valve stenosis"
+  },
+  {
+    "instruction": "A previously healthy 52-year-old woman is brought to the emergency department after sustaining burns over 45% of her body in a house fire. On arrival, she is in acute distress but is fully oriented. Aggressive intravenous fluid resuscitation is begun and the patient is transferred to the intensive care unit of a burn center. 20 hours later, she has several large, tarry black stools and develops hypotension and tachycardia. Despite appropriate lifesaving measures, she dies. Which of the following is the most likely underlying cause of the patient's tarry black stools?",
+    "input": "Decreased prostaglandin synthesis,Erosion of tortuous submucosal arteriole,Bacterial colonization of the gastric antrum,Decreased gastric blood flow",
+    "output": "Decreased gastric blood flow"
+  },
+  {
+    "instruction": "A 57-year-old woman comes to the physician because of a 3-month history of fatigue. She also reports generalized itchiness that started approximately 2 months ago. Two weeks ago, she noticed yellowing of her eyes. She does not smoke or drink alcohol. She uses eyedrops for persistent dryness of the eyes. Her vital signs are within normal limits. Physical examination shows jaundice of the conjunctivae and skin. The mucous membranes of the mouth are dry. The abdomen is soft. The liver edge is palpable 3 cm below the right costal margin. There are generalized skin excoriations. Laboratory studies show:\nHemoglobin 15 g/dL\nLeukocyte count 7,700/mm3\nPlatelet count 332,000/mm3\nSerum\nGlucose 122 mg/dL\nTotal bilirubin 3.1 mg/dL\nDirect 2.5 mg/dL\nAlkaline phosphatase 452 U/L\nAST 155 U/L\nALT 168 U/L\nHepatitis B surface antigen negative\nHepatitis B core IgM antibody negative\nHepatitis B surface antibody positive\nHepatitis C antibody negative\nUltrasonography of the abdomen shows mildly increased echogenicity of the liver. Which of the following additional findings is most likely to be found in this patient?\"",
+    "input": "Inferior vena cava thrombosis,Cutaneous xanthomas,Increased CA 19-9 levels,Kayser-Fleischer rings\n\"",
+    "output": "Cutaneous xanthomas"
+  },
+  {
+    "instruction": "A 72-year-old Caucasian male presents to your office with dysphagia and halitosis. If this patient is also found to have cricopharyngeal muscle dysfunction, which of the following is the most likely cause of his presenting symptoms?",
+    "input": "Gastroesophageal reflux disease,Esophageal candidiasis,Meckel's diverticulum,Zenker's diverticulum",
+    "output": "Zenker's diverticulum"
+  },
+  {
+    "instruction": "A 59-year-old man presents to his primary care provider with fatigue. He has been seen in the emergency room 5 times in the past 2 years for acute alcohol intoxication. His past medical history is notable for diabetes mellitus and gout. He takes metformin, glyburide, and allopurinol. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 130/85 mmHg, pulse is 86/min, and respirations are 16/min. He is in no acute distress. A positive fluid wave is noted. The dorsal surface of the tongue is depapillated, and there are erythematous swollen patches at the oral commissures. A complete blood count and iron studies are reported below:\n\nHemoglobin: 12.1 g/dL\nHematocrit: 36%\nLeukocyte count: 6,000/mm^3 with normal differential\nPlatelet count: 170,000/mm^3\n\nMean corpuscular volume: 70 um^3\nIron: 250 ug/dL\nFerritin: 300 ng/mL\nTotal iron binding capacity: 200 mcg/dL^3\n\nWhich of the following findings is most likely to be seen in this patient?",
+    "input": "Erythroblasts with mitochondrial iron deposits,Erythrocytes lacking central pallor,Erythrocytes with a ring of relative pallor,Inclusions of denatured hemoglobin",
+    "output": "Erythroblasts with mitochondrial iron deposits"
+  },
+  {
+    "instruction": "A 34-year-old man comes to the physician because of a 3-week history of colicky abdominal pain and diarrhea. He has bowel movements 10\u201312 times daily; the stool contains blood and mucus. He constantly has the urge to defecate. His vital signs are within normal limits. Examination of the abdomen shows diffuse tenderness to palpation. Serum concentration of C-reactive protein is 20 mg/L (N<10). Colonoscopy shows a bleeding, ulcerated rectal mucosa with several pseudopolyps. Which of the following is this patient at greatest risk of developing?",
+    "input": "Hemolytic uremic syndrome,Oral ulcers,Colorectal cancer,Pancreatic cancer",
+    "output": "Colorectal cancer"
+  },
+  {
+    "instruction": "A 62-year-old man presents with bright red blood in his stool which occurred 2 times this week. He denies fever, weight loss, pain, pruritus or urinary symptoms. Past medical history is significant for gastroesophageal reflux disease, and recent appendicitis, status post laparoscopic appendectomy complicated by delirium tremens. His vitals are a temperature of 37.0\u00b0C (98.6\u00b0F), blood pressure of 130/80 mm Hg, pulse of 78/min, and respiratory rate of 12/min. Physical examination reveals a distended abdomen with shifting dullness on percussion. In addition, multiple purple spider web-like lesions are present on the chest and arms, which blanch when pressure is applied. Fecal occult blood test is negative. On anoscopy, a non-tender, dilated vascular protrusion is noted superior to the pectinate line. Which of the following is most likely true about this patient\u2019s current symptoms?",
+    "input": "This patient has peptic ulcer disease.,The vascular protrusion drains into the superior rectal vein.,The vascular protrusion drains into the inferior rectal vein.,Fecal leukocytes and a stool culture are required for diagnosis.",
+    "output": "The vascular protrusion drains into the superior rectal vein."
+  },
+  {
+    "instruction": "A 3-year-old boy presents with episodic diarrhea with malodorous stools, stunted growth, occasional abdominal cramps, and an itchy rash. His mother says that these symptoms developed approximately 2 years ago. The patient was exclusively breastfed up to the age of 7 months. Supplementary feeding was started with non-starchy vegetable followed by starchy vegetables, meat, fish, eggs, and bread. Bread and cookies were the last product to be introduced at the age of 12 months. The patient\u2019s mother tried to withdraw dairy products from the patient\u2019s diet because she heard that lactose can cause such symptoms, but it did not help. The patient\u2019s vital signs include: blood pressure 90/55 mm Hg, heart rate 101/min, respiratory rate 19/min, and temperature 36.3\u2103 (97.3\u2109). His weight is 11 kg (24.2 lb, -2 SD) and height is 90 cm (2 ft 11 in, -1 SD). On physical examination, the patient\u2019s skin is pale with a papulovesicular rash on his abdomen and back. There are a few aphthous ulcers in the oral cavity. The abdomen is distended but no tenderness to palpation. No hepatosplenomegaly. An immunological assay is performed and shows positive anti-transglutaminase and anti-endomysial antibodies. Which of the following changes would you most likely expect to see on intestinal biopsy in this patient?",
+    "input": "Granulomas in the submucous tissue,Crypt abscesses,Villous atrophy and crypt hypertrophy,Villous hyperplasia",
+    "output": "Villous atrophy and crypt hypertrophy"
+  },
+  {
+    "instruction": "A 32-year-old Caucasian woman is referred to a gastroenterologist by her family physician for 8 months of abdominal pain, foul-smelling diarrhea with floating, bulky stools, weight loss, and macrocytic anemia. Her personal history is relevant for allergic rhinitis. Physical examination shows grouped, erythematous papulovesicular lesions on her arms, torso, and abdomen. Which of the following is the most appropriate approach for the management of this patient?",
+    "input": "Amitriptyline,Octreotide,Gluten-free diet,Methysergide maleate",
+    "output": "Gluten-free diet"
+  },
+  {
+    "instruction": "A 49-year-old man comes to the physician because of a 1-week history of diarrhea and abdominal bloating. His stools are bulky, foul-smelling, and difficult to flush. Over the past 6 months, he has had recurrent dull epigastric pain that is triggered by meals and lasts for a few days. He drinks 6 to 8 beers daily. Abdominal examination shows mild epigastric tenderness with no rebound or guarding. A CT scan of the abdomen is shown. The structure indicated by the arrows is most likely lined by which of the following?",
+    "input": "Simple ductal epithelium,Granulation tissue,Pyogenic membrane,Columnar mucinous epithelium",
+    "output": "Granulation tissue"
+  },
+  {
+    "instruction": "A 35-year-old man comes to the physician because of episodes of difficulty swallowing for the past 3 months. He feels solid food getting stuck in his chest behind the sternum when he eats. Drinking does not cause any difficulty swallowing. He has no coughing or nasal regurgitation. He has no hoarseness or weight loss. He has had heartburn for 2 years with no response to high-dose omeprazole. His past medical history is also significant for asthma and eczema. He takes no medications except for omeprazole. His vital signs are within normal limits. Physical examination shows no abnormal findings. Which of the following best explains these findings?",
+    "input": "Achalasia,Diffuse esophageal spasm,Eosinophilic esophagitis,Esophageal reflux disease",
+    "output": "Eosinophilic esophagitis"
+  },
+  {
+    "instruction": "A previously healthy, 24-year-old man comes to the physician because of a 6-week history of loose, nonbloody stools. He also reports abdominal pain, intermittent nausea, and fever. He has not had vomiting, tenesmus, or rectal pain. His vital signs are within normal limits. Abdominal examination reveals tenderness of the right lower abdomen without rebound tenderness. Rectal exam is unremarkable. Laboratory studies show a leukocyte count of 14,800/mm3 and an erythrocyte sedimentation rate of 51 mm/h. Test of the stool for occult blood and stool studies for infection are negative. A CT scan of the abdomen shows mural thickening and surrounding fat stranding of discrete regions of the terminal ileum and transverse colon. A colonoscopy is performed and biopsy specimens of the affected areas of the colon are taken. Which of the following findings is most specific for this patient's condition?",
+    "input": "Neutrophilic inflammation of the crypts,Neutrophil-rich pseudomembranes,Formation of noncaseating granulomas,Presence of pseudopolyps",
+    "output": "Formation of noncaseating granulomas"
+  },
+  {
+    "instruction": "A 40-year old man presents to the clinic with vague upper abdominal pain that has been worsening for the last several days. He says that he often gets similar pain but less severe and that it worsens with meals. The pain sometimes radiates to his back. He recently lost 15 kg (33.6 lb) of weight secondary to his lack of appetite since his last visit 2 months ago. He admits to drinking alcohol almost every night since the age of 17. His temperature is 37.0\u00b0 C (98.6\u00b0F), respirations are 15/min, pulse is 67/min, and blood pressure is 122/98 mm Hg. Physical examination reveals moderate epigastric tenderness. An abdominal CT scan reveals calcifications as shown by the white arrows. Which of the following organs is affected in this patient?",
+    "input": "Pancreas,Jejunum,Duodenum,Gall bladder",
+    "output": "Pancreas"
+  },
+  {
+    "instruction": "A 23-year-old man comes to the clinic for yellowing of his eyes. The patient has been relatively healthy and just recently started \u201cintermittent fasting\u201d to try to lose weight. He recalls a similar episode 4 years ago when he was recovering from an emergency appendectomy. The patient denies smoking but endorses an episode of binge drinking 2 days ago. He is sexually active with both men and women. His physical examination is unremarkable besides scleral icterus. What is the most likely explanation for this patient\u2019s symptoms?",
+    "input": "Autoimmune-mediated fibrosis of biliary tract,Chronic viral infection of the liver,Decreased activity of UDP-glucuronosyltransferase,Defective bilirubin excretion",
+    "output": "Decreased activity of UDP-glucuronosyltransferase"
+  },
+  {
+    "instruction": "A 63-year-old man comes to the emergency department because of a 4-day history of lower abdominal pain, fever, and nausea. He has a history of constipation. His temperature is 39.1\u00b0C (102.4\u00b0C). Abdominal examination shows left lower quadrant tenderness with no guarding or rebound. Laboratory studies show a leukocyte count of 19,000/mm3. A CT scan of the abdomen shows segmental wall thickening of the descending colon with multiple diverticula and a 5.0-cm, low-attenuation pelvic lesion with air-fluid levels. CT-guided drainage of the fluid collection yields 250 mL of yellow-greenish fluid. Release of which of the following substances is most likely responsible for the formation of the drained lesion?",
+    "input": "Staphylococcal coagulase,Lipoteichoic acid,Interleukin-3,Lysosomal enzymes",
+    "output": "Lysosomal enzymes"
+  },
+  {
+    "instruction": "A 26-year-old man presents to the office complaining of persistent epigastric pain for the past 2 months. He states that his pain is worse a few hours after he eats. His father had similar symptoms. Past medical history is insignificant. He is a non-smoker and does not drink alcohol. The vital signs include blood pressure 120/90 mm Hg, heart rate 83/min, and temperature 37.0\u00b0C (98.6\u00b0F). Physical examination is insignificant except for mild epigastric tenderness. A metabolic panel reveals the following:\nSerum sodium 136 mEq/L\nSerum potassium 4.2 mEq/L\nCalcium 13.2 mg/dL\nBicarbonate 26 mEq/L\nUpper gastrointestinal endoscopy reveals multiple duodenal ulcers. Which of the following is the most likely diagnosis?",
+    "input": "Gastroesophageal reflux disease,Gastric adenocarcinoma, intestinal type,VIPoma,MEN1",
+    "output": "MEN1"
+  },
+  {
+    "instruction": "A 66-year-old man with high blood pressure, high cholesterol, and diabetes presents to the clinic with elevated liver function tests from baseline. He has a blood pressure of 136/92 mm Hg and a heart rate of 69/min. On physical examination, his heart sounds are regular and lung sounds are clear. Current medications include simvastatin, metformin, fenofibrate, hydrochlorothiazide, aspirin, glyburide, and lisinopril. Of these medications, which could contribute to the patient\u2019s transaminitis?",
+    "input": "Metformin,Simvastatin,Glyburide,Lisinopril",
+    "output": "Simvastatin"
+  },
+  {
+    "instruction": "A 65-year-old man comes to the physician because of progressively worsening fatigue for 6 months. During this time, he has also had shortness of breath and palpitations on exertion. He has noticed blood in his stools on three separate occasions in the past 4 months. He has type 2 diabetes mellitus and end-stage renal disease. He drinks two to four beers daily. He does not smoke. His pulse is 95/min and blood pressure is 120/70 mm Hg. Examination shows pale conjunctivae. The abdomen is soft with no organomegaly. Rectal examination is unremarkable. His hemoglobin concentration is 7.2 g/dL, hematocrit is 32%, and mean corpuscular volume is 68 \u03bcm3. Which of the following is the most likely underlying cause of this patient's bleeding?",
+    "input": "Inflammation in an outpouching of the colonic wall,Symptomatic enlargement of hemorrhoidal plexus,Chronic mucosal and submucosal inflammation of the colon,Arteriovenous malformation in the colonic wall",
+    "output": "Arteriovenous malformation in the colonic wall"
+  },
+  {
+    "instruction": "A 38-year-old woman comes to the physician because of persistent diarrhea and fatigue for 1 month. She has had up to 12 watery stools per day. Sometimes she awakens at night because she has to defecate. She has abdominal bloating and cramps. She has had a 2-kg weight loss in the past month. She returned from a trip to Costa Rica 7 weeks ago. She has a history of bronchial asthma and bulimia nervosa. She works as a nurse. She does not smoke and drinks 1\u20132 beers on the weekend. Current medications include fish oil, a multivitamin, and a salbutamol inhaler. Her temperature is 36.8\u00b0C (98.2\u00b0F), pulse is 65/min, and blood pressure is 100/75 mm Hg. Examination shows dry mucous membranes. Abdominal and rectal examinations are unremarkable. Laboratory studies show:\nHematocrit 46%\nLeukocyte Count 6,500/mm3\nPlatelet Count 220,000/mm3\nSerum\nNa+ 136 mEq/L\nK+ 3.2 mEq/L\nCl- 102 mEq/L\nHCO3- 33 mEq/L\nMg2+ 3.3 mEq/L\nUrea nitrogen 14 mg/dL\nCreatinine 0.8 mg/dL\nAbdominal ultrasound shows no abnormalities. Colonoscopy shows dark colored mucosa with interspersed white spots. Biopsies of colonic mucosa are obtained and sent for pathological evaluation. Which of the following is the most likely underlying cause of this patient's symptoms?\"",
+    "input": "Celiac disease,Carcinoid tumor,VIPoma,Medication abuse",
+    "output": "Medication abuse"
+  }
+]
